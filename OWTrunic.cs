@@ -17,7 +17,7 @@ namespace OWTrunic
         {
             var api = ModHelper.Interaction.TryGetModApi<ILocalizationAPI>("xen.LocalizationUtility");
             api.RegisterLanguage(this, "Trunic", "Assets/Translation.xml");
-            api.AddLanguageFont(this, "Trunic", "Assets/tunic", "Assets/Tunic.otf");
+            api.AddLanguageFont(this, "Trunic", "Assets/trunic_lite", "Assets/Trunic_Lite.otf");
         }
     }
 

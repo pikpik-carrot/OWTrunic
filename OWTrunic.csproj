@@ -37,6 +37,12 @@
     <None Update="Assets\Translation.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Update="Assets\trunic_lite">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Assets\trunic_lite.manifest">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="Assets\tunic">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>

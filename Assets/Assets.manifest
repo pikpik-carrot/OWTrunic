@@ -1,7 +1,7 @@
 ManifestFileVersion: 0
-CRC: 3197122210
+CRC: 3650117080
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: tunic
+      Name: trunic_lite
       Dependencies: {}

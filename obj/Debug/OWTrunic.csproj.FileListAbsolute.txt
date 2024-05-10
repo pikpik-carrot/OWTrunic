@@ -12,5 +12,6 @@ C:\Users\josh1\source\repos\OWTrunic\obj\Debug\OWTrunic.pdb
 C:\Users\josh1\AppData\Roaming\OuterWildsModManager\OWML\Mods\pikpik_carrot.OWTrunic\Assets\Assets
 C:\Users\josh1\AppData\Roaming\OuterWildsModManager\OWML\Mods\pikpik_carrot.OWTrunic\Assets\Assets.manifest
 C:\Users\josh1\AppData\Roaming\OuterWildsModManager\OWML\Mods\pikpik_carrot.OWTrunic\Assets\Translation.xml
-C:\Users\josh1\AppData\Roaming\OuterWildsModManager\OWML\Mods\pikpik_carrot.OWTrunic\Assets\tunic
-C:\Users\josh1\AppData\Roaming\OuterWildsModManager\OWML\Mods\pikpik_carrot.OWTrunic\Assets\tunic.manifest
+C:\Users\josh1\source\repos\OWTrunic\obj\Debug\OWTrunic.sourcelink.json
+C:\Users\josh1\AppData\Roaming\OuterWildsModManager\OWML\Mods\pikpik_carrot.OWTrunic\Assets\trunic_lite
+C:\Users\josh1\AppData\Roaming\OuterWildsModManager\OWML\Mods\pikpik_carrot.OWTrunic\Assets\trunic_lite.manifest
