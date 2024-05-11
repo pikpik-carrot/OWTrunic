@@ -12778,1163 +12778,1163 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>111</key>
-			<value>CREATE NEW PROFILE</value>
+			<value>krEtA` nU prOfIl</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>112</key>
-			<value>DELETE PROFILE</value>
+			<value>dilEt prOfIl</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>113</key>
-			<value>SWITCH TO</value>
+			<value>swic tU</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>114</key>
-			<value>RESET GAME</value>
+			<value>rEset gAm</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>115</key>
-			<value>Are you sure? This will delete all progress.</value>
+			<value>q@ yU SR? Dis wil dilEt lo` progres.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>116</key>
-			<value>Are you sure?</value>
+			<value>q@ yU SR?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>117</key>
-			<value>BACK</value>
+			<value>bak</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>118</key>
-			<value>Enabled</value>
+			<value>ne`bA`ld</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>119</key>
-			<value>Disabled</value>
+			<value>disAbld</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>120</key>
-			<value>GAMEPLAY</value>
+			<value>gAmplA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>121</key>
-			<value>INPUT</value>
+			<value>ni`put</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>122</key>
-			<value>GRAPHICS</value>
+			<value>grafiks</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>123</key>
-			<value>TEXT/AUDIO</value>
+			<value>tekst/do`qEqO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>124</key>
-			<value>Auto</value>
+			<value>to`qO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>125</key>
-			<value>Manual</value>
+			<value>manyUlu`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>126</key>
-			<value>Show</value>
+			<value>SO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>127</key>
-			<value>Hide</value>
+			<value>hId</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>128</key>
-			<value>Settings</value>
+			<value>setENz</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>129</key>
-			<value>Default Settings</value>
+			<value>dEfolt setENz</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>130</key>
-			<value>Full Screen Mode</value>
+			<value>fulskrEn mOd</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>131</key>
-			<value>Monitor</value>
+			<value>monitR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>132</key>
-			<value>Aspect Ratio</value>
+			<value>sa`pekt rASEqO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>133</key>
-			<value>Resolution</value>
+			<value>rezxlUSin</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>134</key>
-			<value>Anti Aliasing</value>
+			<value>na`tElA`qEsi`NE`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>135</key>
-			<value>Anti Alias Quality</value>
+			<value>na`tElA`qEsi` kwolitE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>136</key>
-			<value>Texture Quality</value>
+			<value>tekstR kwolitE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>137</key>
-			<value>Ocean Quality</value>
+			<value>SO`ni` kwolitE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>138</key>
-			<value>Foliage Quality</value>
+			<value>fOlEji` kwolitE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>139</key>
-			<value>Shadow Quality</value>
+			<value>SadO kwolitE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>140</key>
-			<value>SSAO Quality</value>
+			<value>se`. se`. qA. qO. kwolitE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>141</key>
-			<value>Gamma</value>
+			<value>gamx</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>142</key>
-			<value>VSync</value>
+			<value>vE- sENk</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>143</key>
-			<value>Monitor</value>
+			<value>monitR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>144</key>
-			<value>Dithering</value>
+			<value>diDRNE`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>145</key>
-			<value>Field of View</value>
+			<value>fEld vx` vEw</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>146</key>
-			<value>Graphics Preset</value>
+			<value>grafiks prEset</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>147</key>
-			<value>DO YOU WISH TO APPLY YOUR CHANGES?</value>
+			<value>dU yU wiS tU px`lI y* cAnjiz?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>150</key>
-			<value>Use Auto Boost</value>
+			<value>yUz to`qO bUst</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>151</key>
-			<value>Look Sensitivity</value>
+			<value>luk sensitivitE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>152</key>
-			<value>Flight Sensitivity</value>
+			<value>flIt sensitivitE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>153</key>
-			<value>Text Speed</value>
+			<value>tekst spEd</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>154</key>
-			<value>Meditate Until Next Loop</value>
+			<value>meditAt nx`til nekst lUp</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>155</key>
-			<value>Exit to Main Menu</value>
+			<value>ge`zit tU mAn menyU</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>156</key>
-			<value>APPLY</value>
+			<value>px`lI</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>157</key>
-			<value>DISCARD</value>
+			<value>disc@d</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>160</key>
-			<value>Jetpack Boost Mode</value>
+			<value>jetpak bUst mOd</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>161</key>
-			<value>Translator Equip Mode</value>
+			<value>tranzlAtR kE`wip mOd</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>162</key>
-			<value>Ship Log Rumor Mode</value>
+			<value>Sip log rUmR mOd</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>163</key>
-			<value>Ship Log Notifications</value>
+			<value>Sip log nOtifikASinz</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>164</key>
-			<value>Autopilot</value>
+			<value>to`pO`lI`ti`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>165</key>
-			<value>Button Prompts</value>
+			<value>bxtin prompts</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>170</key>
-			<value>Text Speed</value>
+			<value>tekst spEd</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>171</key>
-			<value>Freeze Time While Reading</value>
+			<value>frEz tIm wIl rEdEN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>172</key>
-			<value>Translator</value>
+			<value>tranzlAtR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>173</key>
-			<value>Ship Log</value>
+			<value>Sip log</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>174</key>
-			<value>Conversations</value>
+			<value>konvRsASinz</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>175</key>
-			<value>Master Volume</value>
+			<value>mastR volyUm</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>176</key>
-			<value>Language</value>
+			<value>lANgwij</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>180</key>
-			<value>Do you want to keep these settings?\\nReverting to previous settings in </value>
+			<value>dU yU wont tU kEp DEz setENz?\\nrEvRtEN tU prEvEsx` setENz ni` </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>181</key>
-			<value> seconds...</value>
+			<value> sekints...</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>182</key>
-			<value> second...</value>
+			<value> sekint...</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>183</key>
-			<value>Error: Profile names have a limit of </value>
+			<value>q#qR: prOfIl nAmz hav qx limit vx` </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>184</key>
-			<value> characters and cannot be a duplicate of an existing profile</value>
+			<value> k#ki`tRz na`d kanot bE qx dUplikit va` na` ge`zistEN prOfIl</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>185</key>
-			<value>Enter Profile Name</value>
+			<value>ne`tR prOfIl nAm</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>186</key>
-			<value>CREATE NEW PROFILE</value>
+			<value>krEtA` nU prOfIl</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>187</key>
-			<value>Delete</value>
+			<value>dilEt</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>188</key>
-			<value>Are You Sure?</value>
+			<value>q@ yU SR?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>190</key>
-			<value>Invert Player Look</value>
+			<value>ni`vRt plAqR luk</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>191</key>
-			<value>Invert Ship Look</value>
+			<value>ni`vRt Sip luk</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>192</key>
-			<value>Look Sensitivity</value>
+			<value>luk sensitivitE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>193</key>
-			<value>Flight Look Sensitivity</value>
+			<value>flIt luk sensitivitE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>194</key>
-			<value>Inner Dead Zone</value>
+			<value>ni`qR ded zOn</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>195</key>
-			<value>Outer Dead Zone</value>
+			<value>tW`qR ded zOn</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>196</key>
-			<value>Inverted</value>
+			<value>ni`vRtid</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>197</key>
-			<value>Normal</value>
+			<value>n*ml</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>198</key>
-			<value>Remap Controls</value>
+			<value>rEmap kxntrOls</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>200</key>
-			<value>&lt;color=orange&gt;(Hold)&lt;/color&gt;</value>
+			<value>&lt;color=orange&gt;(hOld)&lt;/color&gt;</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>201</key>
-			<value>&lt;color=orange&gt;(Press)&lt;/color&gt;</value>
+			<value>&lt;color=orange&gt;(pres)&lt;/color&gt;</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>202</key>
-			<value>Match Velocity</value>
+			<value>mac velositE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>203</key>
-			<value>Engage Autopilot</value>
+			<value>ne`gAj to`pO`lI`ti`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>204</key>
-			<value>Lock On</value>
+			<value>lok no`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>205</key>
-			<value>Flashlight</value>
+			<value>flaSlIt</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>206</key>
-			<value>Equip Scout Launcher</value>
+			<value>kE`wip skWt loncR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>207</key>
-			<value>View Map</value>
+			<value>vEw map</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>208</key>
-			<value>Free Look</value>
+			<value>frE luk</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>209</key>
-			<value>Equip Signalscope</value>
+			<value>kE`wip signlskOp</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>210</key>
-			<value>Unbuckle</value>
+			<value>nx`bxkl</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>211</key>
-			<value>Equip Translator</value>
+			<value>kE`wip tranzlAtR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>212</key>
-			<value>Fire Jetpack Booster</value>
+			<value>fIqR jetpak bUstR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>213</key>
-			<value>Roll</value>
+			<value>rOl</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>214</key>
-			<value>Jump</value>
+			<value>jxmp</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>215</key>
-			<value>   Wake Up</value>
+			<value>   wAk px`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>216</key>
-			<value>(Hold and Release)</value>
+			<value>(hOld na`d rilEs)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>217</key>
-			<value>Look Around</value>
+			<value>luk rx`nW`d</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>218</key>
-			<value>Move</value>
+			<value>mUv</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>220</key>
-			<value>Up Thrust</value>
+			<value>px` Trxst</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>221</key>
-			<value>Down Thrust</value>
+			<value>dWn Trxst</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>222</key>
-			<value>Down / Up Thrust</value>
+			<value>dWn / px` Trxst</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>223</key>
-			<value>Horizontal Thrust</value>
+			<value>h*zi`no`tl Trxst</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>224</key>
-			<value>Use Jetpack Booster   </value>
+			<value>yUz jetpak bUstR   </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>225</key>
-			<value>Reset</value>
+			<value>rEset</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>226</key>
-			<value>Rotational Thrust</value>
+			<value>rOtASinl Trxst</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>230</key>
-			<value>Put Away</value>
+			<value>pxt wx`qA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>231</key>
-			<value>Aim Launcher</value>
+			<value>mA` loncR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>232</key>
-			<value>Launch Scout</value>
+			<value>lonc skWt</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>233</key>
-			<value>Retrieve Scout</value>
+			<value>ritrEv skWt</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>234</key>
-			<value>Photo Mode</value>
+			<value>fOtO mOd</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>235</key>
-			<value>Launch Mode</value>
+			<value>lonc mOd</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>236</key>
-			<value>Forward Snapshot</value>
+			<value>f*wRd snapSot</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>237</key>
-			<value>Take Snapshot</value>
+			<value>tAk snapSot</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>238</key>
-			<value>Rearview Snapshot</value>
+			<value>r|vEw snapSot</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>239</key>
-			<value>Rotate Camera</value>
+			<value>rOtAt kamrx</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>240</key>
-			<value>Aim Camera</value>
+			<value>mA` kamrx</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>241</key>
-			<value>Remove Snapshot</value>
+			<value>rEmUv snapSot</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>250</key>
-			<value>Liftoff</value>
+			<value>liftof</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>251</key>
-			<value>Engage Autopilot</value>
+			<value>ne`gAj to`pO`lI`ti`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>252</key>
-			<value>Abort Autopilot</value>
+			<value>bx`t*` to`pO`lI`ti`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>253</key>
-			<value>Liftoff / Landing Camera</value>
+			<value>liftof / landEN kamrx</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>254</key>
-			<value>Landing Mode</value>
+			<value>landEN mOd</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>255</key>
-			<value>Cockpit View</value>
+			<value>kokpit vEw</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>256</key>
-			<value>Repair</value>
+			<value>rip#</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>257</key>
-			<value>Buckle Up</value>
+			<value>bxkl px`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>258</key>
-			<value>Raise Eject Cover</value>
+			<value>rAz jE`ke`t kxvR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>259</key>
-			<value>Open Hatch</value>
+			<value>pO`ni` hac</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>260</key>
-			<value>View Ship Log</value>
+			<value>vEw Sip log</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>261</key>
-			<value>Eject</value>
+			<value>jE`ke`t</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>269</key>
-			<value>SUIT: </value>
+			<value>sUt: </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>270</key>
-			<value>Leave</value>
+			<value>lEv</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>271</key>
-			<value>Roast Marshmallow</value>
+			<value>rOst m@SmelO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>272</key>
-			<value>Talk</value>
+			<value>tok</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>273</key>
-			<value>Talk to</value>
+			<value>tok tU</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>274</key>
-			<value> Activate Lift</value>
+			<value> ka`tivAt lift</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>275</key>
-			<value>Suit Up</value>
+			<value>sUt px`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>276</key>
-			<value>Use Camera</value>
+			<value>yUz kamrx</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>277</key>
-			<value>Use Scout Launcher</value>
+			<value>yUz skWt loncR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>278</key>
-			<value>Fly Model Ship</value>
+			<value>flI modl Sip</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>279</key>
-			<value>Use Satellite Camera</value>
+			<value>yUz satulIt kamrx</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>280</key>
-			<value>Enter Launch Codes</value>
+			<value>ne`tR lonc cOdz</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>281</key>
-			<value>Requires Launch Codes</value>
+			<value>rikwIzR` lonc cOdz</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>282</key>
-			<value>Light Campfire</value>
+			<value>lIt campfIqR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>283</key>
-			<value>Return Suit</value>
+			<value>ritRn sUt</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>284</key>
-			<value>Read</value>
+			<value>rEd</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>285</key>
-			<value>Play Recording</value>
+			<value>plA rik*dEN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>286</key>
-			<value>Repair</value>
+			<value>rip#</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>287</key>
-			<value>Begin Inflation</value>
+			<value>bEgin ni`flASin</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>288</key>
-			<value>Gather</value>
+			<value>gaDR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>289</key>
-			<value>Patch Suit Puncture</value>
+			<value>pac sUt pxNkcR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>290</key>
-			<value>Use Medkit and Refuel Jetpack</value>
+			<value>yUz medkit na`d rEfyUl jetpak</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>291</key>
-			<value>Use Medkit, Refuel Jetpack, and Clean Visor</value>
+			<value>yUz medkit, rEfyUl jetpak, na`d klEn vIzR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>292</key>
-			<value>Use Medkit</value>
+			<value>yUz medkit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>293</key>
-			<value>Use Medkit and Clean Visor</value>
+			<value>yUz medkit na`d klEn vIzR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>294</key>
-			<value>Refuel Jetpack</value>
+			<value>rEfyUl jetpak</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>295</key>
-			<value>Refuel Jetpack and Clean Visor</value>
+			<value>rEfyUl jetpak na`d klEn vIzR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>296</key>
-			<value>Clean Visor</value>
+			<value>klEn vIzR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>297</key>
-			<value>Health and Fuel Full</value>
+			<value>helT na`d fyUl ful</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>298</key>
-			<value>Jetpack Fuel Full</value>
+			<value>jetpak fyUl ful</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>299</key>
-			<value>Health Full</value>
+			<value>helT ful</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>300</key>
-			<value>Close Map</value>
+			<value>klOz map</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>301</key>
-			<value>Pan View</value>
+			<value>pan vEw</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>302</key>
-			<value>Rotate View</value>
+			<value>rotAt vEw</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>303</key>
-			<value>Zoom View</value>
+			<value>zUm vEw</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>304</key>
-			<value>Observe</value>
+			<value>bx`zRv</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>310</key>
-			<value>Pick Up </value>
+			<value>pik px` </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>311</key>
-			<value>Drop </value>
+			<value>drop </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>312</key>
-			<value>Remove </value>
+			<value>rEmUv </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>313</key>
-			<value>Insert </value>
+			<value>ni`sRt </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>314</key>
-			<value> Does Not Fit</value>
+			<value> dxz not fit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>315</key>
-			<value>Already Holding </value>
+			<value>lo`redE hOldEN </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>316</key>
-			<value>'Explain' Stone</value>
+			<value>'ke`splAn' stOn</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>317</key>
-			<value>'Eye of the universe' Stone</value>
+			<value>'qI vx` Dx yUnivRs' stOn</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>318</key>
-			<value>'Identify' Stone</value>
+			<value>'dI`ne`tifI' stOn</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>319</key>
-			<value>'Me' Stone</value>
+			<value>'mE' stOn</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>320</key>
-			<value>'Quantum Moon' Stone</value>
+			<value>'kwontxm mUn' stOn</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>321</key>
-			<value>'You' Stone</value>
+			<value>'yU' stOn</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>322</key>
-			<value>Scroll</value>
+			<value>skrOl</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>323</key>
-			<value>Projection Stone</value>
+			<value>prxjekSin stOn</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>324</key>
-			<value>Warp Core</value>
+			<value>w*p c*</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>330</key>
-			<value>Move Stick</value>
+			<value>mUv stik</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>331</key>
-			<value>Rotate Stick</value>
+			<value>rOtAt stik</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>332</key>
-			<value>Extend Stick</value>
+			<value>ke`stend stik</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>333</key>
-			<value>Eat</value>
+			<value>tE`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>334</key>
-			<value>Toss</value>
+			<value>tos</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>335</key>
-			<value>Put Away</value>
+			<value>put wx`qA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>336</key>
-			<value>Extinguish</value>
+			<value>ke`stENgwiS</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>337</key>
-			<value>Replace</value>
+			<value>riplAs</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>340</key>
-			<value>Aim Translator</value>
+			<value>mA` tranzlAtR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>341</key>
-			<value>Put Away</value>
+			<value>put wx`qA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>342</key>
-			<value>Translate</value>
+			<value>tranzlAtR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>343</key>
-			<value>Scroll Text</value>
+			<value>skrol tekst</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>344</key>
-			<value>Page Text</value>
+			<value>pAj tekst</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>345</key>
-			<value>&lt;!&gt; Too close to target text &lt;!&gt;</value>
+			<value>&lt;!&gt; tU klOs tU t@git tekst &lt;!&gt;</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>346</key>
-			<value>&lt;!&gt; Untranslated Nomai recording &lt;!&gt;</value>
+			<value>&lt;!&gt; nx`tranzlAtid nOmI rik*dEN &lt;!&gt;</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>347</key>
-			<value>&lt;!&gt; Untranslated Nomai writing &lt;!&gt;</value>
+			<value>&lt;!&gt; nx`tranzlAtid nOmI rItEN &lt;!&gt;</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>350</key>
-			<value>Put Away</value>
+			<value>put wx`qA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>351</key>
-			<value>Zoom In</value>
+			<value>zUm ni`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>352</key>
-			<value>Zoom Level</value>
+			<value>zUm levl</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>353</key>
-			<value>Change Frequency</value>
+			<value>cAnj frEkwensE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>360</key>
-			<value>Leave Ship Log</value>
+			<value>lEv Sip log</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>361</key>
-			<value>Zoom View</value>
+			<value>zUm vEw</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>362</key>
-			<value>Map Mode</value>
+			<value>map mOd</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>363</key>
-			<value>Find in Map Mode</value>
+			<value>fInd ni` map mOd</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>364</key>
-			<value>View Entry</value>
+			<value>vEw ne`trE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>365</key>
-			<value>Skip</value>
+			<value>skip</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>366</key>
-			<value>Remove HUD Marker</value>
+			<value>rimUv hxd m@kR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>367</key>
-			<value>Mark Location On HUD</value>
+			<value>m@k lOkASin no` hxd</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>368</key>
-			<value>View Rumored Entry</value>
+			<value>vEw rUmRd ne`trE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>369</key>
-			<value>View Rumor</value>
+			<value>vEw rUmR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>370</key>
-			<value>Back to Map</value>
+			<value>bak tU map</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>371</key>
-			<value>View Entries</value>
+			<value>vEw ne`trEz</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>372</key>
-			<value>Rumor Mode</value>
+			<value>rUmR mOd</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>373</key>
-			<value>Find In Rumor Mode</value>
+			<value>fInd ni` rUmR mOd</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>374</key>
-			<value>No discoveries yet.</value>
+			<value>nO diskxvRzE` yet.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>375</key>
-			<value>Scroll Text</value>
+			<value>skrOl tekst</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>380</key>
-			<value>Leave Menu</value>
+			<value>lEv menyU</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>381</key>
-			<value>Swap Tab</value>
+			<value>swop tab</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>382</key>
-			<value>PRESS A TO START</value>
+			<value>pres qA tU st@t</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>383</key>
-			<value>PRESS </value>
+			<value>pres </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>384</key>
-			<value> TO START</value>
+			<value> tU st@t</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>400</key>
-			<value>SURFACE INTEGRITY: </value>
+			<value>sRfis ni`tegritE: </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>401</key>
-			<value>FUEL LEVEL CRITICAL</value>
+			<value>fyUl levl kritikl</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>402</key>
-			<value>% FUEL REMAINING</value>
+			<value>% fyUl rimAnEN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>403</key>
-			<value>VITALS CRITICAL</value>
+			<value>vItlz kritikl</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>404</key>
-			<value>VITALS LOW</value>
+			<value>vItlz lO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>405</key>
-			<value> SECONDS OXYGEN REMAINING</value>
+			<value> sekints ko`sijin rimAnEN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>406</key>
-			<value> MINUTES OXYGEN REMAINING</value>
+			<value> minits ko`sijin rimAnEN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>410</key>
-			<value>FREQUENCY:</value>
+			<value>frEkwensE:</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>411</key>
-			<value>EXIT SHIP TO REPAIR</value>
+			<value>ge`zit Sip tU rip#</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>412</key>
-			<value>HAZARD</value>
+			<value>hazRd</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>413</key>
-			<value>ERROR: DUPLICATE SIGNAL</value>
+			<value>q#qR: dUplikit signl</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>414</key>
-			<value>MULTIPLE MARKERS</value>
+			<value>mxltipl m@kRz</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>415</key>
-			<value>SHIP LOG UPDATED</value>
+			<value>Sip log px`dAtid</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>416</key>
-			<value> (NEW)</value>
+			<value> (nU)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>420</key>
-			<value>Launch Codes: --|-..|-.</value>
+			<value>lonc cOdz: --|-..|-.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>421</key>
-			<value>Eye Coordinates: </value>
+			<value>qI kOd*`ni`ti`s: </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>430</key>
-			<value>WARNING: FUEL DEPLETED\\nUSING OXYGEN AS PROPELLANT</value>
+			<value>w*nEN: fyUl diplEtid\\nyUzEN ko`sijin za` prxpelint</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>431</key>
-			<value>REFUELING</value>
+			<value>rEfyUlEN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>432</key>
-			<value>HEALING</value>
+			<value>hElEN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>433</key>
-			<value>HEALING AND REFUELING</value>
+			<value>hElEN na`d rEfyUlEN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>434</key>
-			<value>TREES DETECTED — OXYGEN TANK REFILLED</value>
+			<value>trEz ditektid - ko`sijin tANk rEfild</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>435</key>
-			<value>OXYGEN TANK REFILLED</value>
+			<value>ko`sijin tANk rEfild</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>436</key>
-			<value>SUIT PUNCTURE DETECTED</value>
+			<value>sUt pxNkcR ditektid</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>440</key>
-			<value>FREQUENCY DISCOVERED:</value>
+			<value>frEkwensE diskxvRd:</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>441</key>
-			<value>SIGNAL IDENTIFIED:</value>
+			<value>signl dI`ne`tifId:</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>442</key>
-			<value>UNABLE TO PINPOINT LOCATION</value>
+			<value>nx`bA`l tU pinpYnt lOkASin</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>443</key>
-			<value>CONNECTION WITH SCOUT IS LOST</value>
+			<value>kxnekSin wiT skWt zi` lost</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>444</key>
-			<value>RETURNING TO SOLAR SYSTEM</value>
+			<value>rEtRnEN tU sOlR sistm</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>445</key>
-			<value>HEADLIGHTS ON</value>
+			<value>hedlIts no`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>446</key>
-			<value>HEADLIGHTS OFF</value>
+			<value>hedlIts fo`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>447</key>
-			<value>SCOUT LAUNCH OBSTRUCTED</value>
+			<value>skWt lonc bx`strxktid</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>450</key>
-			<value>SATELLITE NODE</value>
+			<value>satilIt nOd</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>451</key>
-			<value>UPPER HULL</value>
+			<value>px`qR hul</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>452</key>
-			<value>COCKPIT</value>
+			<value>kokpit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>453</key>
-			<value>PORT HULL</value>
+			<value>p*t hul</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>454</key>
-			<value>LANDING GEAR</value>
+			<value>landEN g|</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>455</key>
-			<value>STARBOARD HULL</value>
+			<value>st@b*d hul</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>456</key>
-			<value>AUTOPILOT</value>
+			<value>to`pO`lI`ti`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>457</key>
-			<value>FUEL TANK</value>
+			<value>fyUl tANk</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>458</key>
-			<value>ARTIFICIAL GRAVITY</value>
+			<value>t@`fi`Si`l gravitE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>459</key>
-			<value>HEADLIGHTS</value>
+			<value>hedlIts</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>460</key>
-			<value>LANDING CAMERA</value>
+			<value>landEN kamrx</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>461</key>
-			<value>PORT THRUSTER BANK</value>
+			<value>p*t TrxstR bANk</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>462</key>
-			<value>ELECTRICAL SYSTEMS</value>
+			<value>li`ke`trikl sistms</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>463</key>
-			<value>OXYGEN TANK</value>
+			<value>ko`sijin tANk</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>464</key>
-			<value>REACTOR</value>
+			<value>rEka`tR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>465</key>
-			<value>STARBOARD THRUSTER BANK</value>
+			<value>st@b*d TrxstR bANk</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>466</key>
-			<value>UNKNOWN</value>
+			<value>nx`nOn</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>480</key>
-			<value>STAGE 1: ALIGNING FLIGHT TRAJECTORY</value>
+			<value>stAj 1: lx`nI`NE` flIt trxjektRqE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>481</key>
-			<value>STAGE 2: ACCELERATING TOWARD DESTINATION</value>
+			<value>stAj 2: ki`selRtA`NE` t*d destinASin</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>482</key>
-			<value>STAGE 3: FIRING RETRO-ROCKETS</value>
+			<value>stAj 3: fIqRNE` retrO- rokits</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>483</key>
-			<value>MATCHING VELOCITY</value>
+			<value>macEN velositE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>484</key>
-			<value>VELOCITY MATCHED</value>
+			<value>velositE mact</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>485</key>
-			<value>AUTOPILOT ABORTED</value>
+			<value>to`pO`lI`ti` bx`t*`di`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>486</key>
-			<value>VELOCITY MATCH ABORTED</value>
+			<value>velositE mac bx`t*`di`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>487</key>
-			<value>AUTOPILOT ABORTED: TOO CLOSE TO TARGET</value>
+			<value>to`pO`lI`ti` bx`t*`di`: tU klOs tU t@git</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>488</key>
-			<value>AUTOPILOT COMPLETE: UNDERSHOT TARGET</value>
+			<value>to`pO`lI`ti` kxmplEt: nx`dRSot t@git</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>489</key>
-			<value>AUTOPILOT COMPLETE</value>
+			<value>to`pO`lI`ti` kxmplEt</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>500</key>
-			<value>RESUME</value>
+			<value>rizUm</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>501</key>
-			<value>QUIT</value>
+			<value>kwit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>502</key>
-			<value>QUIT TO MAIN MENU\\n\\n(ALL PROGRESS WILL BE LOST)</value>
+			<value>kwit tU mAn menyU\\n\\n(lo` progres wil bE lost)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>503</key>
-			<value>RESET LOOP AND QUIT TO MAIN MENU</value>
+			<value>rEset lUp na`d kwit tU mAn menyU</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>504</key>
-			<value>MEDITATE UNTIL NEXT LOOP</value>
+			<value>meditAt nx`til nekst lUp</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>505</key>
-			<value>SIGN IN</value>
+			<value>sIn ni`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>506</key>
-			<value>RESET TO VESSEL AND QUIT TO MAIN MENU</value>
+			<value>rEset tU vesl na`d kwit tU mAn menyU</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>510</key>
-			<value>PAUSED</value>
+			<value>pozd</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>511</key>
-			<value>&lt;color=orange&gt;Outer Wilds&lt;/color&gt; is best experienced with a game pad...</value>
+			<value>&lt;color=orange&gt;tW`qR wIldz&lt;/color&gt; zi` best ke`sp|qEne`st wiT qx gAm pad...</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>520</key>
-			<value>Controller disconnected.\\nPlease reconnect your controller.</value>
+			<value>cxntrOlR diskxnektid.\\nplEz rEkxnekt y* cxntrOlR.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>521</key>
-			<value>Current user signed out.\\nPlease sign in again to continue.</value>
+			<value>kRne`t yUzR sInd tW`.\\nplEz sIn ni` tU cxntinyU.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>522</key>
-			<value>Enter text...</value>
+			<value>ne`tR tekst...</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>523</key>
-			<value>USER:</value>
+			<value>yUzR:</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>524</key>
-			<value>Profile Management</value>
+			<value>prOfIl manijmint</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>525</key>
@@ -13942,507 +13942,507 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>550</key>
-			<value>Interact</value>
+			<value>ni`tRka`t</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>551</key>
-			<value>Jump</value>
+			<value>jxmp</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>552</key>
-			<value>Match Velocity</value>
+			<value>mac velositE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>553</key>
-			<value>Mark Entry</value>
+			<value>m@k ne`trE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>554</key>
-			<value>Cancel</value>
+			<value>kansl</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>555</key>
-			<value>Signalscope</value>
+			<value>signlskOp</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>556</key>
-			<value>Ship Log Mode</value>
+			<value>Sip log mOd</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>557</key>
-			<value>Lock On</value>
+			<value>lok no`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>558</key>
-			<value>Flashlight</value>
+			<value>flaSlIt</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>559</key>
-			<value>Roll</value>
+			<value>rOl</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>560</key>
-			<value>Walk</value>
+			<value>wok</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>561</key>
-			<value>Rearview Snapshot</value>
+			<value>r|vEw snapSot</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>562</key>
-			<value>Scout</value>
+			<value>skWt</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>563</key>
-			<value>Scope View</value>
+			<value>skOp vEw</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>564</key>
-			<value>Translate</value>
+			<value>tranzlAt</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>565</key>
-			<value>Map</value>
+			<value>map</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>566</key>
-			<value>Pause</value>
+			<value>poz</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>567</key>
-			<value>Look / Move</value>
+			<value>luk / mUv</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>568</key>
-			<value>Default</value>
+			<value>dEfolt</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>569</key>
-			<value>Southpaw</value>
+			<value>sWTpo</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>570</key>
-			<value>Up / Down / Zoom</value>
+			<value>px` / dWn / zUm</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>571</key>
-			<value>Forward</value>
+			<value>f*wRd</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>572</key>
-			<value>Backward</value>
+			<value>bakwRd</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>573</key>
-			<value>Left</value>
+			<value>left</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>574</key>
-			<value>Right</value>
+			<value>rIt</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>575</key>
-			<value>Thrust Up</value>
+			<value>Trxst px`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>576</key>
-			<value>Thrust Down</value>
+			<value>Trxst dWn</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>577</key>
-			<value>Retrieve Scout</value>
+			<value>ritrEv skWt</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>578</key>
-			<value>Change Frequency</value>
+			<value>cAnj frEkwensE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>579</key>
-			<value>Signalscope Zoom</value>
+			<value>signlskOp zUm</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>580</key>
-			<value>Map Zoom</value>
+			<value>map zUm</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>581</key>
-			<value>Ship Log Zoom</value>
+			<value>Sip log zUm</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>582</key>
-			<value>Scout Camera Up / Down</value>
+			<value>skWt kamrx px` / dWn</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>583</key>
-			<value>Scout Camera Left / Right</value>
+			<value>skWt kamrx left / rIt</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>584</key>
-			<value>Translator Scroll</value>
+			<value>tranzlAtR skrOl</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>585</key>
-			<value>Translator Page</value>
+			<value>tranzlAtR pAj</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>586</key>
-			<value>Autopilot</value>
+			<value>to`pO`lI`ti`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>587</key>
-			<value>Ship Log Scroll</value>
+			<value>Sip log skrOl</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>588</key>
-			<value>Free Look</value>
+			<value>frE luk</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>589</key>
-			<value>Scout Mode</value>
+			<value>skWt mOd</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>600</key>
-			<value>Sun Station</value>
+			<value>sxn stASin</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>601</key>
-			<value>Ash Twin</value>
+			<value>Sa` twin</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>602</key>
-			<value>Ember Twin</value>
+			<value>me`bR twin</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>603</key>
-			<value>Hourglass Twins</value>
+			<value>qWgR`las twinz</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>604</key>
-			<value>Timber Hearth</value>
+			<value>timbR h@T</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>605</key>
-			<value>Brittle Hollow</value>
+			<value>britl holO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>606</key>
-			<value>Hollow's Lantern</value>
+			<value>holOz lantRn</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>607</key>
-			<value>Giant's Deep</value>
+			<value>jIni`ts dEp</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>608</key>
-			<value>Orbital Probe Cannon</value>
+			<value>b*`ti`l prOb canin</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>609</key>
-			<value>Control Module</value>
+			<value>kxntrOl mojl</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>610</key>
-			<value>Launch Module</value>
+			<value>lonc mojl</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>611</key>
-			<value>Probe Tracking Module</value>
+			<value>prOb trakEN mojl</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>612</key>
-			<value>Dark Bramble</value>
+			<value>d@k brambl</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>613</key>
-			<value>The Interloper</value>
+			<value>DE ni`tRlOpR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>614</key>
-			<value>White Hole</value>
+			<value>wIt hOl</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>615</key>
-			<value>Quantum Moon</value>
+			<value>kwontxm mUn</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>616</key>
-			<value>Sun</value>
+			<value>sxn</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>617</key>
-			<value>The Attlerock</value>
+			<value>DE ta`lrok</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>618</key>
-			<value>The Eye of the universe</value>
+			<value>DE qI vx` Dx yUnivRs</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>650</key>
-			<value>ESCAPE POD 1</value>
+			<value>eskAp pod 1</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>651</key>
-			<value>ESCAPE POD 2</value>
+			<value>eskAp pod 2</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>652</key>
-			<value>ESCAPE POD 3</value>
+			<value>eskAp pod 3</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>653</key>
-			<value>ARKOSE</value>
+			<value>k@`sO`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>654</key>
-			<value>GALENA</value>
+			<value>gxlEnx</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>655</key>
-			<value>TEPHRA</value>
+			<value>tefrx</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>656</key>
-			<value>GROVE SHARD</value>
+			<value>grOv S@d</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>657</key>
-			<value>MUSEUM SHARD</value>
+			<value>mEwsEmx` S@d</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>658</key>
-			<value>TOWER SHARD</value>
+			<value>tWqR S@d</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>659</key>
-			<value>CAVE SHARD</value>
+			<value>kAv S@d</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>660</key>
-			<value>ISLAND SHARD</value>
+			<value>lI`ni`d S@d</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>661</key>
-			<value>QUANTUM MOON</value>
+			<value>kwontxm mUn</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>662</key>
-			<value>CHERT</value>
+			<value>cRt</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>663</key>
-			<value>ESKER</value>
+			<value>se`kR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>664</key>
-			<value>FELDSPAR</value>
+			<value>feldsp@</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>665</key>
-			<value>GABBRO</value>
+			<value>gabrO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>666</key>
-			<value>RIEBECK</value>
+			<value>rIbek</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>667</key>
-			<value>SOLANUM</value>
+			<value>sOlxnxm</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>668</key>
-			<value>WHITE HOLE</value>
+			<value>wIt hOl</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>669</key>
-			<value>WHITE HOLE CORE</value>
+			<value>wIt hOl k*</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>680</key>
-			<value>UNIDENTIFIED</value>
+			<value>nx`dI`ne`tifId</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>681</key>
-			<value>OUTER WILDS VENTURES</value>
+			<value>tW`qR wIldz ventRz</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>682</key>
-			<value>QUANTUM FLUCTUATIONS</value>
+			<value>kwontxm flxktUSA`ni`z</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>683</key>
-			<value>DISTRESS BEACON</value>
+			<value>distres bEkin</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>684</key>
-			<value>WHITE HOLE</value>
+			<value>wIt hOl</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>685</key>
-			<value>HIDE AND SEEK</value>
+			<value>hId na`d sEk</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>700</key>
-			<value>SUN STATION</value>
+			<value>sxn stASin</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>701</key>
-			<value>ASH TWIN</value>
+			<value>Sa` twin</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>702</key>
-			<value>EMBER TWIN</value>
+			<value>me`bR twin</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>703</key>
-			<value>THE HOURGLASS TWINS</value>
+			<value>DE qWgR`las twinz</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>704</key>
-			<value>TIMBER HEARTH</value>
+			<value>timbR h@T</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>705</key>
-			<value>BRITTLE HOLLOW</value>
+			<value>britl holO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>706</key>
-			<value>HOLLOW'S LANTERN</value>
+			<value>holOz lantRn</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>707</key>
-			<value>GIANT'S DEEP</value>
+			<value>jIni`ts dEp GIANT'S DEEP</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>708</key>
-			<value>CONTROL MODULE</value>
+			<value>kxntrOl mojl</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>709</key>
-			<value>LAUNCH MODULE</value>
+			<value>lonc mojl</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>710</key>
-			<value>PROBE TRACKING MODULE</value>
+			<value>prOb trakEN mojl</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>711</key>
-			<value>DARK BRAMBLE</value>
+			<value>d@k brambl</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>712</key>
-			<value>THE INTERLOPER</value>
+			<value>DE ni`tRlOpR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>713</key>
-			<value>WHITE HOLE</value>
+			<value>wIt hOl</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>714</key>
-			<value>QUANTUM MOON</value>
+			<value>kwontxm mUn</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>715</key>
-			<value>SUN</value>
+			<value>sxn</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>716</key>
-			<value>THE ATTLEROCK</value>
+			<value>DE ta`lrok</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>717</key>
-			<value>THE EYE OF THE UNIVERSE</value>
+			<value>DE qI vx` Dx yUnivRs</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>718</key>
-			<value>SCOUT</value>
+			<value>skWt</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>719</key>
-			<value>YOU ARE HERE</value>
+			<value>yU q@ h|</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>720</key>
-			<value>SHIP</value>
+			<value>Sip</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>730</key>
-			<value>PLANETARY CHART of the OUTER WILDS</value>
+			<value>planit#qE c@t vx` DE tW`qR wIldz</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>731</key>
-			<value>OUTER WILDS VENTURES</value>
+			<value>tW`qR wIldz ventRz</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>732</key>
-			<value>LITTLE SCOUT</value>
+			<value>litl skWt</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>733</key>
-			<value>DETECT HAZARDS</value>
+			<value>ditekt hazRdz</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>734</key>
-			<value>ILLUMINATE DARK AREAS</value>
+			<value>li`mU`ni`tA` d@k q#qEzx`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>735</key>
-			<value>SEE BEYOND THE HORIZON</value>
+			<value>sE bEno`d Dx hRzI`ni`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>736</key>
-			<value>TEST THE ENVIRONMENT</value>
+			<value>test DE ne`vIrinmint</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>737</key>
-			<value>PRESENTS</value>
+			<value>prizents</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>738</key>
-			<value>POSTCARDS FROM ORBIT</value>
+			<value>pOstk@dz frxm b*`ti`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>739</key>
-			<value>This projector is linked to our "Sky Shutter" satellite, which is currently orbiting Timber Hearth.</value>
+			<value>Dis prxjektR zi lENkt tU q@ "skI SxtR" satilIt, wic zi` kRni`tlE b*`ti`NE` timbR h@T.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>740</key>
-			<value>The satellite is equipped with two onboard cameras. See if you can take a snapshot of our village!</value>
+			<value>Dx satilIt zi` kE`wipt wiT tU no`b*d kamrxs. sE fi` yU can tAk qx snapSot vx` q@ vilij!</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>800</key>
-			<value>Departure Time: </value>
+			<value>dip@cR tIm: </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>801</key>
-			<value>Arrival Time: </value>
+			<value>rx`vI`l tIm: </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>802</key>
-			<value>Return warp status: CHARGED. Step onto warp platform when ready.</value>
+			<value>rEtRn w*p statis: c@jd. step no`tU w*p platf*m wen redE.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>810</key>
-			<value>YOU ARE DEAD</value>
+			<value>yU q@ ded</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>811</key>
-			<value>YOU DESTROYED THE FABRIC OF SPACETIME</value>
+			<value>yU distrYd De fabrik vx` spAstIm</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>812</key>
-			<value>NOW BEYOND THE REACH OF THE SUPERNOVA,\\nYOU DRIFT THROUGH SPACE UNTIL YOUR SHIP'S RESOURCES ARE FINALLY DEPLETED</value>
+			<value>nW bEno`d Dx rEc vx` Dx sUpRnOvx,\\nyU drift TrU spAs nx`til y* Sips rEs*siz q@ fInulE diplEtid</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>813</key>
-			<value>HOW LONG HAVE YOU BEEN HERE? MINUTES? YEARS?\\nYOU ARE UNSURE BUT IT SEEMS YOUR JOURNEY HAS REACHED ITS END.</value>
+			<value>hW loN hav yU ben h|? minits? y|z?\\nyU q@ nx`SR bxt ti` sEmz y* jRnE haz rEct ti`s ne`d.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>814</key>
-			<value>NOW BEYOND THE REACH OF THE SUPERNOVA, YOU FIND YOURSELF THE ONLY INHABITANT OF AN ABANDONED WORLD.\\nSURELY &lt;i&gt;SOMETHING&lt;/i&gt; HERE MUST BE EDIBLE?</value>
+			<value>nW bEnO`d Dx rEc vx` Dx sUpRnOvx, yU fInd y*self DE nW`lE ni`habitint vx` na` bx`na`dind wRld.\\nSRlE &lt;i&gt;sxmTEN&lt;/i&gt; h| mxst bE de`bi`l?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>815</key>
-			<value>HOW MUCH TIME HAS PASSED?\\nTHEY DON’T EVEN BOTHER TO HUNT YOU ANYMORE.\\nTIME PASSES, AND PASSES, UNTIL YOUR LIFE BEFORE IS SOME HALF-REMEMBERED DREAM.\\nIF ONLY YOU COULD WAKE UP.</value>
+			<value>hW mxc tIm haz past?\\nDA dOnt vE`ni` boDR tU jxnt yU ne`mE`q*.\\ntIm pasiz, na`d pasiz, nx`til y* lIf bEf* zi` sxm haf- rEmembRd drEm.\\nfi` nO`lE yU kud wAk px`.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>900</key>
