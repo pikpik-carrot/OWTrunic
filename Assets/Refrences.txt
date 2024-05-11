@@ -1,0 +1,96 @@
+Names:
+
+Annona: nx`nO`qx
+Arkose: k@`sO`
+Avens: vA`ni`z
+Bells: belz
+Bromi: brOmE
+Bur: bR
+Canna: kanx
+Cassava: kxsovx
+Chert: cRt
+Clary: kl#qE
+Clem: klem
+Coleus: kOlEsx`
+Conoy: kxnY
+Cycad: sIkad
+Daz: daz
+Din: din
+Escall: se`kul
+Esker: se`kR
+Feldspar: feldsp@
+Filix: fEliks
+Gabbro: gabrO
+Galena: gxlEnx
+Gneiss: nAs
+Gossan: gosin
+Hal: hal
+Hachling: hacliN
+Hornfels: h*nfelz
+Hyssop: hisop
+Idaea: di`qAqx
+Ilex: lE`ki`s
+Kousa: kUsx
+Laevi: lavE
+Lami: lAmE
+Mallow: malO
+Marl: m@l
+Melorae: mil*qA
+Mica: mIkx
+Mitis: mItis
+Moraine: m*nA`
+Neem: nEm
+Oeno: qOne`qO
+Phlox: floks
+Plume: plUm
+Poke: pOk
+Porphy: p*fE
+Privet: privit
+Pye: pI
+Ramie: rAmE
+Rhus: rUs
+Riebeck: rIbek
+Root: rUt
+Rutile: rUtIl
+Secca: sekx
+Self: self
+Slate: slAt
+Solanum: sOlxnxm
+Spinel: spinel
+Spire: spIr
+Taget: tagit
+Tektite: tektIt
+Tephra: tefrx
+Thatch: Tac
+Tuff: txf
+Yarrow: y#qO
+
+Locations:
+
+Sun: sxn
+Sun Station: sxn stASin
+Ash Twin: Sa` twin
+Ember Twin: me`bR twin
+Hour glass Twins: qWgR`las twinz
+Timber Hearth: timbR h@T
+The Attlerock: DE ta`lrok
+Brittle Hollow: britl holO
+Hollow's Lantern: holOz lantRn
+Giants Deep: jIni`ts dEp
+Dark Bramble: d@k brambl
+The Interloper: DE ni`tRlOpR
+White Holw: wIt hOl
+Quatum Moon: kwontxm mUn
+The Eye of the Universe: DE qI vx` Dx yUnivRs
+Escape Pod: eskAp pod
+Orbital Probe Cannon: b*`ti`l prOb canin
+Control Modual: kxntrOl mojl
+Lauch Modual: lonc mojl
+Probe Tracking Modual: prOb trakEN mojl
+
+Common Words:
+Nomai: nOmI
+Hearthians?: h@TEni`z
+The Stranger's inhabitants: Dx strAnjRz ni`habatitz
+Anglerfish: nA`jalR fiS
+Jellyfish: jelEfiS

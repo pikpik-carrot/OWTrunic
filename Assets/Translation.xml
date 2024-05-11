@@ -42,7 +42,7 @@
 	</entry>
 	<entry>
 		<key>OENO: The greatest challenge here, I think, is we don’t have the design for such a powerful core, or any of the original crafters of the &lt;color=orange&gt;Vessel&lt;/color&gt;’s core.</key>
-		<value>nE`qO: Dx grAtist calenj h|, qI TiNk, zi` wE dOnt hav Dx dizIn f* sxc qx pWfR`lu` k*, q* na`qE vx` DE rx`ji`nx`lu` kraftRz vx` Dx &lt;color=orange&gt;vesl&lt;/color&gt;z k*.</value>
+		<value>qOne`qO: Dx grAtist calenj h|, qI TiNk, zi` wE dOnt hav Dx dizIn f* sxc qx pWfR`lu` k*, q* na`qE vx` DE rx`ji`nx`lu` kraftRz vx` Dx &lt;color=orange&gt;vesl&lt;/color&gt;z k*.</value>
 	</entry>
 	<entry>
 		<key>CLARY: No, but Poke was apprenticed to Annona, who created the original design, and our &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; is adept at crafting simpler cores.</key>
@@ -54,7 +54,7 @@
 	</entry>
 	<entry>
 		<key>IDAEA: This is the safest path for our clan.</key>
-		<value>dI`qAqx: Tis zi` Dx sAfest paT f* q@ klan.</value>
+		<value>di`qAqx: Tis zi` Dx sAfest paT f* q@ klan.</value>
 	</entry>
 	<entry>
 		<key>AVENS: Is the safest path the best one? Our goal is worth the risk.</key>
@@ -62,7 +62,7 @@
 	</entry>
 	<entry>
 		<key>CASSAVA: Is it, though? We’ve tried for so long to find something that I (and others) now believe might be impossible to find. If the search for the &lt;color=lightblue&gt;Eye&lt;/color&gt; is a futile one, we should choose the option with the least potential for harm.</key>
-		<value>CASSAVA: Is it, though? We’ve tried for so long to find something that I (and others) now believe might be impossible to find. If the search for the &lt;color=lightblue&gt;Eye&lt;/color&gt; is a futile one, we should choose the option with the least potential for harm.</value>
+		<value>kxsovx: Is it, though? We’ve tried for so long to find something that I (and others) now believe might be impossible to find. If the search for the &lt;color=lightblue&gt;Eye&lt;/color&gt; is a futile one, we should choose the option with the least potential for harm.</value>
 	</entry>
 	<entry>
 		<key>SPIRE: Abandoning the &lt;color=orange&gt;Vessel&lt;/color&gt;’s warp core and its casing means losing valuable knowledge.</key>
@@ -13186,7 +13186,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>230</key>
-			<value>pxt wx`qA</value>
+			<value>put wx`qA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>231</key>
@@ -15218,11 +15218,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1155</key>
-			<value>Changes the controller mapping to correspond to the indicated controller.</value>
+			<value>cAnjez Dx kxntrOlR mapiN tU k*sx`pxnd tU DE ni`dikAtid kxntrOlR.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1156</key>
-			<value>Changes the displayed button images to that of the indicated controller.</value>
+			<value>cAnjez Dx displAd bxtin mi`ja`zi` tU Tat vx` DE ni`dikAtid kxntrOlR.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1157</key>
