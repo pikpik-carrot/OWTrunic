@@ -14446,79 +14446,79 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>900</key>
-			<value>Middle Screen Reticle</value>
+			<value>midl skrEn retikl</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>901</key>
-			<value>Heads Up Display</value>
+			<value>hedz px` displA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>902</key>
-			<value>Vibration</value>
+			<value>vIbrASin</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>903</key>
-			<value>Button Remapping</value>
+			<value>bxtin rEmapEN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>904</key>
-			<value>Mouse Smoothing</value>
+			<value>mWs smUDEN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>905</key>
-			<value>HUD Notifications</value>
+			<value>hxd nOtifikASinz</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>906</key>
-			<value>Photo Mode</value>
+			<value>fOtO mOd</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>907</key>
-			<value>Music Volume</value>
+			<value>mEwzik volyUm</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>908</key>
-			<value>SFX Volume</value>
+			<value>se`. fe`. ke`s. volyUm</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>909</key>
-			<value>Target Frame Rate</value>
+			<value>t@git frAm rAt</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>910</key>
-			<value>Field of View</value>
+			<value>fEld vx` vEw</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>911</key>
-			<value>Physics Update Rate</value>
+			<value>fiziks px`dAt rAt</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>912</key>
-			<value>Ship Auto Orientation</value>
+			<value>Sip to`qO q*qEne`tASin</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>913</key>
-			<value>Ship Center of Mass</value>
+			<value>Sip sentR vx` mas</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>914</key>
-			<value>Difficulty Modes</value>
+			<value>dificltE modz</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>915</key>
-			<value>Easy</value>
+			<value>zE`qE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>916</key>
-			<value>Medium</value>
+			<value>mEdEmx`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>917</key>
-			<value>Hard</value>
+			<value>h@d</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>918</key>
-			<value>Impact Wobble</value>
+			<value>mi`pakt wobl</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>919</key>
@@ -14526,299 +14526,299 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>920</key>
-			<value>Grappling Hook</value>
+			<value>graplEN huk</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>921</key>
-			<value>Jump Multiplier</value>
+			<value>jxmp multiplIqR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>922</key>
-			<value>Invincibility</value>
+			<value>ni`vinsibilitE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>923</key>
-			<value>Probe Destruction</value>
+			<value>prOb distrxkSin</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>924</key>
-			<value>Infinite Resources</value>
+			<value>ni`finit rEs*siz</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>925</key>
-			<value>Limited Ship Fuel</value>
+			<value>limitid Sip fyUl</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>926</key>
-			<value>Sprint Speed</value>
+			<value>sprint spEd</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>927</key>
-			<value>FLASHLIGHT</value>
+			<value>flaSlIt</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>928</key>
-			<value>FLASHLIGHT</value>
+			<value>flaSlIt</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>929</key>
-			<value> LANDING CAM</value>
+			<value> landEN kam</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>930</key>
-			<value>COMPUTER</value>
+			<value>kxmpEwtR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>931</key>
-			<value>SIGNALSCOPE</value>
+			<value>signlskOp</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>932</key>
-			<value>GRAVITY</value>
+			<value>gravitE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>933</key>
-			<value>Launch Tower</value>
+			<value>lonc tWqR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>934</key>
-			<value>Lumber Mill</value>
+			<value>lxmbR mil</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>935</key>
-			<value>Zero-G Cave</value>
+			<value>z|qO- jE kAv</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>936</key>
-			<value>Observatory</value>
+			<value>bx`zRvxt*qE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>937</key>
-			<value>The quiet shade</value>
+			<value>Dx kwIti` SAd</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>938</key>
-			<value>Across old bark</value>
+			<value>kx`ros lO`d b@r</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>939</key>
-			<value>In the ancient glade</value>
+			<value>ni` DE nA`Sint glAd</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>940</key>
-			<value>It's always dark</value>
+			<value>ti`s lo`wAz d@k</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>941</key>
-			<value>FUEL</value>
+			<value>fyUl</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>942</key>
-			<value>TEMP</value>
+			<value>temp</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>943</key>
-			<value>O2</value>
+			<value>qO2</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>944</key>
-			<value>H2O</value>
+			<value>cA`2qO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>945</key>
-			<value>MASTER\\nALARM</value>
+			<value>mastR\\nlx`m@`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>946</key>
-			<value>EJECT</value>
+			<value>jE`ke`t</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>947</key>
-			<value>WARNING:\\nUSE ONLY IN\\nEMERGENCY</value>
+			<value>w*nEN:\\nyUs nO`lE ni`\\nmE`jR`ne`cE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>948</key>
-			<value>HUD</value>
+			<value>hud</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>949</key>
-			<value>ON</value>
+			<value>no`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>950</key>
-			<value>OFF</value>
+			<value>fo`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>951</key>
-			<value>CAUTION</value>
+			<value>koSin</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>952</key>
-			<value>WARNING</value>
+			<value>w*nEN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>953</key>
-			<value>DAMAGE</value>
+			<value>damij</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>954</key>
-			<value>ALTIMETER</value>
+			<value>lo`timitR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>955</key>
-			<value>MATCH VELOCITY</value>
+			<value>mac velositE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>956</key>
-			<value>OXYGEN REFILL:</value>
+			<value>ko`sijin rEfil:</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>957</key>
-			<value>SPOT A TREE</value>
+			<value>spot qx trE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>958</key>
-			<value>WALK TOWARDS IT</value>
+			<value>wok t*dz ti`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>959</key>
-			<value>ENJOY!</value>
+			<value>ne`jY!</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>960</key>
-			<value>Loading... </value>
+			<value>lOdEN... </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>961</key>
-			<value>UNIDENTIFIED SIGNAL NEARBY</value>
+			<value>nx`dI`ne`tifId signl n|bI</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>962</key>
-			<value>UNKNOWN</value>
+			<value>nx`nOn</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>963</key>
-			<value>DANGER: GHOST MATTER DETECTED NEARBY</value>
+			<value>dAnjR: gOst matR ditektid n|bI</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>964</key>
-			<value>LOAD PREVIOUS SAVE</value>
+			<value>lOd prEvEsx` sAv</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>965</key>
-			<value> signed out.\\nPlease sign in again to continue.</value>
+			<value> sInd tW`.\\nplEz sIn ni` gx`ne` tU kxntinyU.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>966</key>
-			<value>SWITCH PROFILE</value>
+			<value>swic prOfIl</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>967</key>
-			<value>SHIP HULL BREACH DETECTED</value>
+			<value>Sip hul brEc ditektid</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>968</key>
-			<value>UNABLE TO RETRIEVE SCOUT; TOO MANY TARGETS</value>
+			<value>nx`bA`l tU ritrEv skWt; tU menE t@gits</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>969</key>
-			<value>EMERGENCY SCOUT RECALL ACTIVATED</value>
+			<value>mE`jR`ne`sE skWt rEkol ka`tivAtid</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>970</key>
-			<value> DAMAGED</value>
+			<value> damijd</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>971</key>
-			<value> OF 3 REPAIRED</value>
+			<value> vx` 3 rip#d</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>972</key>
-			<value>3 OF 3 REPAIRED\\nTRAINING SIMULATION COMPLETE</value>
+			<value>3 vx` 3 rip#d\\ntrAnEN simyUlASin kxmplEt</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>973</key>
-			<value>&lt;color=orange&gt;There's more to explore here.&lt;/color&gt;</value>
+			<value>&lt;color=orange&gt;D#z m* tU ke`spl* h|.&lt;/color&gt;</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>974</key>
-			<value>UNTRANSLATED TEXT REMAINING</value>
+			<value>nx`tranzlAtid tekst rimAnEN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>975</key>
-			<value>AFT HULL</value>
+			<value>fa`t hul</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>980</key>
-			<value>Low</value>
+			<value>lO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>981</key>
-			<value>Medium</value>
+			<value>mEdEmx`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>982</key>
-			<value>High</value>
+			<value>hI</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>983</key>
-			<value>Very High</value>
+			<value>v#qE hI</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>984</key>
-			<value>Full</value>
+			<value>ful</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>985</key>
-			<value>Half</value>
+			<value>haf</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>986</key>
-			<value>Quarter</value>
+			<value>k*tR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>987</key>
-			<value>Eighth</value>
+			<value>tA`T</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>988</key>
-			<value>Invalid</value>
+			<value>ni`valid</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>989</key>
-			<value>Slow</value>
+			<value>slO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>990</key>
-			<value>Normal</value>
+			<value>n*ml</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>991</key>
-			<value>Fast</value>
+			<value>fast</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>992</key>
-			<value>Instant</value>
+			<value>ni`stint</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1000</key>
-			<value>Create Profile</value>
+			<value>krEtA` prOfIl</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1001</key>
-			<value>Enter Profile Name...</value>
+			<value>ne`tR prOfIl nAm...</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1002</key>
-			<value>Create</value>
+			<value>krEtA`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1003</key>
-			<value>Cancel And Exit Game</value>
+			<value>kansl na`d ge`zit gAm</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1004</key>
-			<value>Delete the profile </value>
+			<value>dilEt Dx prOfIl </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1005</key>
@@ -14826,7 +14826,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1006</key>
-			<value>Switch to profile </value>
+			<value>swic tU prOfIl </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1007</key>
@@ -14834,387 +14834,387 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1008</key>
-			<value>Switch</value>
+			<value>swic</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1009</key>
-			<value>Last Saved: </value>
+			<value>last sAvd: </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1010</key>
-			<value>Please ensure that \\n- Outer Wilds has permissions to write to the disk \\n- The hard drive is not full</value>
+			<value>plEz ne`SR Dat \\n- tW`qR wIldz haz pRmiSinz tU rIt tU Dx disk \\n- Dx h@d drIv zi` not ful</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1011</key>
-			<value>Rebind Controls</value>
+			<value>rEbInd kxntrOls</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1012</key>
-			<value>Control Rebinding</value>
+			<value>kxntrOl rEbIndEN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1013</key>
-			<value>Gamepad</value>
+			<value>gAmpad</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1014</key>
-			<value>Keyboard &amp; Mouse</value>
+			<value>kEb*d &amp; mWs</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1015</key>
-			<value>Discard and Exit</value>
+			<value>disk@d na`d ge`zit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1016</key>
-			<value>Save and Exit</value>
+			<value>sAv na`d ge`zit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1017</key>
-			<value>Cancel Rebinding</value>
+			<value>kansl rEbIndEN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1018</key>
-			<value>Confirm</value>
+			<value>kxnfRm</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1019</key>
-			<value>Map Zoom In</value>
+			<value>map zUm ni`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1020</key>
-			<value>Map Zoom Out</value>
+			<value>map zUm tW`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1021</key>
-			<value>Move X-Axis</value>
+			<value>mUv ke`s- ka`sis</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1022</key>
-			<value>Move Y-Axis</value>
+			<value>mUv wI- ka`sis</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1023</key>
-			<value>Look X-Axis</value>
+			<value>luk ke`s- ka`sis</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1024</key>
-			<value>Look Y-Axis</value>
+			<value>luk wI- ka`sis</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1025</key>
-			<value>Launch Scout / Forward Snapshot</value>
+			<value>lonc skWt / f*wRd snapSot</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1026</key>
-			<value>Scout Rearview Snapshot</value>
+			<value>skWt r|vEw snapSot</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1027</key>
-			<value>Tool X-Axis</value>
+			<value>tUl ke`s- ka`sis</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1028</key>
-			<value>Tool Y-Axis</value>
+			<value>tUl wI- ka`sis</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1029</key>
-			<value>Roll Mode</value>
+			<value>rOl mOd</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1030</key>
-			<value>Jetpack Boost</value>
+			<value>jetpak bUst</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1031</key>
-			<value>Landing Camera</value>
+			<value>landEN kamrx</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1032</key>
-			<value>Cockpit Free Look</value>
+			<value>kokpit frE luk</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1033</key>
-			<value>Change Ship Log Mode</value>
+			<value>cAnj Sip log mOd</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1034</key>
-			<value>Mark Entry on HUD</value>
+			<value>m@k ne`trE no` hxd</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1035</key>
-			<value>Scroll Ship Log Text</value>
+			<value>skrOl Sip log tekst</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1036</key>
-			<value>Doze Off</value>
+			<value>dOz fo`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1037</key>
-			<value>Fall Asleep</value>
+			<value>fol sx`lEp</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1038</key>
-			<value>PS4®</value>
+			<value>pE. se`. 4®</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1039</key>
-			<value>Xbox</value>
+			<value>ke`sboks</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1040</key>
-			<value>Custom</value>
+			<value>kxstxm</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1041</key>
-			<value>Gamepad Preset</value>
+			<value>gAmpad prEset</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1042</key>
-			<value>File Save Error</value>
+			<value>fIl sAv q#qR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1043</key>
-			<value>PS4® (Custom)</value>
+			<value>pE. se`. 4® (kxstxm)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1044</key>
-			<value>Dualshock (Custom)</value>
+			<value>dUlSok (kxstxm)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1045</key>
-			<value>Dualshock</value>
+			<value>dUlSok</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1046</key>
-			<value>Xbox (Custom)</value>
+			<value>ke`sboks (kxstxm)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1047</key>
-			<value>Switch Pro</value>
+			<value>swic prO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1048</key>
-			<value>Switch Pro (Custom)</value>
+			<value>swic prO (kxstxm)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1049</key>
-			<value>Axis #</value>
+			<value>ka`sis #</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1050</key>
-			<value>Button #</value>
+			<value>bxtin #</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1051</key>
-			<value>Found recovered data for profile name &lt;Profile Name&gt;. Restore? </value>
+			<value>fWnd ricxvRd dAtx f* prOfIl nAm &lt;Profile Name&gt;. rist*? </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1052</key>
-			<value>Overwrite existing data for profile name &lt;Profile Name&gt;?</value>
+			<value>vO`qRrIt ge`zistEN dAtx f* prOfIl nAm &lt;Profile Name&gt;?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1100</key>
-			<value>Gear Options</value>
+			<value>g| po`Sinz</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1101</key>
-			<value>Gear Options</value>
+			<value>g| po`Sinz</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1102</key>
-			<value>ERROR: SCOUT RECALL FAILED</value>
+			<value>q#qR: skWt rEkol fAld</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1103</key>
-			<value>FREEZE TIME WHILE READING</value>
+			<value>frEz tIm wIl rEdEN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1104</key>
-			<value>REBIND CONTROLS</value>
+			<value>rEbInd kxntrOlz</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1105</key>
-			<value>CONTROL REBINDING</value>
+			<value>kxntrOl rEbIndEN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1106</key>
-			<value>GAMEPAD</value>
+			<value>gAmpad</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1107</key>
-			<value>KEYBOARD &amp; MOUSE</value>
+			<value>kEb*d &amp; mWs</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1108</key>
-			<value>Delete Profile</value>
+			<value>dilEt prOfIl</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1109</key>
-			<value>Switch Profile</value>
+			<value>swic prOfIl</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1110</key>
-			<value>Select from pre-configured visual quality settings.</value>
+			<value>selekt frxm prE- kxnfigyRd viZUlu` kwolitE setENz.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1111</key>
-			<value>Whether the game should run as windowed or fullscreen.</value>
+			<value>weDR Dx gAm Sud rxn za` windOd q* fulskrEn.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1112</key>
-			<value>Choose which monitor will display the game</value>
+			<value>cUz wic monitR wil displA Dx gAm</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1113</key>
-			<value>Determines which resolutions are available in the following option, based on the dimensions of the screen.</value>
+			<value>dEtRminz wic resxlUSinz q@ vx`lA`bx`l ni` Dx` folONE` po`Sin, bAst no` Dx dimenSinz vx` Dx skrEn.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1114</key>
-			<value>The game will render at this pixel resolution.\\nRendering cost: High</value>
+			<value>Dx gAm wil rendR ta` Dis piksl resxlUSin.\\nrendRNE` kost: hI</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1115</key>
-			<value>Smooths out jagged pixel edges.  SMAA is more precise and higher quality, but FXAA is faster.\\nRendering cost: Low</value>
+			<value>smUDz tW` jagid piksl je`zi`.  se`. me`. qA. qA. zi` m* prisIs na`d hIqR kwolitE, bxt fe`. ke`s. qA. qA. zi` fastR.\\nrendRNE` kost: lO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1116</key>
-			<value>Quality of the anti-aliasing post-processing effect.  Higher quality is more expensive.</value>
+			<value>kwolitE vx` DE na`tElA`qEsi`NE` pOst- prOsesEN fe`ke`t.  hIqR kwolitE zi` m* ke`spensiv.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1117</key>
-			<value>Relative resolution of texture maps used throughout the game.\\nMemory cost: Medium</value>
+			<value>relxtiv resxlUSin vx` tekstR maps yUzd TrUtW` Dx gAm.\\nmemRqE kost: mEdEmx`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1118</key>
-			<value>Amount of detail in the ocean waves and lighting quality of the water.\\nRendering cost: High</value>
+			<value>mx`nW`t vx` dEtAl ni` DE SO`ni` wAvz na`d lItEN kwolitE va` Dx wotR.\\nrendRNE` kost: hI</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1119</key>
-			<value>The resolution and accuracy of shadows in the game world, as well as the number of shadow-casting lights.\\nRendering cost: High</value>
+			<value>Dx resxlUSin na`d ka`yRsx`qE vx` SadOz ni` Dx gAm wRld, za` wel za` Dx nxmbR vx` SadO- kastEN lIts..\\nrendRNE` kost: hI</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1120</key>
-			<value>Calculates ambient occlusion (the soft shadows when objects are close to each other) as a post-processing effect.\\nRendering cost: Medium</value>
+			<value>kalkEwlAts ma`bEni`t kx`lUZin (Dx soft SadOz wen bo`jekts q@ klOs tU cE` Dx`qR) za` qx pOst- prOsesEN fe`ke`t.\\nrendRNE` kost: mEdEmx`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1121</key>
-			<value>Adjusts the brightness or darkness of the visuals.\\nRendering cost: None</value>
+			<value>dx`jxsts Dx brItnis q* d@knis vx` Dx viZUlu`z.\\nrendRNE` kost: nxn</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1122</key>
-			<value>Prevents screen-tearing by synchronizing the game's framerate with the monitor's refresh rate.\\nRendering cost: None, but will automatically lower your framerate to the closest multiple of the monitor's sync rate</value>
+			<value>privents skrEn- t#NE` bI sENkrxnIzEN Dx gAmz frAmrAt wiT Dx monitRz rifreS rAt.\\nrendRNE` kost: nxn, bxt wil to`mO`ta`ki`lE lOqR y* frAmrAt tU Dx klOsist mltipl vx` Dx monitRz sENk rAt</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1123</key>
-			<value>Dithering improves color blending, but may make compressed video of the game look worse.\\nRendering cost: None</value>
+			<value>diDRNE` mi`prUvz cxlR blendEN, bxt mA mAk kxmprest vidEqO vx` Dx gAm luk wRs.\\nrendRNE` kost: nxn</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1124</key>
-			<value>The vertical field-of-view of the in-game camera.  Warning: changing this might affect certain puzzles in Outer Wilds.\\nRendering cost: Low</value>
+			<value>Dx vRtikl fEld- vx`- vEw vx` DE ni`- gAm kamrx.  w*nEN: cAnjEN Dis mIt fx`ke`t sRtin pxzlz ni` tW`qR wIldz.\\nrendRNE` kost: lO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1125</key>
-			<value>Jetpack boost can be triggered with a separate button press (manual) or any time upward thrust is used (auto).</value>
+			<value>jetpak bUst kan bE trigRd wiT qx seprit bxtin pres (manyUlu`) q* ne`qE tIm px`wRd Trxst zi` yUzd (to`qO).</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1126</key>
-			<value>Translator can be equipped with a button press (manual) or by looking at translatable text (auto).</value>
+			<value>tranzlAtR kan bE ke`wipt wiT qx seprit bxtin pres (manyUlu`) q* bI lukEN ta` tranzlAtxble tekst (to`qO).</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1127</key>
-			<value>Displays a HUD notification when new information is added to the ship log.</value>
+			<value>displAz qx hxd nOtifikASin wen nU ni`fRmASin zi` da`di` tU Dx Sip log.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1128</key>
-			<value>Displays rumor connections between ship log entries. Disable to minimize in-game guidance.</value>
+			<value>displAz rUmR kxnekSinz bitwEn Sip log ne`trEz. disAbl tU minimIz ni`- gAm gIdins.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1129</key>
-			<value>Disabling this will remove the ability to automatically fly between planets using autopilot.</value>
+			<value>disAblEN Dis wil rEmUv DE bx`li`ti`qE tU to`mO`ta`ki`lE flI bitwEn planits yUzEN to`pO`lI`ti`.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1130</key>
-			<value>Displays button prompts for available actions.</value>
+			<value>displAz bxtin prompts f* vx`lA`bx`l ka`Sinz.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1131</key>
-			<value>Change volume for all audio.</value>
+			<value>cAnj volyUm f* lo` do`qEqO.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1132</key>
-			<value>Change volume for non-diegetic music.</value>
+			<value>cAnj volyUm f* non- dIje`te`ki` mEwzik.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1133</key>
-			<value>Change the language for all text in the game.</value>
+			<value>cAnj Dx lAngwij f* lo` tekst ni` Dx gAm.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1134</key>
-			<value>Change the reveal speed of text during conversation.</value>
+			<value>cAnj Dx rivEl spEd vx` tekst dRNE` convRsASin.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1135</key>
-			<value>Freezes time while reading translated text (translator must remain stationary).\\nNOTE: There are certain periods when time cannot be frozen.</value>
+			<value>frEziz tIm wIl rEdEN tranzlAtid tekst (translAtR mxst rimAn stASin#qE).\\nnOt: D# q@ sRtin p|qEdi`z wen tIm canot bE frOzin.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1136</key>
-			<value>Freezes time while using the ship log.\\nNOTE: There are certain periods when time cannot be frozen.</value>
+			<value>frEziz tIm wIl yUzEN Dx Sip log.\\nnOt: D# q@ sRtin p|qEdi`z wen tIm canot bE frOzin.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1137</key>
-			<value>Freezes time while talking to characters and reading journals or signs. This will prevent character animations from playing during conversation.\\nNOTE: There are certain periods when time cannot be frozen.</value>
+			<value>frEziz tIm Wil tokEN tU k#ki`tRz na`d rEdEN jRnlz q* sInz. Dis wil privent k#ki`tR na`mi`SA`ni`z frxm plANE` dRNE` convRsASin.\\nnOt: D# q@ sRtin p|qEdi`z wen tIm canot bE frOzin.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1138</key>
-			<value>Invert look y-axis when on foot.</value>
+			<value>ni`vRt luk wI- ka`sis wen no` fut.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1139</key>
-			<value>Invert look y-axis when piloting your ship.</value>
+			<value>ni`vRt luk wI- ka`sis wen pIlitEN y* Sip.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1140</key>
-			<value>Enables controller vibration (controller only).</value>
+			<value>ne`bA`lz cxntrOlR vIbrASin (cxntrOlR nO`lE).</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1141</key>
-			<value>Set look input sensitivity while on foot. A lower look sensitivity will result is a slower look speed that is easier to control.</value>
+			<value>set luk ni`put sensitivitE wIl no` fut. qx lOqR luk sensitivitE wil rizult ni` qx slOqR luk spEd Dat zi` zE`qEqR tU kxntrOl.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1142</key>
-			<value>Set look input sensitivity while piloting your ship. A lower look sensitivity will result is a slower look speed that is easier to control.</value>
+			<value>set luk ni`put sensitivitE wIl pIlitEN y* Sip. qx lOqR luk sensitivitE wil rizult ni` qx slOqR luk spEd Dat zi` zE`qEqR tU kxntrOl.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1143</key>
-			<value>Determines how far (from center) the left/right stick must be tilted before any input is detected.\\nConsider increasing this dead zone if your character moves or looks around when you're not touching the left/right stick.</value>
+			<value>ditRminz hW f@ (frxm sentR) Dx left/rIt stik mxst bE tiltid bif* ne`qE ni`put zi` ditektid.\\nkxnsidR ni`krEsEN Dis ded zOn fi` y* k#ki`tR mUvz q* luks rx`nW`d wen yR not txcEN Dx left/rIt stik.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1144</key>
-			<value>Determines how far (from full tilt) the left/right stick must be released before maximum input is no longer detected.\\nConsider increasing this dead zone if you are unable to move or look at maximum speed.</value>
+			<value>ditRminz hW f@ (frxm ful tilt) Dx left/rIt stik mxst bE rilEst bif* maksimxm ni`put zi` nO loNgR ditektid.\\nkxnsidR ni`krEsEN Dis ded zOn fi` yU q@ nu`bA`l tU mUv q* luk ta` maksimxm spEd.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1145</key>
-			<value>Open this menu to modify which buttons are assigned to which in-game actions.</value>
+			<value>pO`ni` Dis menyU tU modifI wic bxtinz q@ sx`nI`d tU wic ni`- gAm ka`Sinz.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1150</key>
-			<value>Throw Marshmallow</value>
+			<value>TrO m@SmelO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1151</key>
-			<value>Push Off</value>
+			<value>puS fo`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1152</key>
-			<value>Your save file was corrupted.</value>
+			<value>y* sAv fIl wxs k*px`tid.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1153</key>
-			<value>Load previous save?</value>
+			<value>lOd prEvEsx` sAv?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1154</key>
-			<value>Selects the controller that the game will use.</value>
+			<value>selekts Dx cxntrOlR Dat Dx gAm wil yUz.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1155</key>
