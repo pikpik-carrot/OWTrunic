@@ -33,20 +33,20 @@
 		</value>
 	</entry>
 	<entry>
-		<key>The &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; requires a powerful, highly advanced warp core. How should we obtain it?</key>
-		<value>The &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; requires a powerful, highly advanced warp core. How should we obtain it?</value>
+		<key>DE &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; requires a powerful, highly advanced warp core. How should we obtain it?</key>
+		<value>DE  &lt;color=orange&gt;Sa` twin projekt&lt;/color&gt; rEkwIzR` qx pWfR`lu`, hIlE da`vanst w*p k*. hW Sud  wE bx`tAn ti`?</value>
 	</entry>
 	<entry>
 		<key>Solution 2: We could craft a new advanced warp core inspired by the &lt;color=orange&gt;Vessel&lt;/color&gt;’s warp core.</key>
-		<value>Solution 2: We could craft a new advanced warp core inspired by the &lt;color=orange&gt;Vessel&lt;/color&gt;’s warp core.</value>
+		<value>sxlUSin 2: wE kud kraft qx nU da`vanst w*p k* ni`spIdR` bI Dx &lt;color=orange&gt;vesl&lt;/color&gt;z w*p k*</value>
 	</entry>
 	<entry>
 		<key>OENO: The greatest challenge here, I think, is we don’t have the design for such a powerful core, or any of the original crafters of the &lt;color=orange&gt;Vessel&lt;/color&gt;’s core.</key>
-		<value>OENO: The greatest challenge here, I think, is we don’t have the design for such a powerful core, or any of the original crafters of the &lt;color=orange&gt;Vessel&lt;/color&gt;’s core.</value>
+		<value>nE`qO: Dx grAtist calenj h|, qI TiNk, zi` wE dOnt hav Dx dizIn f* sxc qx pWfR`lu` k*, q* na`qE vx` DE rx`ji`nx`lu` kraftRz vx` Dx &lt;color=orange&gt;vesl&lt;/color&gt;z k*.</value>
 	</entry>
 	<entry>
 		<key>CLARY: No, but Poke was apprenticed to Annona, who created the original design, and our &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; is adept at crafting simpler cores.</key>
-		<value>CLARY: No, but Poke was apprenticed to Annona, who created the original design, and our &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; is adept at crafting simpler cores.</value>
+		<value>kl#qE: nO, bxt pOk wxz px`rentis tU nx`nO`qx, hU krEtA`de` DE rx`ji`nx`lu` dizIn f*, na`d q@ &lt;color=orange&gt;blak hOl f*j&lt;/color&gt; zi` da`pe`t ta` kraftiN simplR k*z.</value>
 	</entry>
 	<entry>
 		<key>POKE: I believe I can be of use here! The &lt;color=orange&gt;Vessel&lt;/color&gt;’s warp core was created before my time, but Annona explained many of his designs to me.</key>
@@ -12734,47 +12734,47 @@
 	<table_ui>
 		<TranslationTableEntryUI>
 			<key>100</key>
-			<value>RESUME EXPEDITION</value>
+			<value>rEzIUm ke`spediSin</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>101</key>
-			<value>NEW EXPEDITION</value>
+			<value>nU ke`spediSin</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>102</key>
-			<value>QUIT</value>
+			<value>kwit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>103</key>
-			<value>PLAYER PROFILE</value>
+			<value>plAqR prOfIl</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>104</key>
-			<value>OPTIONS</value>
+			<value>po`Sinz</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>105</key>
-			<value>VIEW CREDITS</value>
+			<value>vyU kreditz</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>106</key>
-			<value>YES</value>
+			<value>yes</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>107</key>
-			<value>NO</value>
+			<value>nO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>108</key>
-			<value>PRESET</value>
+			<value>prEset</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>109</key>
-			<value>Confirm changes?</value>
+			<value>kxnf*m cAnjez?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>110</key>
-			<value>CURRENT PROFILE:</value>
+			<value>kRni`t prOfIl:</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>111</key>
