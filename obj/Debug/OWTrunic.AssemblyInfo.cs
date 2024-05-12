@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright © 2024 pikpik_carrot")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83d68d45fc964ee9713c929806bd84fa66fa5842")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+924939f52aa0bfa9aee2331a160740c57065d48e")]
 [assembly: System.Reflection.AssemblyProductAttribute("OWTrunic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OWTrunic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

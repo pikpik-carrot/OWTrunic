@@ -94,3 +94,4 @@ Hearthians?: h@TEni`z
 The Stranger's inhabitants: Dx strAnjRz ni`habatitz
 Anglerfish: nA`jalR fiS
 Jellyfish: jelEfiS
+cancel: kansul

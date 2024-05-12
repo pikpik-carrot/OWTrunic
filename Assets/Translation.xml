@@ -13958,7 +13958,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>554</key>
-			<value>kansl</value>
+			<value>kansul</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>555</key>
@@ -14814,7 +14814,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1003</key>
-			<value>kansl na`d ge`zit gAm</value>
+			<value>kansul na`d ge`zit gAm</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1004</key>
@@ -14870,7 +14870,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1017</key>
-			<value>kansl rEbIndEN</value>
+			<value>kansul rEbIndEN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1018</key>
@@ -15226,67 +15226,67 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1157</key>
-			<value>Changes the Keyboard Layout setting. Changes to this setting will prompt you as to whether or not you want to change the currently set keyboard bindings. This will also redefine the default settings for Keyboard &amp; Mouse.</value>
+			<value>cAnjez Dx kEb*d lAtW` setiN. cAnjez tU Dis setiN wil prompt yU za` tU weTR q* nxt yU want tU cAnj Dx kRne`tle set kEbIndiNz. Dis wil lo`sO rEdEfIn Dx dEfxlt setiNz f* kEb*d &amp; mWs.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1158</key>
-			<value>Pauses the game</value>
+			<value>pozez Dx gAm</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1159</key>
-			<value>Menu Confirm</value>
+			<value>menyU konf*m</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1160</key>
-			<value>Menu Cancel</value>
+			<value>menyU kansul</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1161</key>
-			<value>Movement from side to side</value>
+			<value>mUvment frxm sId tU sId</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1162</key>
-			<value>Movement forward and backwards</value>
+			<value>mUvment f*wRdz na`d bakwRdz</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1163</key>
-			<value>Camera movement left to right</value>
+			<value>kamrx mUvment left tU rIt</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1164</key>
-			<value>Camera movement up and down</value>
+			<value>kamrx mUvment px` na`d dWn</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1165</key>
-			<value>Interact with objects</value>
+			<value>ni`tRka`t wiT bo`jekts</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1166</key>
-			<value>Jump</value>
+			<value>jxmp</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1167</key>
-			<value>Turns flashlight on and off</value>
+			<value>tRnz flaSlIt no` na`d fo`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1168</key>
-			<value>Opens Map View</value>
+			<value>pO`ni`z map vyU</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1169</key>
-			<value>Zoom in in map view</value>
+			<value>zUm ni` ni` map vyU</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1170</key>
-			<value>Zoom out in map view</value>
+			<value>zUm tW` ni` map vyU</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1171</key>
-			<value>Equips Signalscope</value>
+			<value>kE`wips signlskOp</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1172</key>
-			<value>Equips, Launches, and Retrieves scout</value>
+			<value>ke`wips, luncez, na`d rEtrEvs skWt</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1173</key>
