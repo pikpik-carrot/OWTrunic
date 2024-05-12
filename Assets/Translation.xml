@@ -15290,559 +15290,559 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1173</key>
-			<value>Scout: Takes forward snapshot\\nSignalscope: Change view\\nTranslator: Translate</value>
+			<value>skWt: tAks f*wRd snapSot\\nsignlskWp: cAnj vEw\\ntranzlAtR: tranzlAt</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1174</key>
-			<value>Scout: Takes rear view snapshot</value>
+			<value>skWt: tAks r| vEw snapSot</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1175</key>
-			<value>Generic tool mode left and right</value>
+			<value>jin#ki` tUl mOd left na`d rIt</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1176</key>
-			<value>Generic tool mode up and down</value>
+			<value>jin#ki` tUl mOd px` na`d dWn</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1177</key>
-			<value>Jetpack and Ship upwards movement</value>
+			<value>jetpak na`d Sip px`wRdz mUvmint</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1178</key>
-			<value>Jetpack and Ship downwards movement</value>
+			<value>jetpak na`d Sip dWnwRdz mUvmint</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1179</key>
-			<value>When pressed, Move X-Axis will roll you about the forward direction</value>
+			<value>wen prest, mUv ke`s- ka`sis wil rOl yU bx`tW` Dx f*wRd dRke`Sin</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1180</key>
-			<value>Triggers manual Jetpack Boost</value>
+			<value>trigRz manyUlx` jetpak bUst</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1181</key>
-			<value>Locks on to an indicated target</value>
+			<value>loks no` tU na` ni`dikAtid t@git</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1182</key>
-			<value>When locked on, activates thrusters to match the velocity of the locked on target</value>
+			<value>wen lokt no`, ka`tivAts TrxstRz tU mac Dx velositE vx` Dx lokt- no` t@git</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1183</key>
-			<value>Toggles the Ship landing camera</value>
+			<value>toglz Dx Sip landEN kamrx</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1184</key>
-			<value>When locked on, activates ship autopilot</value>
+			<value>wen lokt no`, ka`tivAts Sip to`pO`lI`ti`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1185</key>
-			<value>Toggles free look while buckled into the ship cockpit seat</value>
+			<value>toglz frE luk wIl bxkld ni`tU Dx Sip kokpit sEt</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1186</key>
-			<value>In the ship log, toggles between map and discovery mode</value>
+			<value>ni` Dx Sip log, toglz bitwEn map na`d diskxvRqE mOd</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1187</key>
-			<value>In the ship log, turns on a HUD Marker for the indicated ship log item</value>
+			<value>ni` Dx Sip log, tRnz no` qx hxd m@kR f* DE ni`dikAtid Sip log tI`me`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1188</key>
-			<value>In the ship log, scrolls through long log entries</value>
+			<value>ni` Dx Sip log, skrOlz TrU loN log ne`trEz</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1200</key>
-			<value>The Stranger</value>
+			<value>Dx strAnjR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1201</key>
-			<value>THE PRISONER</value>
+			<value>Dx priznR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1210</key>
-			<value>Artifact</value>
+			<value>t@`fi`ka`t</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1212</key>
-			<value>Lantern</value>
+			<value>lantRn</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1213</key>
-			<value>Slide Reel</value>
+			<value>slId rEl</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1220</key>
-			<value>Push Raft</value>
+			<value>puS raft</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1221</key>
-			<value>Rotate</value>
+			<value>rOtAt</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1222</key>
-			<value>Use Interface</value>
+			<value>yUz ni`tRfAs</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1223</key>
-			<value>Release Raft</value>
+			<value>rilEs raft</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1224</key>
-			<value>View Slideshow</value>
+			<value>vEw slIdSO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1225</key>
-			<value>Look</value>
+			<value>luk</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1226</key>
-			<value>Rotate Up</value>
+			<value>rOtAt px`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1227</key>
-			<value>Rotate Down</value>
+			<value>rOtAt dWn</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1228</key>
-			<value>Rotate Up / Down</value>
+			<value>rOtAt px` / dWn</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1229</key>
-			<value>Open</value>
+			<value>pO`ni`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1230</key>
-			<value>Close</value>
+			<value>klOz</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1231</key>
-			<value>Give</value>
+			<value>giv</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1232</key>
-			<value>Take</value>
+			<value>tAk</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1233</key>
-			<value>Vision Torch</value>
+			<value>viZin t*c</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1234</key>
-			<value>Rotate Left / Right</value>
+			<value>rOtAt left / rIt</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1235</key>
-			<value>Project</value>
+			<value>prxjekt</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1236</key>
-			<value>Project Vision</value>
+			<value>prxjekt viZin</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1237</key>
-			<value>Rewatch Vision</value>
+			<value>rEwac viZin</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1238</key>
-			<value>Scan</value>
+			<value>skan</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1250</key>
-			<value>&lt;color=red&gt;ERROR: Unknown Language&lt;/color&gt;</value>
+			<value>&lt;color=red&gt;q#qR: nx`nOn lANgwij&lt;/color&gt;</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1251</key>
-			<value>ERROR:\\nMAP OFFLINE</value>
+			<value>q#qR:\\nmap fo`lIn</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1260</key>
-			<value>Focus</value>
+			<value>fOkis</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1261</key>
-			<value>Conceal</value>
+			<value>kxnsEl</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1265</key>
-			<value>Forward</value>
+			<value>f*wRd</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1266</key>
-			<value>Reverse</value>
+			<value>rivRs</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1300</key>
-			<value>Return warp status: CHARGED. Step onto warp receiver platform to activate return warp.</value>
+			<value>ritRn w*p statis: c@jd. step no`tU w*p risEvR platf*m tU ka`tivAt ritRn w*p.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1310</key>
-			<value>Set Default Controller</value>
+			<value>set dEfolt kxntrOlR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1311</key>
-			<value>Don't show this again</value>
+			<value>dOnt shO Dis gx`ne`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1312</key>
-			<value>Controller Profile</value>
+			<value>kxntrOlR prOfIl</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1313</key>
-			<value>Button Prompt Images</value>
+			<value>bxtim prompt mi`ji`zi`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1314</key>
-			<value> (Auto Detect)</value>
+			<value> (to`qO ditekt)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1315</key>
-			<value> (Custom)</value>
+			<value> (kxstxm)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1316</key>
-			<value>Unknown Input Detected</value>
+			<value>nx`nOn ni`pxt ditektid</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1317</key>
-			<value>Joystick Axis</value>
+			<value>jYstik ka`sis</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1318</key>
-			<value>Designate Joystick Type</value>
+			<value>dezignAt jYstik tIp</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1319</key>
-			<value>Normal [-1, 1]</value>
+			<value>n*ml [-1, 1]</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1320</key>
-			<value>Trigger [-1, 1]</value>
+			<value>trigR [-1, 1]</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1321</key>
-			<value>Action</value>
+			<value>ka`Sin</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1322</key>
-			<value>Retrieve Scout</value>
+			<value>ritrEv skWt</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1323</key>
-			<value>Primary Tool Action</value>
+			<value>prIm#qE tUl ka`Sin</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1324</key>
-			<value>Secondary Tool Action</value>
+			<value>sekind#qE tUl ka`Sin</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1325</key>
-			<value>Launch/Retrieve Scout</value>
+			<value>lonc/ritrEv skWt</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1326</key>
-			<value>V1.x.8 Key Binding Update</value>
+			<value>vE 1. ke`s. 8 kE bIndEN px`dAt</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1327</key>
-			<value>Old Key Bindings</value>
+			<value>lO`d kE bIndENz</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1328</key>
-			<value>New Key Bindings</value>
+			<value>nU kE bIndENz</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1329</key>
-			<value>Open Rebinding Menu</value>
+			<value>pO`ni` rEbIndEN menyU</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1330</key>
-			<value>Continue</value>
+			<value>kxntinyU</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1331</key>
-			<value>Save Changes?</value>
+			<value>sAv cAnjiz?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1332</key>
-			<value>Save Key Bindings</value>
+			<value>sAv kE bIndENz</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1333</key>
-			<value>Discard Key Bindings</value>
+			<value>disk@d kE bIndENz</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1334</key>
-			<value>Keyboard Layout</value>
+			<value>kEb*d lAtW`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1335</key>
-			<value>Update Keyboard Bindings?</value>
+			<value>px`dAt kEb*d bIndENz?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1336</key>
-			<value>Convert Keys from </value>
+			<value>cxnvRt kEz frxm </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1337</key>
-			<value> to </value>
+			<value> tU </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1338</key>
-			<value> Layout</value>
+			<value> lAtW`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1339</key>
-			<value>Keep Keys as-is</value>
+			<value>kEp kEz za`- zi`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1400</key>
-			<value>Next Tab</value>
+			<value>nekst tab</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1401</key>
-			<value>Reset Current Changes</value>
+			<value>rEset kRni`t cAnjiz</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1402</key>
-			<value>Leave &amp; Save Changes</value>
+			<value>lEv &amp; sAv cAnjiz</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1403</key>
-			<value>Audio &amp; Language</value>
+			<value>do`qEqO &amp; lANgwij</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1404</key>
-			<value>Controls</value>
+			<value>kxntrOls</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1405</key>
-			<value>Basic</value>
+			<value>bAsik</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1406</key>
-			<value>Active Controller</value>
+			<value>ka`tiv kxntrOlR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1407</key>
-			<value>Advanced</value>
+			<value>di`vanst</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1408</key>
-			<value>Preflight Checklist</value>
+			<value>prEflIt ceklist</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1410</key>
-			<value>Reduced Frights</value>
+			<value>ridUst frIts</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1411</key>
-			<value>Reduced Frights (Echoes of the Eye)</value>
+			<value>ridUst frIts (ke`zO` vx` DE qI)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1412</key>
-			<value>Makes certain frightening sequences easier to navigate</value>
+			<value>mAks sRtin frItinEN sEkwensis zE`qEqR tU navigAt</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1413</key>
-			<value>The frightening aspects of Echoes of the Eye are part of the intended experience. If they become an obstacle to your enjoyment of Outer Wilds, enabling this option will reduce some of those aspects.\\nAre you sure?</value>
+			<value>Dx frItinEn sa`pekts vx` ke`zO` vx` DE qI q@ p@t vx` DE ni`tendid ki`sp|qEni`s. fi` DA bEkxm na` bo`stxcl tU y* ni`jYmint vx` tW`qR wIldz, ni`bA`lEN Dis po`Sin wil ridUs sxm vx` DOz sa`pekts.\\nq@ yU SR?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1414</key>
-			<value>The frightening aspects of Outer Wilds are part of the intended experience. If they become an obstacle to your enjoyment of the game, enabling this option will reduce some of those aspects.\\nAre you sure?</value>
+			<value>Dx frItinEn sa`pekts vx` tW`qR wIldz q@ p@t vx` DE ni`tendid ki`sp|qEni`s. fi` DA bEkxm na` bo`stxcl tU y* ni`jYmint vx` Dx gAm, ni`bA`lEN Dis po`Sin wil ridUs sxm vx` DOz sa`pekts.\\nq@ yU SR?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1420</key>
-			<value>Jetpack Auto Boost</value>
+			<value>jetpak to`qO bUst</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1421</key>
-			<value>Translator Auto Equip</value>
+			<value>tranzlAtR to`qO kE`wip</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1422</key>
-			<value>Freeze time while translating text</value>
+			<value>frEz tIm wIl tranzlAtEN tekst</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1423</key>
-			<value>Freeze time while reading ship log</value>
+			<value>frEz tIm wIl rEdEN Sip log</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1424</key>
-			<value>Freeze time while talking to others</value>
+			<value>frEz tIm wIl tokEN tU Dx`zR`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1430</key>
-			<value>Music-only Volume</value>
+			<value>mEwzik- nO`lE volyUm</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1431</key>
-			<value>Change volume for all music and sound effects.</value>
+			<value>cAnj volyUm f* lo` mEwzik na`d sWnd fi`ke`ts.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1440</key>
-			<value>General</value>
+			<value>jenRlu`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1441</key>
-			<value>Movement</value>
+			<value>mUvmint</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1442</key>
-			<value>Equipment</value>
+			<value>kE`wipmint</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1443</key>
-			<value>Flight</value>
+			<value>flIt</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1444</key>
-			<value>Ship Log</value>
+			<value>Sip log</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1445</key>
-			<value>Retrieve Scout</value>
+			<value>ritrEv skWt</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1446</key>
-			<value>Primary Interact</value>
+			<value>prIm#qE ni`tRkak`t</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1447</key>
-			<value>Secondary Interact</value>
+			<value>sekind#qE ni`tRkak`t</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1450</key>
-			<value>SHIP FUEL DEPLETED</value>
+			<value>Sip fyUl diplEtid</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1451</key>
-			<value>New Exhibit</value>
+			<value>nU ge`zibit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1452</key>
-			<value>Certain parts of Echoes of the Eye can be intense for some players. If they become an obstacle to your enjoyment of Outer Wilds, a "Reduced Frights" option is available in the gameplay menu.</value>
+			<value>sRtin p@ts vx` ke`zO` vx` DE qI can bE ni`tens f* sxm plAzR`. fi` DA bEcxm na` bo`stxcl tU y* ni`jYmint vx` tW`qR wIldz, qx "ridUst frIts" po`Sin zi` vx`lA`bx`l ni` Dx gAmplA menyU.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1453</key>
-			<value>Adjust the slider until the image on the left is barely visible.</value>
+			<value>dx`jxst Dx slIdR nx`til DE mi`ji` no` Dx left zi` b#lE vizibl.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1500</key>
-			<value>- NEW EXHIBIT -</value>
+			<value>- nU ge`zibit -</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1501</key>
-			<value>- COMING SOON -</value>
+			<value>- kxmEN sUn -</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1502</key>
-			<value>Translator Auto Equip</value>
+			<value>tranzlatR to`qO kE`wip</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1503</key>
-			<value>AUDIO &amp; LANGUAGE</value>
+			<value>do`qEqO &amp; lANgwij</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1504</key>
-			<value>CONTROLS</value>
+			<value>kxntrOlz</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1505</key>
-			<value>Water Quality</value>
+			<value>wotR kwolitE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1506</key>
-			<value>Amount of detail in waves and lighting quality of the water.\\nRendering cost: High</value>
+			<value>mx`nW`t vx` dEtAl ni` wAvz na`d lItEN kwolitE vx` Dx wotR.\\nrendRNE` kost: hI</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1507</key>
-			<value>Lighting Effects Quality</value>
+			<value>lItEN fi`ke`ts kwolitE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1508</key>
-			<value>Resolution of reflections and darkened interiors in certain locations through the game world.\\nRendering cost: Medium</value>
+			<value>rezxlUSin vx` riflekSinz na`d d@kind ni`t|qEzR` ni` sRtin lOkASinz TrU Dx gAm wRld.\\nrendRNE` kost: mEdEmx`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1509</key>
-			<value>Reflections Quality</value>
+			<value>riflekSinz kwolitE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1510</key>
-			<value>Resolution of reflections in certain locations through the game world.\\nRendering cost: Medium</value>
+			<value>rezxlUSin vx` riflekSinz ni` sRtin lOkASinz TrU Dx gAm wRld.\\nrendRNE` kost: mEdEmx`</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1511</key>
-			<value>Leave &amp; Save Changes</value>
+			<value>lEv &amp; sAv cAnjiz</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1512</key>
-			<value>Default Settings (Gameplay)</value>
+			<value>dEfolt setENz (gAmplA)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1513</key>
-			<value>Default Settings (Audio &amp; Language)</value>
+			<value>dEfolt setENz (do`qEqO &amp; lANgwij)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1514</key>
-			<value>Default Settings (Controls)</value>
+			<value>dEfolt setENz (kxntrOlz)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1515</key>
-			<value>Default Settings (Graphics)</value>
+			<value>dEfolt setENz (grafiks)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1520</key>
-			<value>Thank you for supporting Outer Wilds Ventures! A new museum exhibit is now available in the village observatory.</value>
+			<value>TANk yU f* sxp*tEN tW`qR wIldz vencRz! qx nU mEwzEmx` ge`zibit zi` nW vx`lA`bx`l ni` Dx vilij bx`zRvxt*qE.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1521</key>
-			<value>Patch 8 (PS4 version </value>
+			<value>pac 8 (pE. se`. 4 vRZin </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1522</key>
-			<value>) contains major updates to the input system.  As a result, all input bindings have been reset to defaults. We apologize for the inconvenience!</value>
+			<value>) cxntAnz mAjR px`dAts tU DE ni`put sistm.  za` qx rizult, lo` ni`put bIndENz hav ben rEset tU dEfolts. wE px`lo`ji`zI` f* DE ni`kxnvEnyins!</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1523</key>
-			<value>Patch 8 contains major updates to the input system.  As a result, all input bindings have been reset to defaults. We apologize for the inconvenience!</value>
+			<value>pac 8 cxntAnz mAjR px`dAts tU DE ni`put sistm.  za` qx rizult, lo` ni`put bIndENz hav ben rEset tU dEfolts. wE px`lo`ji`zI` f* DE ni`kxnvEnyins!</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1530</key>
-			<value>DEEP SPACE RADIO</value>
+			<value>dEp spAs rAdEqO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1531</key>
-			<value>RADIO TOWER</value>
+			<value>rAdEqO tWqR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1532</key>
-			<value>DEEP SPACE SATELLITE</value>
+			<value>dEp spAs satulIt</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1540</key>
-			<value>Echoes of the Eye will become available once you resume from the title screen. Do you want to return to the title screen now?</value>
+			<value>ke`zO` vx` DE qI wil bEkxm vx`lA`bx`l wxns yU rizUm frxm Dx tItl skrEn. dU yU wont tU ritRn tU Dx tItl skrEn nW?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1541</key>
-			<value>Interact with objects (secondary interactions)</value>
+			<value>ni`tRka`t wiT bo`jekts (sekind#qE ni`tRka`Sinz)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1542</key>
-			<value>Scout: Launch/Forward Snapshot\\nSignalscope: Zoom In\\nTranslator: Translate</value>
+			<value>skWt: lonc/f*wRd snapSot\\nsignlskWp: zUm ni`\\ntranzlAtR: tranzlAt</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1543</key>
-			<value>Scout: Rearview Snapshot</value>
+			<value>skWt: r|vEw snapSot</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1544</key>
-			<value>Change volume for sound effects.</value>
+			<value>cAnj volyU, f* sWnd fi`ke`ts.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1545</key>
-			<value>Change volume for sound effects.</value>
+			<value>cAnj volyU, f* sWnd fi`ke`ts.</value>
 		</TranslationTableEntryUI>
 	</table_ui>
 </TranslationTable_XML>
