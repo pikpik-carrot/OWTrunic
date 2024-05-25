@@ -68,30 +68,31 @@ Yarrow: y#qO
 Locations:
 
 Sun: sxn
-Sun Station: sxn stASin
+Sun Station: sxn stASxn
 Ash Twin: Sa` twin
 Ember Twin: me`bR twin
-Hour glass Twins: qWgR`las twinz
+Hourglass Twins: qWgR`las twinz
 Timber Hearth: timbR h@T
 The Attlerock: DE ta`lrok
 Brittle Hollow: britl holO
 Hollow's Lantern: holOz lantRn
-Giants Deep: jIni`ts dEp
+Giants Deep: jInx`ts dEp
 Dark Bramble: d@k brambl
 The Interloper: DE ni`tRlOpR
 White Holw: wIt hOl
 Quatum Moon: kwontxm mUn
 The Eye of the Universe: DE qI vx` Dx yUnivRs
-Escape Pod: eskAp pod
-Orbital Probe Cannon: b*`ti`l prOb canin
-Control Modual: kxntrOl mojl
-Lauch Modual: lonc mojl
-Probe Tracking Modual: prOb trakEN mojl
+Escape Pod: se`kAp pod
+Orbital Probe Cannon: b*`ti`l prOb canxn
+Control Module: kxntrOl mojUl
+Lauch Module: lonc mojUl
+Probe Tracking Modual: prOb trakiN mojUl
 
 Common Words:
 Nomai: nOmI
 Hearthians?: h@TEni`z
-The Stranger's inhabitants: Dx strAnjRz ni`habatitz
-Anglerfish: nA`jalR fiS
+The Stranger's inhabitants: Dx strAnjRz ni`habitxnts
+Anglerfish: NA`glRfiS
 Jellyfish: jelEfiS
-cancel: kansul
+cancel: kansl
+advanced warp core: dx`vanst w*p k*
