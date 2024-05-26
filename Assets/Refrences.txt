@@ -57,7 +57,7 @@ Self: self
 Slate: slAt
 Solanum: sOlxnxm
 Spinel: spinel
-Spire: spIr
+Spire: spIqR
 Taget: tagit
 Tektite: tektIt
 Tephra: tefrx
