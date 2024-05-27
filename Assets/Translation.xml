@@ -563,7 +563,7 @@
 			LAEVI: We’re meeting in the &lt;color=orange&gt;Fossil Fish Cave&lt;/color&gt; to play the game! If you’re too big to climb through the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt; hole:
 		</key>
 		<value>
-			LAEVI: We’re meeting in the &lt;color=orange&gt;Fossil Fish Cave&lt;/color&gt; to play the game! If you’re too big to climb through the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt; hole:
+			lavE: wR mEtiN ni` Dx &lt;color=orange&gt;fosl fiS kAv&lt;/color&gt; tU plA Dx gAM! fi` yR tU big tU klIm TrU DE &lt;color=orange&gt;NA`glRfiS vO`lR`ku`&lt;/color&gt; hOl:
 		</value>
 	</entry>
 	<entry>
@@ -571,7 +571,7 @@
 			LAEVI: You’ll have to go the long way, but it isn’t far. Go to &lt;color=orange&gt;Stepping Stone Cave&lt;/color&gt;, and then up and into the &lt;color=orange&gt;Fossil Fish Cave&lt;/color&gt;.
 		</key>
 		<value>
-			LAEVI: You’ll have to go the long way, but it isn’t far. Go to &lt;color=orange&gt;Stepping Stone Cave&lt;/color&gt;, and then up and into the &lt;color=orange&gt;Fossil Fish Cave&lt;/color&gt;.
+			lavE: yxl hav tU gO Dx loN wA, bxt ti` zi`nt f@. gO tU &lt;color=orange&gt;stepiN stOn kAv&lt;/color&gt;, na`d Den px` na`d ni`tU Dx &lt;color=orange&gt;fosl fiS kAv&lt;/color&gt;.
 		</value>
 	</entry>
 	<entry>
@@ -579,7 +579,7 @@
 			TAGET: I tried to get to the fossil fish through &lt;color=orange&gt;Stepping Stone Cave&lt;/color&gt;, but I couldn’t find the entrance. Where is it?
 		</key>
 		<value>
-			TAGET: I tried to get to the fossil fish through &lt;color=orange&gt;Stepping Stone Cave&lt;/color&gt;, but I couldn’t find the entrance. Where is it?
+			tagit: qI trId tU get tU Dx fosl fiS TrU &lt;color=orange&gt;stepiN stOn kAv&lt;/color&gt;, bxt qI kudnt fInd DE ne`trxns. w# zi` ti`?
 		</value>
 	</entry>
 	<entry>
@@ -587,43 +587,43 @@
 			ILEX: Remember to feed the fossil fish first! If you go to the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt; and throw a light into his mouth, he’ll show you the way.
 		</key>
 		<value>
-			ILEX: Remember to feed the fossil fish first! If you go to the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt; and throw a light into his mouth, he’ll show you the way.
+			lE`ki`s: rimembR tU fEd Dx fosl fiS fRst! fi` yU gO tU DE &lt;color=orange&gt;NA`glRfiS vO`lR`ku`&lt;/color&gt; na`d TrO qx lIt ni`tU hiz mWT, hil SO yU Dx wA.
 		</value>
 	</entry>
 	<entry>
 		<key>LAMI: Taget can’t fit through the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt; hole anymore because he grew bigger! He’s taller than Laevi now.</key>
-		<value>LAMI: Taget can’t fit through the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt; hole anymore because he grew bigger! He’s taller than Laevi now.</value>
+		<value>lAmE: tagit kant fit TrU DE &lt;color=orange&gt;NA`glRfiS vO`lR`ku`&lt;/color&gt; hOl ne`mE`q* bikxz hE grU bigR! hEz tolR Dan lavE nW.</value>
 	</entry>
 	<entry>
 		<key>LAEVI: Who cares? Ilex is still tallest.</key>
-		<value>LAEVI: Who cares? Ilex is still tallest.</value>
+		<value>lavE: hU k#z? lE`ki`s zi` stil tolist.</value>
 	</entry>
 	<entry>
 		<key>TAGET: Are we playing the fossil fish game tonight?</key>
-		<value>TAGET: Are we playing the fossil fish game tonight?</value>
+		<value>tagit: q@ wE plANi` Dx fosl fiS gAm tunIt?</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: I fed the fossil fish a new lantern. If you go to &lt;color=orange&gt;Stepping Stone Cave&lt;/color&gt;, the entrance to the &lt;color=orange&gt;Fossil Fish Cave&lt;/color&gt; is easy to see now.</key>
-		<value>SOLANUM: I fed the fossil fish a new lantern. If you go to &lt;color=orange&gt;Stepping Stone Cave&lt;/color&gt;, the entrance to the &lt;color=orange&gt;Fossil Fish Cave&lt;/color&gt; is easy to see now.</value>
+		<value>sOlxnxm: qI fed Dx fosl fiS qx nU lantRn. fi` yU gO tU &lt;color=orange&gt;stepiN stOn kAv&lt;/color&gt;, DE ne`trxns tU Dx &lt;color=orange&gt;fosl fiS kAv&lt;/color&gt; zi` zE`qE tU sE nW.</value>
 	</entry>
 	<entry>
 		<key>LAEVI: Gratitude, Solanum! It’s good you’re small enough to climb in through the hole at the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt;.</key>
-		<value>LAEVI: Gratitude, Solanum! It’s good you’re small enough to climb in through the hole at the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt;.</value>
+		<value>lavE: gratitUd, sOlxnxm! ti`s gud yR smol ni`fx` tU klIm ni` TrU Dx hOl ta` DE &lt;color=orange&gt;NA`glRfiS vO`lR`ku`&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>LAMI: I’m still small enough!</key>
-		<value>LAMI: I’m still small enough!</value>
+		<value>lAmE: mI` stil smol ni`fx`!</value>
 	</entry>
 	<entry>
 		<key>LAEVI: You won’t be for long. Mom and Dad are tall, so you and I will be tall, too.</key>
-		<value>LAEVI: You won’t be for long. Mom and Dad are tall, so you and I will be tall, too.</value>
+		<value>lavE: yU wOnt bE f* long. mom na`d dad q@ tol, sO yU na`d qI wil bE tol, tU.</value>
 	</entry>
 	<entry>
 		<key>
 			MELORAE: The heat from this star system’s &lt;color=lightblue&gt;sun&lt;/color&gt; is more bearable below the surface.
 		</key>
 		<value>
-			MELORAE: The heat from this star system’s sun is more bearable below the surface.
+			mil*qA: Dx hEt frxm Dis st@ sistxmz sxn zi` m* b#bx`l bilO Dx sRfxs.
 		</value>
 	</entry>
 	<entry>
@@ -631,7 +631,7 @@
 			MELORAE: When our &lt;color=orange&gt;escape pod&lt;/color&gt; punctured this planet’s surface, it broke into what scans show is a cave system with much cooler air. I &lt;i&gt;would&lt;/i&gt; recommend we seek a site down there to build a long-term shelter, Annona, but these passages are a maze!
 		</key>
 		<value>
-			MELORAE: When our &lt;color=orange&gt;escape pod&lt;/color&gt; punctured this planet’s surface, it broke into what scans show is a cave system with much cooler air. I &lt;i&gt;would&lt;/i&gt; recommend we seek a site down there to build a long-term shelter, Annona, but these passages are a maze!
+			mil*qA: wen q@ &lt;color=orange&gt;si`kAp pod&lt;/color&gt; pxNkcRd Dis planits sRfxs, ti` brOk ni`tU wxt skanz SO zi` qx kAv sistxm wiT mxc kUlR q#. qI &lt;i&gt;wud&lt;/i&gt; rekxmend wE sEk qx sIt dWn D# tU bild qx loN- tRm SeltR, nx`nO`qx, bxt DEz pasijiz q@ qx mAz!
 		</value>
 	</entry>
 	<entry>
@@ -639,7 +639,7 @@
 			ANNONA: Even with this danger, they are still our best chance for survival. We’ll form teams and descend into the caves to look for a shelter site. We can mark our findings on the walls to avoid becoming irreversibly lost.
 		</key>
 		<value>
-			ANNONA: Even with this danger, they are still our best chance for survival. We’ll form teams and descend into the caves to look for a shelter site. We can mark our findings on the walls to avoid becoming irreversibly lost.
+			nx`nO`qA: vE`n wiT Dis dAnjR, DA q@ stil q* best cans f* sRvIvxl. wil f*m tEmz na`d disend ni`tU Dx kAvz tU luk f* qx SeltR sIt. wE kan m@k q@ fIndiNz no` Dx wolz tU vx`dY` bikxmiN qJvi`sR`bx`lE lost.
 		</value>
 	</entry>
 	<entry>
@@ -647,7 +647,7 @@
 			ANNONA: Be cautious, everyone.
 		</key>
 		<value>
-			ANNONA: Be cautious, everyone.
+			nx`nO`qx: bE koSxs, ve`rEwxn.
 		</value>
 	</entry>
 	<entry>
@@ -655,7 +655,7 @@
 			RHUS: And be aware of the sand as you search. It appears to be rising gradually.
 		</key>
 		<value>
-			RHUS: And be aware of the sand as you search. It appears to be rising gradually.
+			rUs: na`d bE wx`q# vx` Dx sand za` yU s#c. ti` xp`zJ` tU bE rIziN grajUlx`qE.
 		</value>
 	</entry>
 	<entry>
@@ -663,7 +663,7 @@
 			COLEUS: The path to the shelter site is somewhat convoluted, so follow the instructions ahead closely!
 		</key>
 		<value>
-			COLEUS: The path to the shelter site is somewhat convoluted, so follow the instructions ahead closely!
+			kOlEsx`: Dx paT tU Dx SeltR sIt zi` sxmwxt konvxlUtid, sO folO DE ni`strxkSxnz hx`de` klOslE!
 		</value>
 	</entry>
 	<entry>
@@ -671,7 +671,7 @@
 			COLEUS: To reach the shelter site, walk forward until you meet the sandfall at the pit, then turn left. Continue to the room filled with rock column formations and climb upward through the opening above them.
 		</key>
 		<value>
-			COLEUS: To reach the shelter site, walk forward until you meet the sandfall at the pit, then turn left. Continue to the room filled with rock column formations and climb upward through the opening above them.
+			kOlEsx`: tU rEc Dx SeltR sIt, wok f*wRd nx`til yU mEt Dx sandfol ta` Dx pit, Den tRn left. kxntinyU tU Dx rUn fild wiT rok colxm f*mASxnz na`d klIm px`wRd TrU DE pO`nx`Ni` bx`vx` Dem.
 		</value>
 	</entry>
 	<entry>
@@ -679,7 +679,7 @@
 			COLEUS: The sand here is rising, so you must be cautious but swift.
 		</key>
 		<value>
-			COLEUS: The sand here is rising, so you must be cautious but swift.
+			kOlEsx`: Dx sand hJ zi` rIziN, sO yU mxst bE koSxs bxt swift.
 		</value>
 	</entry>
 	<entry>
@@ -687,7 +687,7 @@
 			COLEUS: Be cautious crossing the chasm ahead. The bridge Melorae and I crafted will do its job, but it isn’t strong.
 		</key>
 		<value>
-			COLEUS: Be cautious crossing the chasm ahead. The bridge Melorae and I crafted will do its job, but it isn’t strong.
+			kOlEsx`: bE koSxs krosiN Dx kazm hx`de`. Dx brij mil*qA na`d qI kraftid wil dU ti`s job, bxt ti` zi`nt stroN.
 		</value>
 	</entry>
 	<entry>
@@ -695,7 +695,7 @@
 			COLEUS: Once on the far side, look for the tunnel hidden behind the falling sand. Follow it, and you’ll reach the shelter site.
 		</key>
 		<value>
-			COLEUS: Once on the far side, look for the tunnel hidden behind the falling sand. Follow it, and you’ll reach the shelter site.
+			kOlEsx`: wxns no` Dx f@ sId, luk f* Dx txnl hidxn bihInd Dx foliN sand. folO ti`, na`d yxl rEc Dx SeltR sIt.
 		</value>
 	</entry>
 	<entry>
@@ -703,7 +703,7 @@
 			COLEUS: You’re doing well! There’s only a little farther left to go now until you reach the shelter site. You can rest there. Hurry, before the sand comes!
 		</key>
 		<value>
-			COLEUS: You’re doing well! There’s only a little farther left to go now until you reach the shelter site. You can rest there. Hurry, before the sand comes!
+			kOlEsx`: yR dUNi` wel! D#z nO`lE qx litl f@DR left tU gO nW nx`til yU rEc Dx SeltR sIt. yU kan rest D#. hRqE, bif* Dx sand kxmz!
 		</value>
 	</entry>
 	<entry>
@@ -711,7 +711,7 @@
 			MELORAE: Do not follow this tunnel to its end! (Coleus and I will examine the horror that lies at its terminus later, provided we live through this.)
 		</key>
 		<value>
-			MELORAE: Do not follow this tunnel to its end! (Coleus and I will examine the horror that lies at its terminus later, provided we live through this.)
+			mil*qA: dU not folO Dis txnl tU ti`s ne`d! (kOlEsx` na`d qI wil gi`zamin Dx h*qR Dat lIz ta` ti`s tRminxs lAtR, prxvIdid wE liv TrU Dis.)
 		</value>
 	</entry>
 	<entry>
@@ -719,7 +719,7 @@
 			ANNONA: Of note: This passage leads to breathable air. Refill your supply tank there (we cannot tell how far or deep these tunnels may wind), but do not linger, as the area is exposed to the heat of this alien &lt;color=lightblue&gt;sun&lt;/color&gt;.
 		</key>
 		<value>
-			ANNONA: Of note: This passage leads to breathable air. Refill your supply tank there (we cannot tell how far or deep these tunnels may wind), but do not linger, as the area is exposed to the heat of this alien &lt;color=lightblue&gt;sun&lt;/color&gt;.
+			nx`nO`qx: vx` nOt: Dis pasij lEdz tU brEDxbl q#. rEfil y* sxplI tANk D# (wE kanot tel hW f@ q* dEp DEz txnlz mA wInd), bxt dU not lENgR, za` DE q#qEqx z`i ki`spOzd tU Dx hEt vx` Dis lA`qInx` &lt;color=lightblue&gt;sxn&lt;/color&gt;.
 		</value>
 	</entry>
 	<entry>
@@ -727,7 +727,7 @@
 			ANNONA: Refill your air supply tank and return quickly.
 		</key>
 		<value>
-			ANNONA: Refill your air supply tank and return quickly.
+			nx`nO`qx: rEfil y* q# sxplI tANk na`d ritRn kwiklE.
 		</value>
 	</entry>
 	<entry>
@@ -735,7 +735,7 @@
 			RHUS: Keep moving, friends: There is nothing of interest at the end of this passage but rocks.
 		</key>
 		<value>
-			RHUS: Keep moving, friends: There is nothing of interest at the end of this passage but rocks.
+			rUs: kEp mUviN, frendz: D# zi` nxTiN vx` ni`trist ta` DE ne`d vx` Dis pasij bxt roks.
 		</value>
 	</entry>
 	<entry>
@@ -743,192 +743,192 @@
 			RHUS: And while these rocks are interesting, they can wait until a less urgent time.
 		</key>
 		<value>
-			RHUS: And while these rocks are interesting, they can wait until a less urgent time.
+			rUs: na`d wIl DEz roks q@ ni`tristiN, DA kan wAt nx`til qx les jR`nx`t tIm.
 		</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: The sands go to and fro,</key>
-		<value>SOLANUM: The sands go to and fro,</value>
+		<value>sOlxnxm: Dx sandz gO tU na`d frO,</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: Reversing their swift flow.</key>
-		<value>SOLANUM: Reversing their swift flow.</value>
+		<value>sOlxnxm: rivRsiN D# swift flO.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: If you’re inside</key>
-		<value>SOLANUM: If you’re inside</value>
+		<value>sOlxnxm: fi` yR ni`sId</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: When turns the tide,</key>
-		<value>SOLANUM: When turns the tide,</value>
+		<value>sOlxnxm: wen tRnz Dx tId,</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: Then skyward you should go.</key>
-		<value>SOLANUM: Then skyward you should go.</value>
+		<value>sOlxnxm: Den skIwRd yU Sud gO.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: Who was it when we last quit:</key>
-		<value>SOLANUM: Who was it when we last quit:</value>
+		<value>sOlxnxm: hU wxz ti` wen wE last kwit:</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: Me</key>
-		<value>SOLANUM: Me</value>
+		<value>sOlxnxm: mE</value>
 	</entry>
 	<entry>
 		<key>LAEVI: Me</key>
-		<value>LAEVI: Me</value>
+		<value>lavE: mE</value>
 	</entry>
 	<entry>
 		<key>ILEX: I was</key>
-		<value>ILEX: I was</value>
+		<value>lE`ki`s: qI wxz</value>
 	</entry>
 	<entry>
 		<key>ILEX: Me again</key>
-		<value>ILEX: Me again</value>
+		<value>lE`ki`s: mE gx`ne`</value>
 	</entry>
 	<entry>
 		<key>LAMI: Me!</key>
-		<value>LAMI: Me!</value>
+		<value>lAmE: mE!</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: Me_test</key>
-		<value>SOLANUM: Me</value>
+		<value>sOlxnxm: mE</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: Me_test2</key>
-		<value>SOLANUM: Me</value>
+		<value>sOlxnxm: mE</value>
 	</entry>
 	<entry>
 		<key>LAMI: Me</key>
-		<value>LAMI: Me</value>
+		<value>lAmE: mE</value>
 	</entry>
 	<entry>
 		<key>TAGET: It was me</key>
-		<value>TAGET: It was me</value>
+		<value>tagit: ti` wxz mE</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: Me_test3</key>
-		<value>SOLANUM: Me</value>
+		<value>sOlxnxm: mE</value>
 	</entry>
 	<entry>
 		<key>ILEX: I was_test</key>
-		<value>ILEX: I was</value>
+		<value>lE`ki`s: qI wxz</value>
 	</entry>
 	<entry>
 		<key>TAGET: Me again</key>
-		<value>TAGET: Me again</value>
+		<value>tagit: mE gx`ne`</value>
 	</entry>
 	<entry>
 		<key>LAEVI: Me_test</key>
-		<value>LAEVI: Me</value>
+		<value>lavE: mE</value>
 	</entry>
 	<entry>
 		<key>PYE: I’m receiving much stronger energy readings now that we’re beneath the crust. Whatever it is must lie somewhere below, closer to the &lt;color=lightblue&gt;comet&lt;/color&gt;’s center. And I’m starting to think it’s more dangerous than we realized.</key>
-		<value>PYE: I’m receiving much stronger energy readings now that we’re beneath the crust. Whatever it is must lie somewhere below, closer to the &lt;color=lightblue&gt;comet&lt;/color&gt;’s center. And I’m starting to think it’s more dangerous than we realized.</value>
+		<value>pI: mI` risEviN mxc stroNgR ne`jR`qE rEdiNz nW Dat wR binET Dx krxst. wxtevR ti` zi` mxst lI sxmw# bilO, klOsR tU Dx &lt;color=lightblue&gt;komxt&lt;/color&gt;s sentR. na`d mI` st@tiN tU TiNk ti`s m* dAnjRsx` Dan wE rElxzI`d.</value>
 	</entry>
 	<entry>
 		<key>PYE: Clary, can you hear us?</key>
-		<value>PYE: Clary, can you hear us?</value>
+		<value>pI: kl#qE, kan yU hJ sx`?</value>
 	</entry>
 	<entry>
 		<key>CLARY: Yes, but your voices are faint. I fear we will lose communication entirely if you continue any deeper.</key>
-		<value>CLARY: Yes, but your voices are faint. I fear we will lose communication entirely if you continue any deeper.</value>
+		<value>kl#qE: yes, bxt y* vYsiz q@ fAnt. qI fJ wE wil lUz cxmyUnikASxn ni`tIlR`qE fi` yU kxntinyU ne`qE dEpR.</value>
 	</entry>
 	<entry>
 		<key>POKE: Keep the &lt;color=orange&gt;shuttle&lt;/color&gt; warm for us, Clary. We’ll return the moment we identify the source of the energy readings!</key>
-		<value>POKE: Keep the &lt;color=orange&gt;shuttle&lt;/color&gt; warm for us, Clary. We’ll return the moment we identify the source of the energy readings!</value>
+		<value>pOk: kEp Dx &lt;color=orange&gt;Sxtl&lt;/color&gt; w*m f* sx`, kl#qE. wil ritRn Dx mOmxnt wE dI`ne`tifI Dx s*s vx` DE ne`jR`qE rEdiNz!</value>
 	</entry>
 	<entry>
 		<key>CLARY: I understand, but... Be cautious, both of you.</key>
-		<value>CLARY: I understand, but... Be cautious, both of you.</value>
+		<value>kl#qE: qI nx`dRstand, bxt... bE koSxs, bOT vx` yU.</value>
 	</entry>
 	<entry>
 		<key>POKE: The spherical stone casing here seems to be the source of the energy readings... No, rather, the source is what’s within the stone. I’m detecting some form of exotic matter.</key>
-		<value>POKE: The spherical stone casing here seems to be the source of the energy readings... No, rather, the source is what’s within the stone. I’m detecting some form of exotic matter.</value>
+		<value>pOk: Dx sfJki`lx` stOn kAsiN hJ sEmz tU bE Dx s*s vx` DE ne`jR`qE rEdiNz... nO, raDR, Dx s*s zi` wxts wiTin Dx stOn. mI` ditektiN sxm f*m vx` gi`zotik matR.</value>
 	</entry>
 	<entry>
 		<key>PYE: The stone is &lt;i&gt;muting&lt;/i&gt; our energy readings; they should be ten times what we’re seeing, at least.</key>
-		<value>PYE: The stone is &lt;i&gt;muting&lt;/i&gt; our energy readings; they should be ten times what we’re seeing, at least.</value>
+		<value>pI: Dx stOn zi` &lt;i&gt;myUtiN&lt;/i&gt; q* ne`jR`qE rEdiNz; DA Sud bE ten tImz wxt wR sENi`, ta` lEst.</value>
 	</entry>
 	<entry>
 		<key>POKE: Pye, I don’t think we want this matter interacting with us. As far as I can tell, direct contact with it would almost certainly be fatal.</key>
-		<value>POKE: Pye, I don’t think we want this matter interacting with us. As far as I can tell, direct contact with it would almost certainly be fatal.</value>
+		<value>pOk: pI, qI dOnt TiNk wE wont Dis matR ni`tRka`tiN wiT sx. za` f@ za` qI kan tel, dRke`t kontakt wiT ti` wud lo`mOst sRtnlE bE fAtl.</value>
 	</entry>
 	<entry>
 		<key>PYE: I’ve never encountered anything like this casing, but it’s all that’s protecting us from what’s inside. Worse still, this matter is disturbingly volatile.</key>
-		<value>PYE: I’ve never encountered anything like this casing, but it’s all that’s protecting us from what’s inside. Worse still, this matter is disturbingly volatile.</value>
+		<value>pI: vI` nevR ni`kWntRd ne`TE`Ni` lIk Dis kAsiN, bxt ti`s lo` Dats prxtektiN sx` frxm wxts ni`sId. wRs stil, Dis matR zi` distRbiNlE volxtl.</value>
 	</entry>
 	<entry>
 		<key>POKE: ...Pye. Whatever the matter inside this stone casing is, it’s more than just profoundly unstable; it’s under tonnes of pressure. Look at this density scan. I’ve never seen &lt;i&gt;anything&lt;/i&gt; this tightly compacted before! What &lt;i&gt;is&lt;/i&gt; this?</key>
-		<value>POKE: ...Pye. Whatever the matter inside this stone casing is, it’s more than just profoundly unstable; it’s under tonnes of pressure. Look at this density scan. I’ve never seen &lt;i&gt;anything&lt;/i&gt; this tightly compacted before! What &lt;i&gt;is&lt;/i&gt; this?</value>
+		<value>pOk: ...pI. wxtevR Dx matR ni`sId Dis stOn kAsiN zi`, ti`s m* Dan jxst prxfWndlE nx`stAbl; ti`s nx`dR txnz vx` preSR. luk ta` Dis densitE skan. vI` nevR sEn &lt;i&gt;ne`TE`Ni`&lt;/i&gt; Dis tItlE kxmpaktid bif*! wxt &lt;i&gt;zi`&lt;/i&gt; Dis?</value>
 	</entry>
 	<entry>
 		<key>PYE: This is orders of magnitude worse than I’d imagined. If this stone were to rupture, the lethal matter within would rapidly expand, completely blanketing this star system almost instantaneously. And the pressure is still building as the &lt;color=lightblue&gt;comet&lt;/color&gt; approaches this star system...</key>
-		<value>PYE: This is orders of magnitude worse than I’d imagined. If this stone were to rupture, the lethal matter within would rapidly expand, completely blanketing this star system almost instantaneously. And the pressure is still building as the &lt;color=lightblue&gt;comet&lt;/color&gt; approaches this star system...</value>
+		<value>pI: Dis zi` d*`zR` vx` magnitUd wRs Dan dI` mi`ja`ni`d. fi` Dis stOn wR tU rxpcR, Dx lETxl matR wiTin wud rapidlE ki`spandm kxmplEtlE blANkitiN Dis st@ sistxm lo`mOst ni`stxntAnEsx`lE. na`d Dx preSR zi` stil bildiN za` Dx &lt;color=lightblue&gt;komxt&lt;/color&gt; px`rOciz Dis st@ sistxm...</value>
 	</entry>
 	<entry>
 		<key>PYE: Return to the shuttle, right now! The rest of our friends need to know they’re in terrible danger. Leave your equipment and run!</key>
-		<value>PYE: Return to the shuttle, right now! The rest of our friends need to know they’re in terrible danger. Leave your equipment and run!</value>
+		<value>pI: ritRn tU Dx Sxtl, rIt nW! Dx rest vx` q@ frendz nEd tU nO D# ni` t#bi`lx` dAnjR. lEv y* ki`wipmxnt na`d rxn!</value>
 	</entry>
 	<entry>
 		<key>POKE: What are you doing, Pye?!</key>
-		<value>POKE: What are you doing, Pye?!</value>
+		<value>pOk: wxt q@ yU dUNi` pI?!</value>
 	</entry>
 	<entry>
 		<key>PYE: The more we know about this alien matter, the better our chances of survival. I will learn what I can here. Go, warn the others; maybe they can construct shelter somehow. ...&lt;i&gt;Now&lt;/i&gt;, Poke!</key>
-		<value>PYE: The more we know about this alien matter, the better our chances of survival. I will learn what I can here. Go, warn the others; maybe they can construct shelter somehow. ...&lt;i&gt;Now&lt;/i&gt;, Poke!</value>
+		<value>pI: Dx m* wE nO bx`tW Dis lx`qInx` matR, Dx betR q@ cansiz vx` sRvIvl. qI wil lRn wxt qI kan hJ. gO, w*n DE Dx`zR`; mAbE DA kan kxnstrxkt SeltR sxmhW. ...&lt;i&gt;nW&lt;/i&gt;, pOk!</value>
 	</entry>
 	<entry>
 		<key>
 			CLARY: I fear our situation may be dire:
 		</key>
 		<value>
-			CLARY: I fear our situation may be dire:
+			kl#qE: qI fJ q@ sicUSA`xn mA bE dIqR:
 		</value>
 	</entry>
 	<entry>
 		<key>CLARY: Pye, Poke, and I landed here on this &lt;color=lightblue&gt;comet&lt;/color&gt; not long after its arrival in this star system. Our &lt;color=orange&gt;shuttle&lt;/color&gt;’s equipment heard strange energy readings coming from somewhere beneath the surface.</key>
-		<value>CLARY: Pye, Poke, and I landed here on this &lt;color=lightblue&gt;comet&lt;/color&gt; not long after its arrival in this star system. Our &lt;color=orange&gt;shuttle&lt;/color&gt;’s equipment heard strange energy readings coming from somewhere beneath the surface.</value>
+		<value>kl#qE: pI, pOk, na`d qI landid hJ no` Dis &lt;color=lightblue&gt;komxt&lt;/color&gt; not loN fa`tR ti`s rx`vIlx` ni` Dis st@ sistxm. q@ &lt;color=orange&gt;Sxtl&lt;/color&gt;z ki`wipmxnt hRd strAnj ne`jR`qE rEdiNz kxmiN frxm sxmw# binET Dx sRfxs.</value>
 	</entry>
 	<entry>
 		<key>CLARY: Pye and Poke were able to locate a fissure in the ice on the &lt;color=lightblue&gt;comet&lt;/color&gt;’s sunward side, and they descended inside to investigate the source of the readings.</key>
-		<value>CLARY: Pye and Poke were able to locate a fissure in the ice on the &lt;color=lightblue&gt;comet&lt;/color&gt;’s sunward side, and they descended inside to investigate the source of the readings.</value>
+		<value>kl#qE: pI na`d pOk wR bA`l tU lOkAt qx fiZR ni` DE sI` no` Dx &lt;color=lightblue&gt;komxt&lt;/color&gt;s sxnwRd sId, na`d DA disendid ni`sId tU ni`vestigAt Dx s*s vx` Dx rEdiNz.</value>
 	</entry>
 	<entry>
 		<key>CLARY: But... Pye and my sister have been gone for a long time now. They haven’t contacted me since descending below the surface, either.</key>
-		<value>CLARY: But... Pye and my sister have been gone for a long time now. They haven’t contacted me since descending below the surface, either.</value>
+		<value>kl#qE: bxt... pI na`d mI sistR hav ben gon f* qx loN tIm nW. DA havnt kontaktid mE sins disendiN bilO Dx sRfxs, TE`qR.</value>
 	</entry>
 	<entry>
 		<key>CLARY: Should I leave the &lt;color=orange&gt;shuttle&lt;/color&gt; to look for them? I want to follow protocol, but I don’t know what I’ll do if they aren’t well...</key>
-		<value>CLARY: Should I leave the &lt;color=orange&gt;shuttle&lt;/color&gt; to look for them? I want to follow protocol, but I don’t know what I’ll do if they aren’t well...</value>
+		<value>kl#qE: Sxd qI lEv Dx &lt;color=orange&gt;Sxtl&lt;/color&gt; tU luk f* Dem? qI wont tU folO prOtxkol, bxt qI dOnt nO wxt lo` dU fi` DA n@`t wel...</value>
 	</entry>
 	<entry>
 		<key>CLARY: Poke... Pye... Come back to me safely, my friends.</key>
-		<value>CLARY: Poke... Pye... Come back to me safely, my friends.</value>
+		<value>kl#qE: pOk... pI... kxm bak tU mE sAflE, mI frendz.</value>
 	</entry>
 	<entry>
 		<key>
 			CLARY: This is troublesome: It seems the &lt;color=lightblue&gt;comet&lt;/color&gt; wishes to submerge our &lt;color=orange&gt;shuttle&lt;/color&gt; in ice. If we stay on the surface too long, the &lt;color=orange&gt;shuttle&lt;/color&gt; may freeze entirely.
 		</key>
 		<value>
-			CLARY: This is troublesome: It seems the &lt;color=lightblue&gt;comet&lt;/color&gt; wishes to submerge our &lt;color=orange&gt;shuttle&lt;/color&gt; in ice. If we stay on the surface too long, the &lt;color=orange&gt;shuttle&lt;/color&gt; may freeze entirely.
+			kl#qE: Dis zi` trxblsxm: ti` sEmz Dx &lt;color=lightblue&gt;komxt&lt;/color&gt; wiSiz tU sxbmRj q@ &lt;color=orange&gt;Sxtl&lt;/color&gt; ni` sI`. fi` wE stA no` Dx sRfxs tU loN, Dx &lt;color=orange&gt;Sxtl&lt;/color&gt; mA frEz ni`tIlR`E.
 		</value>
 	</entry>
 	<entry>
 		<key>POKE: Even if it did, couldn’t someone call it back home to the &lt;color=orange&gt;gravity cannon&lt;/color&gt; on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;?</key>
-		<value>POKE: Even if it did, couldn’t someone call it back home to the &lt;color=orange&gt;gravity cannon&lt;/color&gt; on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;?</value>
+		<value>pOk: vE`n fi` ti` did, kudnt sxmwxn kol ti` bak hOm tU Dx &lt;color=orange&gt;gravitE kanxn&lt;/color&gt; no` &lt;color=lightblue&gt;me`bR twin&lt;/color&gt;?</value>
 	</entry>
 	<entry>
 		<key>PYE: Yes, but the exploration of the &lt;color=lightblue&gt;comet&lt;/color&gt; would be more difficult if we were without the &lt;color=orange&gt;shuttle&lt;/color&gt; until someone recalled it. Perhaps we shouldn’t have landed on the dark side of the &lt;color=lightblue&gt;comet&lt;/color&gt;...</key>
-		<value>PYE: Yes, but the exploration of the &lt;color=lightblue&gt;comet&lt;/color&gt; would be more difficult if we were without the &lt;color=orange&gt;shuttle&lt;/color&gt; until someone recalled it. Perhaps we shouldn’t have landed on the dark side of the &lt;color=lightblue&gt;comet&lt;/color&gt;...</value>
+		<value>pI: yes, bxt DE ke`spl*SA`nx` vx` Dx &lt;color=lightblue&gt;komxt&lt;/color&gt; wud bE m* difikxlt fi` wE wR wiTWt Dx &lt;color=orange&gt;Sxtl&lt;/color&gt; nx`til sxmwxn rikold ti`. pRhaps wE Sudnt hav landid no` Dx d@k sId vx` Dx &lt;color=lightblue&gt;komxt&lt;/color&gt;...</value>
 	</entry>
 	<entry>
 		<key>CLARY: Suppose one of us remained in the &lt;color=orange&gt;shuttle&lt;/color&gt; to keep it warm and continue monitoring the surface.</key>
-		<value>CLARY: Suppose one of us remained in the &lt;color=orange&gt;shuttle&lt;/color&gt; to keep it warm and continue monitoring the surface.</value>
+		<value>kl#qE: sxpOz wxn vx` sx` rimAnd ni` Dx &lt;color=orange&gt;Sxtl&lt;/color&gt; tU kEp ti` w*m na` kxntinyU monitRNi` Dx sRfxs.</value>
 	</entry>
 	<entry>
 		<key>PYE: This would be wise, I think, Clary. If you don’t mind waiting here with it, Poke and I can continue to investigate the surface.</key>
-		<value>PYE: This would be wise, I think, Clary. If you don’t mind waiting here with it, Poke and I can continue to investigate the surface.</value>
+		<value>pI: Dis wud bE wIz, qI TiNk. kl#qE. fi` yU dOnt mInd wAtiN hJ wiT ti`, pOk na`d qI kan kxntinyU tU ni`vestigAt Dx sRfxs.</value>
 	</entry>
 	<entry>
 		<key>&lt;color=orange&gt;Mining site 2b&lt;/color&gt;</key>
