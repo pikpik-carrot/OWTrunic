@@ -265,7 +265,7 @@
 			BEGIN FLIGHTLOG: &lt;color=orange&gt;Escape Pod 1&lt;/color&gt;. &lt;color=orange&gt;Vessel&lt;/color&gt; has been mortally injured. Emergency sequence activated. Awaiting departure from &lt;color=orange&gt;Vessel&lt;/color&gt;.
 		</key>
 		<value>
-			bEgin flItlog: &lt;color=orange&gt;se`kAp pod 1&lt;/color&gt;. &lt;color=orange&gt;vesxl&lt;/color&gt; haz ben m*txlE ni`jRd. mE`jR`nx`sE sEkwens ka`tivAtid. wx`tA`Ni` dip@cR frxm &lt;color=orange&gt;vesxl&lt;/color&gt;.
+			bEgin flItlog: &lt;color=orange&gt;si`kAp pod 1&lt;/color&gt;. &lt;color=orange&gt;vesl&lt;/color&gt; haz ben m*txlE ni`jRd. mE`jR`nx`sE sEkwens ka`tivAtid. wx`tA`Ni` dip@cR frxm &lt;color=orange&gt;vesl&lt;/color&gt;.
 		</value>
 	</entry>
 	<entry>
@@ -273,7 +273,7 @@
 			Launching &lt;color=orange&gt;Escape Pod 3&lt;/color&gt;... Launching &lt;color=orange&gt;Escape Pod 2&lt;/color&gt;... Now launching &lt;color=orange&gt;Escape Pod 1&lt;/color&gt;.
 		</key>
 		<value>
-			lonciN &lt;color=orange&gt;se`kAp pod 3&lt;/color&gt;... lonciN &lt;color=orange&gt;se`kAp pod 2&lt;/color&gt;... nW lonciN &lt;color=orange&gt;se`kAp pod 1&lt;/color&gt;.
+			lonciN &lt;color=orange&gt;si`kAp pod 3&lt;/color&gt;... lonciN &lt;color=orange&gt;si`kAp pod 2&lt;/color&gt;... nW lonciN &lt;color=orange&gt;si`kAp pod 1&lt;/color&gt;.
 		</value>
 	</entry>
 	<entry>
@@ -1468,7 +1468,7 @@
 	</entry>
 	<entry>
 		<key>sun stationYES. I can’t believe no one was around to see that.\\n\\nWe’re probably the best pilot in the space program by now.</key>
-		<value>&lt;i&gt;yes&lt;/i&gt;. qI kant bilEv nO wxn wxz rx`nW`d tU sE Dat.\\n\\nwR probablE Dx best pIlxt ni` Dx spAs program bI nW.</value>
+		<value>&lt;i&gt;yes&lt;/i&gt;. qI kant bilEv nO wxn wxz rx`nW`d tU sE Dat.\\n\\nwR probablE Dx best pIlxt ni` Dx spAs prOgram bI nW.</value>
 	</entry>
 	<entry>
 		<key>Selfsun stationYeah, but we’ve also died more than anyone else.</key>
@@ -2664,7 +2664,7 @@
 	</entry>
 	<entry>
 		<key>Scientist1ASo it’s Launch Day, eh? Seems like only yesterday you joined the space program, and suddenly here you are, leaving on your first solo voyage.</key>
-		<value>sO ti`s lonc dA, qe? sEmz lIk nO`lE yestRdA yU jYnd Dx spAs program, na`d sxdnlE hJ yU q@, lEviN no` y* fRst sOlO vYji`.</value>
+		<value>sO ti`s lonc dA, qA? sEmz lIk nO`lE yestRdA yU jYnd Dx spAs prOgram, na`d sxdnlE hJ yU q@, lEviN no` y* fRst sOlO vYji`.</value>
 	</entry>
 	<entry>
 		<key>Scientist1AWhat do you say - ready to get this beauty off the ground? It’s all fueled up and ready to go!</key>
@@ -3011,7 +3011,7 @@
 			WARNING: Increased solar activity detected.
 		</key>
 		<value>
-			WARNING: Increased solar activity detected.
+			w*niN: ni`krEsd sOlR ka`tivitE ditektid.
 		</value>
 	</entry>
 	<entry>
@@ -3019,7 +3019,7 @@
 			WARNING: Increased volcanic activity detected.
 		</key>
 		<value>
-			WARNING: Increased volcanic activity detected.
+			w*niN: ni`krEsd volkanik ka`tivitE ditektid.
 		</value>
 	</entry>
 	<entry>
@@ -3027,7 +3027,7 @@
 			VERDICT: Location is now inhospitable. Evacuation recommended.
 		</key>
 		<value>
-			VERDICT: Location is now inhospitable. Evacuation recommended.
+			vRdikt: lOkASxn zi` nW ni`hospitabl. vE`ka`yUSA`nx` rekxmendid.
 		</value>
 	</entry>
 	<entry>
@@ -3035,488 +3035,488 @@
 			ERROR: Unable to determine orbit. No signal detected matching any known criteria for the Eye of the universe.
 		</key>
 		<value>
-			ERROR: Unable to determine orbit. No signal detected matching any known criteria for the Eye of the universe.
+			q#qR: nx`bA`l tU ditRmin b*`ti`. nO signxl ditektid maciN ne`qE nOn krItJqEqx f* DE qI vx` Dx yUnivRs.
 		</value>
 	</entry>
 	<entry>
 		<key>Feldspar</key>
-		<value>Feldspar</value>
+		<value>feldsp@</value>
 	</entry>
 	<entry>
 		<key>Feldspar1Whoa!</key>
-		<value>Whoa!</value>
+		<value>wO!</value>
 	</entry>
 	<entry>
 		<key>Feldspar1Where’d you come from? No one’s come here in... well, ever, actually. That makes you the second Hearthian to ever reach Dark Bramble — after me, of course. Well done!</key>
-		<value>Where’d you come from? No one’s come here in... well, ever, actually. That makes you the second Hearthian to ever reach Dark Bramble — after me, of course. Well done!</value>
+		<value>w#d yU kxm frxm? nO wxnz kxn ni` hJ ni`... wel, ve`qR ka`cxlE. Dat mAks yU Dx sekint h@TEni` tU ve`qR rEc d@k brambl - fa`tR mE, vx` k*s. wel dxn!</value>
 	</entry>
 	<entry>
 		<key>Feldspar1...Say, it’s you! They made you an astronaut? And you haven’t blown yourself up yet, good for you!</key>
-		<value>...Say, it’s you! They made you an astronaut? And you haven’t blown yourself up yet, good for you!</value>
+		<value>...sA, ti`s yU! DA mAd yU na` sa`trxnot? na`d yU havnt blOn yRself px` yet, gud f* yU!</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldspar1Let me guess: anglerfish?</key>
-		<value>Let me guess: anglerfish?</value>
+		<value>let mE ges: NA`glRfiS?</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldspar1Feldspar! You’re alive!</key>
-		<value>Feldspar! You’re alive!</value>
+		<value>feldsp@! yR lx`vI!</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldspar1We all thought you were dead for sure.</key>
-		<value>We all thought you were dead for sure.</value>
+		<value>wE lo` Tot yU wR ded f* SR.</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldspar1Have you been here in Dark Bramble all this time?</key>
-		<value>Have you been here in Dark Bramble all this time?</value>
+		<value>hav yU ben hJ ni` d@k brambl lo` Dis tIm?</value>
 	</entry>
 	<entry>
 		<key>Feldspar2...You never were the brightest hatchling, were you.</key>
-		<value>...You never were the brightest hatchling, were you.</value>
+		<value>...yU nevR wR Dx brItist hacliN, wR yU.</value>
 	</entry>
 	<entry>
 		<key>Feldspar2Yeah, that’s right, I’m alive. Been camping out here since my ship, uh, y’know. Crashed.&lt;Pause&gt; Violently.</key>
-		<value>Yeah, that’s right, I’m alive. Been camping out here since my ship, uh, y’know. Crashed.&lt;Pause&gt; Violently.</value>
+		<value>ya, Dats rIt, mI` lx`vI. ben kampiN tW` hJ sins mI Sip, qx, yxnO. kraSt.&lt;Pause&gt; vIlintlE.</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldspar2Wait, what?</key>
-		<value>Wait, what?</value>
+		<value>wAt, wxt?</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldspar2You &lt;i&gt;crashed&lt;/i&gt;? But you’re the greatest pilot in Hearthian history!</key>
-		<value>You &lt;i&gt;crashed&lt;/i&gt;? But you’re the greatest pilot in Hearthian history!</value>
+		<value>yU &lt;i&gt;kraSt&lt;/i&gt;? bxt yR Dx grAtist pIlxt ni` h@TEni` histRqE!</value>
 	</entry>
 	<entry>
 		<key>Feldspar2aI haven’t lived in polite society for a while, so I’m just going to go ahead and assume that wasn’t sarcasm.</key>
-		<value>I haven’t lived in polite society for a while, so I’m just going to go ahead and assume that wasn’t sarcasm.</value>
+		<value>qI havnt livd ni` pxlIt sxsItx`qE f* qx wIl, sO mI` gONi` tU gO hx`de` na`d sx`mU` Dat wxznt s@kazm.</value>
 	</entry>
 	<entry>
 		<key>Feldspar3What! Me, killed off by thorny, extradimensional plants that entirely violate the laws of space and time, and a couple of giant predatory fish with gaping maws and enormously sharp fangs? Not in this lifetime, little buddy.</key>
-		<value>What! Me, killed off by thorny, extradimensional plants that entirely violate the laws of space and time, and a couple of giant predatory fish with gaping maws and enormously sharp fangs? Not in this lifetime, little buddy.</value>
+		<value>wxt! mE, kild fo` bI T*nE, ke`strxdimenSxnl plants Dat ni`tIlR`qE vIlx`tA` Dx loz vx` spAs na`d tIm, na`d qx kxpl vx` jInx`t predxt*qE fiS wiT gApiN moz na`d ni`m*`sx`lE S@p fANz? not ni` Dis lIftIm, litl bxdE.</value>
 	</entry>
 	<entry>
 		<key>Feldspar3I set up camp here when my ship got stuck here in Dark Bramble. Been living off the land ever since.</key>
-		<value>I set up camp here when my ship got stuck here in Dark Bramble. Been living off the land ever since.</value>
+		<value>qI set px` kamp hJ wen mI Sip got stxk hJ ni` d@k brambl. ben liviN fo` Dx land ve`qR sins.</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldspar3So what exactly happened to your ship?</key>
-		<value>So what exactly happened to your ship?</value>
+		<value>sO wxt gi`zaktlE hapxnd tU y* Sip?</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldspar3“Got stuck”? But aren’t you the greatest pilot in Hearthian history?</key>
-		<value>"Got stuck"? But aren’t you the greatest pilot in Hearthian history?</value>
+		<value>"got stxk"? bxt n@`t yU Dx grAtist pIlxt ni` h@TEni` histRqE?</value>
 	</entry>
 	<entry>
 		<key>Feldspar4Depends on how long “all this time” is. I’ve been here a while, I guess. Ever since I crashed my ship into — that is, ever since my daring escape from the jaws of an anglerfish!</key>
-		<value>Depends on how long "all this time" is. I’ve been here a while, I guess. Ever since I crashed my ship into — that is, ever since my daring escape from the jaws of an anglerfish!</value>
+		<value>dipendz no` hW loN "lo` Dis tIm" zi`. vI` ben hJ qx wIl, qI ges. ve`qR sins qI kraSt mI Sip ni`tU - Dat zi`, ve`qR sins mI d#Ni` si`kAp frxm Dx joz vx`na` NA`glRfiS!</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldspar4Tell me more about your flying prowess!</key>
-		<value>Tell me more about your flying prowess!</value>
+		<value>tel mE m* bx`tW` y* flINi` prWse`!</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldspar4You crashed your ship, didn’t you.</key>
-		<value>You crashed your ship, didn’t you.</value>
+		<value>yU kraSt y* Sip, didnt yU.</value>
 	</entry>
 	<entry>
 		<key>Feldspar4aHaha, you flatter me!&lt;Pause&gt; ...I &lt;i&gt;like&lt;/i&gt; it!</key>
-		<value>Haha, you flatter me!&lt;Pause&gt; ...I &lt;i&gt;like&lt;/i&gt; it!</value>
+		<value>haha, yU flatR mE!&lt;Pause&gt; ...qI &lt;i&gt;lIk&lt;/i&gt; ti`!</value>
 	</entry>
 	<entry>
 		<key>Feldspar4b&lt;i&gt;Obviously&lt;/i&gt;, yes. No need to be rude.</key>
-		<value>&lt;i&gt;Obviously&lt;/i&gt;, yes. No need to be rude.</value>
+		<value>&lt;i&gt;bo`vEsx`lE&lt;/i&gt;, yes. no nEd tU bE rUd.</value>
 	</entry>
 	<entry>
 		<key>Feldspar5...well, like I said, I crash. Blammo! On impact, my ship starts making noises like it’s coming apart from the inside, and I think, well, that ain’t great. Sure enough, I barely get out of there before the electrical systems start sparking like crazy.</key>
-		<value>...well, like I said, I crash. Blammo! On impact, my ship starts making noises like it’s coming apart from the inside, and I think, well, that ain’t great. Sure enough, I barely get out of there before the electrical systems start sparking like crazy.</value>
+		<value>...wel, lIk qI sed, qI kraS. blamO! no` mi`pakt, mI Sip st@ts mAkiN nYziz lIk ti`s kxmiN px`t@` frxm DE ni`sId, na`d qI TiNk, wel, Dat nA`t grAt. SR ni`fx`, qI b#lE get tW` vx` D# bif* DE li`ke`trikxl sistxms st@ sp@kiN lIk krAzE.</value>
 	</entry>
 	<entry>
 		<key>Feldspar5It’s either move fast or die unpleasantly, so I had to put a little distance between me and my poor, fried ship.</key>
-		<value>It’s either move fast or die unpleasantly, so I had to put a little distance between me and my poor, fried ship.</value>
+		<value>ti`s DE`qR mUv fast q* dI nx`plezxntlE, sO qI had tU put qx litl distins bitwEn mE na`d mI p*, frId Sip.</value>
 	</entry>
 	<entry>
 		<key>Feldspar5I camped out near where I crashed at first. I found this skeleton later — great find, would’ve been stupid not to use it.</key>
-		<value>I camped out near where I crashed at first. I found this skeleton later — great find, would’ve been stupid not to use it.</value>
+		<value>qI kampt nJ w# qI kraSt ta` fRst. qI fWnd Dis skelxtxn lAtR - grAt fInd, wudv ben stUpid not tU yUz ti`.</value>
 	</entry>
 	<entry>
 		<key>Feldspar5So I moved my setup over here and planted my emergency tree seeds. Been here ever since!</key>
-		<value>So I moved my setup over here and planted my emergency tree seeds. Been here ever since!</value>
+		<value>sO qI mUvd mI setxp vO`qR hJ na`d plantid mI mi`jR`nx`sE trE sEdz. ben hJ ve`qR sins!</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldspar5...Wow.</key>
-		<value>...Wow.</value>
+		<value>...wW.</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldspar5I can’t believe you didn’t die.</key>
-		<value>I can’t believe you didn’t die.</value>
+		<value>qI kant bilEv yU didnt dI.</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldspar5I can’t believe you destroyed your ship.</key>
-		<value>I can’t believe you destroyed your ship.</value>
+		<value>qI kant bilEv yU distrYd y* Sip.</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldspar5No wonder there are so many stories about you back home!</key>
-		<value>No wonder there are so many stories about you back home!</value>
+		<value>nO wxndR D# q@ sO menE st*zE` bx`tW` yU bak hOm!</value>
 	</entry>
 	<entry>
 		<key>Feldspar5aMy story goes like this. I’d just finished exploring the core of Giant’s Deep, and I wanted to try my hand at Dark Bramble, seeing as no one had ever been before.</key>
-		<value>My story goes like this. I’d just finished exploring the core of Giant’s Deep, and I wanted to try my hand at Dark Bramble, seeing as no one had ever been before.</value>
+		<value>mI st*qE gOz lIk Dis. dI` jxst finiSt ki`spl*Ni` Dx k* vx` jInx`ts dEp, na`d qI wontid tU trI mI hand ta` d@k brambl, sENi` za` nO wxn had ve`qR ben bif*.</value>
 	</entry>
 	<entry>
 		<key>Feldspar5aGetting around in Dark Bramble was easy, mind you. Once you’ve dodged one massive, interdimensional vine bristling with thorns, you’ve dodged ’em all.</key>
-		<value>Getting around in Dark Bramble was easy, mind you. Once you’ve dodged one massive, interdimensional vine bristling with thorns, you’ve dodged ’em all.</value>
+		<value>getiN rx`nW`d ni` d@k brambl wxz zE`qE, mInd yU. wxns yUv dojd wxn masiv. ni`tRdimenSxnl vIn brisliN wiT T*nz, yUv dojd m lo`.</value>
 	</entry>
 	<entry>
 		<key>Feldspar5aBut after a while, I run into this huge anglerfish — you’ve seen ’em? Big gnarly things, and this was the biggest one I’ve ever seen. I pull a few stunts, try to shake the thing off — nothing too fancy. I’m going full-speed when the fish clips me, knocks me into a vine, and...</key>
-		<value>But after a while, I run into this huge anglerfish — you’ve seen ’em? Big gnarly things, and this was the biggest one I’ve ever seen. I pull a few stunts, try to shake the thing off — nothing too fancy. I’m going full-speed when the fish clips me, knocks me into a vine, and...</value>
+		<value>bxt fa`tR qx wIl, qI rxn ni`tU Dis hyUj NA`glRfiS - yUv sEn m? big n@lE TiNz, na`d Dis wxz Dx bigist wxn vI` ve`qR sEn. qI pul qx fyU stxnts, trI tU SAk Dx TiN fo` - nxTiN tU fansE. mI` gONi` ful- spEd wen Dx fiS klips mE, noks mE ni`tU qx vIn, na`d...</value>
 	</entry>
 	<entry>
 		<key>Feldspar5bOh, this is a good story. I’d just finished exploring the core of Giant’s Deep and needed a new challenge, and none of us had ever been inside Dark Bramble, so I think, hey, let’s give that a try.</key>
-		<value>Oh, this is a good story. I’d just finished exploring the core of Giant’s Deep and needed a new challenge, and none of us had ever been inside Dark Bramble, so I think, hey, let’s give that a try.</value>
+		<value>qO, Dis zi` qx gud st*qE. dI` jxst finiSt ki`spl*Ni` Dx k* vx` jInx`ts dEp na`d nEdid qx nU calinj, na`d nxn vx` sx` had ve`qR ben ni`sId d@k brambl, sO qI TiNk, hA, lets giv Dat qx trI.</value>
 	</entry>
 	<entry>
 		<key>Feldspar5bI’ve been cruising around for a while, dodging the odd massive, interdimensional vine bristling with thorns, when I run into this huge anglerfish, the biggest I’ve ever seen.</key>
-		<value>I’ve been cruising around for a while, dodging the odd massive, interdimensional vine bristling with thorns, when I run into this huge anglerfish, the biggest I’ve ever seen.</value>
+		<value>vI` ben krUziN rx`nW`d f* qx wIl, dojiN DE do` masiv, ni`tRdimenSxnl vIn brisliN wiT T*nz, wen qI rxn ni`tU Dis hyUj NA`glRfiS, Dx bigist vI` ve`qR sEn.</value>
 	</entry>
 	<entry>
 		<key>Feldspar5bI pull a few stunts, try to shake the thing off — nothing too fancy. I’m going full-speed when the fish clips me, knocks me into a vine, and...</key>
-		<value>I pull a few stunts, try to shake the thing off — nothing too fancy. I’m going full-speed when the fish clips me, knocks me into a vine, and...</value>
+		<value>qI pul qx fyU stxnts, trI tU SAk Dx TiN fo` - nxTiN tU fansE. mI` gONi` ful- spEd wen Dx fiS klips mE, noks mE ni`tU qx vIn, na`d...</value>
 	</entry>
 	<entry>
 		<key>Feldspar5cHaha, you flatter me!&lt;Pause&gt; ...I &lt;i&gt;like&lt;/i&gt; it!</key>
-		<value>Haha, you flatter me!&lt;Pause&gt; ...I &lt;i&gt;like&lt;/i&gt; it!</value>
+		<value>haha, yU flatR mE!&lt;Pause&gt; ...qI &lt;i&gt;lIk&lt;/i&gt; ti`!</value>
 	</entry>
 	<entry>
 		<key>Feldspar5cI came to Dark Bramble for the excitement. I’d just finished exploring the core of Giant’s Deep and needed a new challenge, and none of us had ever gone farther than Dark Bramble’s ice fields, so I thought, hey, let’s give it a try.</key>
-		<value>I came to Dark Bramble for the excitement. I’d just finished exploring the core of Giant’s Deep and needed a new challenge, and none of us had ever gone farther than Dark Bramble’s ice fields, so I thought, hey, let’s give it a try.</value>
+		<value>qI kAm tU d@k brambl f* DE ki`sItmxnt. dI` jxst finiSt ki`spl*Ni` Dx k* vx` jInx`ts dEp na`d nEdid qx nU calinj, na`d nxn vx` sx` had ve`qR gon f@DR Dan d@k bramblz sI` fEldz, sO qI Tot, hA, lets giv Dat qx trI.</value>
 	</entry>
 	<entry>
 		<key>Feldspar5cI’ve been cruising around for a while, dodging the odd massive, interdimensional vine bristling with thorns, when I run into this huge anglerfish, the biggest I’ve ever seen.</key>
-		<value>I’ve been cruising around for a while, dodging the odd massive, interdimensional vine bristling with thorns, when I run into this huge anglerfish, the biggest I’ve ever seen.</value>
+		<value>vI` ben krUziN rx`nW`d f* qx wIl, dojiN DE do` masiv, ni`tRdimenSxnl vIn brisliN wiT T*nz, wen qI rxn ni`tU Dis hyUj NA`glRfiS, Dx bigist vI` ve`qR sEn.</value>
 	</entry>
 	<entry>
 		<key>Feldspar5cI pull a few stunts, try to shake the thing off — nothing too fancy. I’m going full-speed when the fish clips me, knocks me into a vine, and...</key>
-		<value>I pull a few stunts, try to shake the thing off — nothing too fancy. I’m going full-speed when the fish clips me, knocks me into a vine, and...</value>
+		<value>qI pul qx fyU stxnts, trI tU SAk Dx TiN fo` - nxTiN tU fansE. mI` gONi` ful- spEd wen Dx fiS klips mE, noks mE ni`tU qx vIn, na`d...</value>
 	</entry>
 	<entry>
 		<key>Feldspar6aYeah, pretty much.</key>
-		<value>Yeah, pretty much.</value>
+		<value>ya, pritE mxc.</value>
 	</entry>
 	<entry>
 		<key>Feldspar6bYou know, in the old days, I used to think the same thing every time I came back from a flight in one piece.</key>
-		<value>You know, in the old days, I used to think the same thing every time I came back from a flight in one piece.</value>
+		<value>yU nO, ni` DE lO`d dAz, qI yUsd tU TiNk Dx sAm TiN ve`rE tIm qI kAm bak frxm qx flIt ni` wxn pEs.</value>
 	</entry>
 	<entry>
 		<key>Feldspar6bThese days, I’m used to it.</key>
-		<value>These days, I’m used to it.</value>
+		<value>DEz dAz, mI` yUst tU ti.</value>
 	</entry>
 	<entry>
 		<key>Feldspar6cEasy for you to say. Your ship probably has all kinds of fancy modifications and upgrades, like “working retro boosters” and “non-flammable construction materials.”</key>
-		<value>Easy for you to say. Your ship probably has all kinds of fancy modifications and upgrades, like "working retro boosters" and "non-flammable construction materials."</value>
+		<value>zE`qE f* yU tU sA. y* Sip probxblE haz lo` kIndz vx` fansE modifikASxnz na`d px`grAdz, lIk "wRkiN retrO bUstRz" na`d "non- flamxbl kxnstrxkSxn mxtJqElx`z."</value>
 	</entry>
 	<entry>
 		<key>Feldspar6dHeh. You’re not half-bad yourself, making it here in one piece.</key>
-		<value>Heh. You’re not half-bad yourself, making it here in one piece.</value>
+		<value>he. yR not haf- bad yRself, mAkiN ti` hJ ni` wxn pEs.</value>
 	</entry>
 	<entry>
 		<key>Feldspar7Anyway, that’s how it all went down, hatchling!</key>
-		<value>Anyway, that’s how it all went down, hatchling!</value>
+		<value>ne`wE`qA, Dats hW ti` lo` went dWn, hacliN!</value>
 	</entry>
 	<entry>
 		<key>Feldspar7Story’s over, but feel free to stay and enjoy the fire a while.</key>
-		<value>Story’s over, but feel free to stay and enjoy the fire a while.</value>
+		<value>st*zE` vO`qR, bxt fEl frE tU stA na`d ni`jY Dx fIqR qx wIl.</value>
 	</entry>
 	<entry>
 		<key>Feldspar7Or don’t. Fire’s not going anywhere.</key>
-		<value>Or don’t. Fire’s not going anywhere.</value>
+		<value>q* dOnt. fIzR` not gONi` ne`wE`q#.</value>
 	</entry>
 	<entry>
 		<key>FeldsparSkipHeh, you got it in one. Kind of hard not to, once you’ve seen one of those fish up close and personal-like.</key>
-		<value>Heh, you got it in one. Kind of hard not to, once you’ve seen one of those fish up close and personal-like.</value>
+		<value>he, yU got ti` ni` wxn. kInd vx` h@d not tU, wxns yUv sEn wxn vx` DOz fiS px` klOs na`d persxnxl- lIk.</value>
 	</entry>
 	<entry>
 		<key>FeldsparSkipWell, take a load off and refill your oxygen tank, hatchling! There’s plenty of fire to go around.</key>
-		<value>Well, take a load off and refill your oxygen tank, hatchling! There’s plenty of fire to go around.</value>
+		<value>wel, tAk qx lOd fo` na`d rEfil y* ko`sijxn tANk, hacliN! D#z plentE vx` fIqR tU gO rx`nW`d.</value>
 	</entry>
 	<entry>
 		<key>FeldsparPrimaryMenuAnything else you wanted?</key>
-		<value>Anything else you wanted?</value>
+		<value>ne`TE`Ni` le`s yU wontid?</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldsparPrimaryMenuI found something!</key>
-		<value>I found something!</value>
+		<value>qI fWnd sxmTiN!</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldsparPrimaryMenuWhere should I explore here?</key>
-		<value>Where should I explore here?</value>
+		<value>w# Sud qI ki`spl* hJ?</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldsparPrimaryMenuYou reached the core of Giant’s Deep? How’d you do it?</key>
-		<value>You reached the core of Giant’s Deep? How’d you do it?</value>
+		<value>yU rEct Dx k* vx` jInx`ts dEp? hWd yU dU ti`?</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldsparPrimaryMenuWhere’s your ship?</key>
-		<value>Where’s your ship?</value>
+		<value>w#z y* Sip?</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldsparPrimaryMenuWhat happened to this anglerfish?</key>
-		<value>What happened to this anglerfish?</value>
+		<value>wxt hapxnd tU Dis NA`glRfiS?</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldsparPrimaryMenuShouldn’t I tell ground control to come get you?</key>
-		<value>Shouldn’t I tell ground control to come get you?</value>
+		<value>Sudnt qI tel grWnd kxntrOl tU kxm get yU?</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldsparPrimaryMenuNah, I’m good.</key>
-		<value>Nah, I’m good.</value>
+		<value>na, mI` gud.</value>
 	</entry>
 	<entry>
 		<key>FeldsparSecondaryHey, hatchling, pull up a marshmallow stick!</key>
-		<value>Hey, hatchling, pull up a marshmallow stick!</value>
+		<value>hA, hacliN, pul px` qx m@smelO stik!</value>
 	</entry>
 	<entry>
 		<key>FeldsparSecondaryCome to hear tales of my heroic exploits, have you?</key>
-		<value>Come to hear tales of my heroic exploits, have you?</value>
+		<value>kxm tU hJ tAlz vx` mI hirOki` ke`splYts, hav yU?</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldsparSecondaryI found something!</key>
-		<value>I found something!</value>
+		<value>qI fWnd sxmTiN!</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldsparSecondaryWhere should I explore here?</key>
-		<value>Where should I explore here?</value>
+		<value>w# Sud qI ki`spl* hJ?</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldsparSecondaryYou reached the core of Giant’s Deep? How’d you do it?</key>
-		<value>You reached the core of Giant’s Deep? How’d you do it?</value>
+		<value>yU rEct Dx k* vx` jInx`ts dEp? hWd yU dU ti`?</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldsparSecondaryWhere’s your ship?</key>
-		<value>Where’s your ship?</value>
+		<value>Ww#z y* Sip?</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldsparSecondaryWhat happened to this anglerfish?</key>
-		<value>What happened to this anglerfish?</value>
+		<value>wxt hapxnd tU Dis NA`glRfiS?</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldsparSecondaryShouldn’t I tell ground control to come get you?</key>
-		<value>Shouldn’t I tell ground control to come get you?</value>
+		<value>Sudnt qI tel grWnd kxntrOl tU kxm get yU?</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldsparSecondaryNah, I’m good.</key>
-		<value>Nah, I’m good.</value>
+		<value>na, mI` gud.</value>
 	</entry>
 	<entry>
 		<key>FeldsparFishOh, the skeleton? It was like this when I got here.</key>
-		<value>Oh, the skeleton? It was like this when I got here.</value>
+	  <value>qO, Dx skelxtxn? ti` wxz lIk Dis wen qI got hJ.</value>
 	</entry>
 	<entry>
 		<key>FeldsparFishAs near as I can tell, this anglerfish must have been chewing on the vine and eaten a seed, and then the seed grew and grew in the poor fish’s stomach until... this happened.</key>
-		<value>As near as I can tell, this anglerfish must have been chewing on the vine and eaten a seed, and then the seed grew and grew in the poor fish’s stomach until... this happened.</value>
+		<value>za` nJ za` qI kan tel, Dis NA`glRfiS mxst hav ben cUNi` no` Dx vIn na`d tE`nx` qx sEd, na`d Den Dx sEd grU na`d grU ni` Dx p* fiSiz stxmxk nx`til... Dis hapxnd.</value>
 	</entry>
 	<entry>
 		<key>FeldsparFishGross, huh?</key>
-		<value>Gross, huh?</value>
+		<value>grOs, hx?</value>
 	</entry>
 	<entry>
 		<key>FeldsparFishThis skeleton was a good find. Keeps the fish away. See, they’re territorial, so they mostly avoid each other. That’s why I set up camp here.</key>
-		<value>This skeleton was a good find. Keeps the fish away. See, they’re territorial, so they mostly avoid each other. That’s why I set up camp here.</value>
+		<value>Dis skelxtxn wxz qx gud fInd. kEps Dx fiS wx`qA. D# t#ti`q*qElx`, sO DA mostlE vx`dY` cE` Dx`qR. Dats wI qI set px` kamp hJ.</value>
 	</entry>
 	<entry>
 		<key>FeldsparCoreGiant’s Deep’s core, huh? Ahhh, that was a wild one.</key>
-		<value>Giant’s Deep’s core, huh? Ahhh, that was a wild one.</value>
+		<value>jInx`ts dEps k*, hx? qo, Dat wxz qx wIld wxn.</value>
 	</entry>
 	<entry>
 		<key>FeldsparCoreBut since you’re asking, I gotta assume you haven’t made it down there yourself yet, right? If I tell you how, it kinda feels like cheating.</key>
-		<value>But since you’re asking, I gotta assume you haven’t made it down there yourself yet, right? If I tell you how, it kinda feels like cheating.</value>
+		<value>bxt sins yR sa`kiN, qI gotx sx`mU` yU havnt mAd ti` dWn D# yRself yet, rIt? fi` qI tel yU hW, ti` kIndx fElz lIk cEtiN.</value>
 	</entry>
 	<entry>
 		<key>FeldsparCoreHm...</key>
-		<value>Hm...</value>
+		<value>hm...</value>
 	</entry>
 	<entry>
 		<key>FeldsparCore...On a &lt;i&gt;completely unrelated&lt;/i&gt; note, that sure was a big, hollow vine my ship crashed into.&lt;Pause=3&gt; Yep.</key>
-		<value>...On a &lt;i&gt;completely unrelated&lt;/i&gt; note, that sure was a big, hollow vine my ship crashed into.&lt;Pause=3&gt; Yep.</value>
+		<value>...no` qx &lt;i&gt;kxmplEtlE nx`rilAtid&lt;/i&gt; nOt, Dat SR wxz qx big holO vIn mI Sip kraSt ni`tU.&lt;Pause=3&gt; yep.</value>
 	</entry>
 	<entry>
 		<key>FeldsparCoreIf I were you, I’d go take a walk and see where it ends.</key>
-		<value>If I were you, I’d go take a walk and see where it ends.</value>
+		<value>fi` qI wR yU, dI` gO tAk qx wok na`d sE w# ti` ne`dz.</value>
 	</entry>
 	<entry>
 		<key>FeldsparCoreYou’ll want to go to the tail end of this anglerfish skeleton here and look for a flickering light in the fog — that’ll be my old ship. Path starts there.</key>
-		<value>You’ll want to go to the tail end of this anglerfish skeleton here and look for a flickering light in the fog — that’ll be my old ship. Path starts there.</value>
+		<value>yxl wont tU gO tU Dx tAl ne`d vx` Dis NA`glRfiS skelxtxn hJ na`d luk f* qx flikRNi` lIt ni` Dx fog - Datl bE mI lO`d Sip. paT st@ts D#.</value>
 	</entry>
 	<entry>
 		<key>FeldsparGoodIf you change your mind, you know where to find me!</key>
-		<value>If you change your mind, you know where to find me!</value>
+		<value>fi` yU cAnj y* mInd, yU nO w# tU fInd mE!</value>
 	</entry>
 	<entry>
 		<key>FeldsparRescueWell... yeah, sure, whenever you have the time.</key>
-		<value>Well... yeah, sure, whenever you have the time.</value>
+		<value>wel... ya, SR, wenevR yU hav Dx tIm.</value>
 	</entry>
 	<entry>
 		<key>FeldsparRescueFrankly, I kinda like it out here. Quiet, peaceful...ish.</key>
-		<value>Frankly, I kinda like it out here. Quiet, peaceful...ish.</value>
+		<value>fraNklE, qI kIndx lIk ti` tW` hJ. kwIti`, pEsful... Si`.</value>
 	</entry>
 	<entry>
 		<key>FeldsparRescueYou’re a little young to understand, but it’s a lot of pressure, being the best that ever was. Been nice to have a break.</key>
-		<value>You’re a little young to understand, but it’s a lot of pressure, being the best that ever was. Been nice to have a break.</value>
+		<value>yR qx litl yxN tU nx`dRstand, bxt ti`s qx lot vx` preSR, bENi` Dx best D# ve`qR wxz. ben nIs tU hav qx brAk.</value>
 	</entry>
 	<entry>
 		<key>FeldsparExploreThat’s the spirit!</key>
-		<value>That’s the spirit!</value>
+		<value>Dats Dx spJti`!</value>
 	</entry>
 	<entry>
 		<key>FeldsparExploreAnywhere’s good, but you should know that space is weird here. Intensely.</key>
-		<value>Anywhere’s good, but you should know that space is weird here. Intensely.</value>
+		<value>ne`wE`z#` gud, bxt yU Sud nO Dat spAs zi` wJd hJ. ni`tenslE.</value>
 	</entry>
 	<entry>
 		<key>FeldsparExploreEver tried throwing your scout into one of these weird seeds? See there, with the little opening? It’s just big enough to launch one through.</key>
-		<value>Ever tried throwing your scout into one of these weird seeds? See there, with the little opening? It’s just big enough to launch one through.</value>
+		<value>ve`qR trId TrONi` y* skWt ni`tU wxn vx` DEz wJd sEdz? s D#, wiT Dx litl pO`nx`Ni`? ti`s jxst big ni`fx` tU lonc wxn TrU.</value>
 	</entry>
 	<entry>
 		<key>FeldsparExploreYour scout tracker will tell you the scout is in two places at once, but I don’t think that’s... wrong, exactly, because space doesn’t work right in here. That seed looks small, see? But inside, it’s bigger.</key>
-		<value>Your scout tracker will tell you the scout is in two places at once, but I don’t think that’s... wrong, exactly, because space doesn’t work right in here. That seed looks small, see? But inside, it’s bigger.</value>
+		<value>y* skWt trakR wil tel yU Dx skWt zi` ni` tU plAsiz ta` wxns, bxt qI dOnt TiNk Dats... roN, gi`zaktlE, bikxz spAs dxznt w*k rIt ni` hJ. Dat sEd luks smol, sE? bxt ni`sId, ti`s bigR.</value>
 	</entry>
 	<entry>
 		<key>FeldsparExplore&lt;i&gt;Much&lt;/i&gt; bigger.</key>
-		<value>&lt;i&gt;Much&lt;/i&gt; bigger.</value>
+		<value>&lt;i&gt;mxc&lt;/i&gt; bigR.</value>
 	</entry>
 	<entry>
 		<key>FeldsparExploreI’ve had a lot of time to think about this, and my theory is space in Dark Bramble kind of expands as you go through each sphere. That’s why it’s bigger inside those seeds.</key>
-		<value>I’ve had a lot of time to think about this, and my theory is space in Dark Bramble kind of expands as you go through each sphere. That’s why it’s bigger inside those seeds.</value>
+		<value>vI` had qx lot vx` tIm tU TiNk bx`tW` Dis na`d mI TEqRqE zi` spAs ni` d@k brambl kInd vx` ki`spandz za` yU gO TrU cE` sfJ. Dats wI ti`s bigR ni`sId DOz sEdz.</value>
 	</entry>
 	<entry>
 		<key>FeldsparExploreWell, that’s my theory. Keep that in mind while you’re exploring Dark Bramble and maybe you won’t get lost inside forever.</key>
-		<value>Well, that’s my theory. Keep that in mind while you’re exploring Dark Bramble and maybe you won’t get lost inside forever.</value>
+		<value>wel, Dats mI TEqRqE. kEp Dat ni` mInd wIl yR ki`spl*Ni` d@k brambl na`d mAbE yU wOnt get lost ni`sId fRve`qR.</value>
 	</entry>
 	<entry>
 		<key>FeldsparExploreGood luck!</key>
-		<value>Good luck!</value>
+		<value>gud lxk!</value>
 	</entry>
 	<entry>
 		<key>FeldsparShipwreckNot far from here, as a matter of fact! If you go straight past the tail of this anglerfish skeleton here, you’ll see a flickering light in the fog.</key>
-		<value>Not far from here, as a matter of fact! If you go straight past the tail of this anglerfish skeleton here, you’ll see a flickering light in the fog.</value>
+		<value>not f@ frxm hJ, za` qx matR vx` fakt! fi` yU gO strAt past Dx tAl vx` Dis NA`glRfiS skelxtxn hJ, yxl sE qx flikRNi` lIt ni` Dx fog.</value>
 	</entry>
 	<entry>
 		<key>FeldsparShipwreckFollow that, and you’ll find my old ship.&lt;Pause&gt; What’s left of it, anyway.</key>
-		<value>Follow that, and you’ll find my old ship.&lt;Pause&gt; What’s left of it, anyway.</value>
+		<value>folO Dat, na`d yxl fInd mI lO`d Sip.&lt;Pause&gt; wxts left vx` ti`, ne`wE`qA.</value>
 	</entry>
 	<entry>
 		<key>FoundSomethingMenuLay it on me, hatchling!</key>
-		<value>Lay it on me, hatchling!</value>
+		<value>lA ti` no` mE hacliN!</value>
 	</entry>
 	<entry>
 		<key>FeldsparFoundSomethingMenuI went to the core of Giant’s Deep.</key>
-		<value>I went to the core of Giant’s Deep.</value>
+		<value>qI went tU Dx k* vx` jInx`ts dEp.</value>
 	</entry>
 	<entry>
 		<key>FeldsparFoundSomethingMenuI found the frozen jellyfish near your ship.</key>
-		<value>I found the frozen jellyfish near your ship.</value>
+		<value>qI fWnd Dx frOzxn jelEfiS nJ y* Sip.</value>
 	</entry>
 	<entry>
 		<key>FeldsparFoundSomethingMenuI found the Anglerfish nest.</key>
-		<value>I found the Anglerfish nest.</value>
+		<value>qI fWnd DE NA`glRfiS nest.</value>
 	</entry>
 	<entry>
 		<key>FeldsparFoundSomethingMenuI found a Dark Bramble seed on Timber Hearth.</key>
-		<value>I found a Dark Bramble seed on Timber Hearth.</value>
+		<value>qI fWnd qx d@k brambl sEd no` timbR h@T.</value>
 	</entry>
 	<entry>
 		<key>FeldsparFoundSomethingMenuI found Nomai writing saying anglerfish are blind.</key>
-		<value>I found Nomai writing saying anglerfish are blind.</value>
+		<value>qI fWnd nOmI rItiN sANi` NA`glRfiS q@ blInd.</value>
 	</entry>
 	<entry>
 		<key>FeldsparFoundSomethingMenuI found a Nomai shuttle and flew it!</key>
-		<value>I found a Nomai shuttle and flew it!</value>
+		<value>qI fWnd qx nOmI Sxtl na`d flU ti`!</value>
 	</entry>
 	<entry>
 		<key>FeldsparFoundSomethingMenuActually, nevermind.</key>
-		<value>Actually, nevermind.</value>
+		<value>ka`cxlE, nevRmInd.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething1So you figured out the ol’ tornado trick, did you? Good work!</key>
-		<value>So you figured out the ol’ tornado trick, did you? Good work!</value>
+		<value>sO yU figyRd tW` DE lO` t*nAdO trik, did yU? gud wRk!</value>
 	</entry>
 	<entry>
 		<key>FoundSomething1I found that bit out by accident, but let’s keep that between you and me, hey? Hornfels would have my very handsome head if they knew I’d been riding the cyclones again.</key>
-		<value>I found that bit out by accident, but let’s keep that between you and me, hey? Hornfels would have my very handsome head if they knew I’d been riding the cyclones again.</value>
+		<value>qI fWnd Dat bit tW` bI ka`sidxnt, bxt lets kEp Dat bitwEn yU na`d mE, hA? h*nfelz wud hav mI v#qE hansxm hed fi` DA nU dI` ben rIdiN Dx sIklOnz gx`ne`.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething1“The ship is fragile! It can break! You can’t subject it to extreme conditions!” Not like I was flying the thing into the sun, now, was I?</key>
-		<value>"The ship is fragile! It can break! You can’t subject it to extreme conditions!" Not like I was flying the thing into the sun, now, was I?</value>
+		<value>"Dx Sip zi` frajxl! ti` kan brAk! yU kant sxbjekt ti` tU ki`strEm kxndiSxnz!" not lIk qI wxz flINi` Dx TiN ni`tU Dx sxn, nW, wxz qI?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething1And the jellyfish, you figured those out, too? Hatchling, I tell you what, you’ve done real well for yourself! You’re a fine astronaut, sure, but you might just become a pilot yet!</key>
-		<value>And the jellyfish, you figured those out, too? Hatchling, I tell you what, you’ve done real well for yourself! You’re a fine astronaut, sure, but you might just become a pilot yet!</value>
+		<value>na`d Dx jelEfiS, yU figyRd DOz tW`, tU? hacliN, qI tel yU wxt, yUv dxn rEl wel f* yRself! yR qx fIn sa`trxnot, SR, bxt yU mIt jxst bikxm qx pIlxt yet!</value>
 	</entry>
-	<entry>
+	<entry> Ah, well, at least they didn’t eat me. All’s well that ends well, eh, hatchling
 		<key>FoundSomething2Ha! So the old thing still there, is it? That’s where I first camped out after the crash, you know. It was pretty cozy inside!</key>
-		<value>Ha! So the old thing still there, is it? That’s where I first camped out after the crash, you know. It was pretty cozy inside!</value>
+		<value>ha! sO DE lO`d TiN zi` stil D#, zi` ti`? Dats w# qI fRst kampt tW` fa`tR Dx kraS, yU nO. ti` wxz pritE kOzE ni`sId!</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2It does lack the structural integrity and indomitable spirit of a camp made in the shelter of the very bones of the species that tried to eat you, I suppose.</key>
-		<value>It does lack the structural integrity and indomitable spirit of a camp made in the shelter of the very bones of the species that tried to eat you, I suppose.</value>
+		<value>ti` dxz lak Dx strxkcRlx` ni`tegritE na`d ni`domitabl spJti` vx` qx kamp mAd ni` Dx SeltR vx` Dx v#qE bOnz vx` Dx spEsEz Dat trId tU tE` yU, qI sxpOz.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2Still. Very cozy.</key>
-		<value>Still. Very cozy.</value>
+		<value>stil. v#qE kOzE.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3So that’s where the blasted things come from, is it? Stars above, if I still had a working ship, I’d be sorely tempted to go show ’em what’s what!</key>
-		<value>So that’s where the blasted things come from, is it? Stars above, if I still had a working ship, I’d be sorely tempted to go show ’em what’s what!</value>
+		<value>sO Dats w# Dx blastid TiNz kxm frxm, zi` ti`? st@z bx`vx`, fi` qI stil had qx w*kiN Sip, dI` bE s*lE temptid tU gO SO m wxts wxt!</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3&lt;color=grey&gt;Sigh...&lt;/color&gt;</key>
-		<value>&lt;color=grey&gt;Sigh...&lt;/color&gt;</value>
+		<value>&lt;color=grey&gt;sI...&lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3Probably best to leave ’em alone, though, really. More trouble than it’s worth to mess with anglerfish.</key>
-		<value>Probably best to leave ’em alone, though, really. More trouble than it’s worth to mess with anglerfish.</value>
+		<value>probxblE best tU lEv m lx`nO`, DO, rilE. m* trxbl Dan ti`s wRT tO mes wiT NA`glRfiS.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4...That’s bad business, hatchling.</key>
-		<value>...That’s bad business, hatchling.</value>
+		<value>...Dats bad biznis, hacliN.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4As Chert will tell you if you so much as glance in Dark Bramble’s direction, there used to be a fifth planet where the Bramble is now.</key>
-		<value>As Chert will tell you if you so much as glance in Dark Bramble’s direction, there used to be a fifth planet where the Bramble is now.</value>
+		<value>za` cRt wil tel yU fi` yU sO mxc za` glans ni` d@k bramblz dRke`Sxn, D# yusdt tU bE qx fifT planit w# Dx brabl zi` nW.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4This infernal plant appeared at the center and kept growing, and growing, and growing, until it shattered the planet and scattered its pieces across space.</key>
-		<value>This infernal plant appeared at the center and kept growing, and growing, and growing, until it shattered the planet and scattered its pieces across space.</value>
+		<value>Dis ni`fRnl plant px`dJ` ta` Dx sentR na`d kept grONi`, na`d grONi`, na`d grONi`, nx`til ti` SatRd Dx planit na`d skatRd ti`s pEsiz kx`ros spAs.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4If we don’t get that seed you found sorted real quicklike, I suspect Timber Hearth will be heading toward the same fate. And I tell you what, we Hearthians have overcome far too much to be done in by some worthless &lt;i&gt;seed&lt;/i&gt;.</key>
-		<value>If we don’t get that seed you found sorted real quicklike, I suspect Timber Hearth will be heading toward the same fate. And I tell you what, we Hearthians have overcome far too much to be done in by some worthless &lt;i&gt;seed&lt;/i&gt;.</value>
+		<value>fi` wE dOnt get Dat sEd yU fWnd s*tid rEl kwiklIk, qI sxspekt timbR h@T wil bE hediN t*d Dx sAm fAt. na`d qI tel yU wxt, wE h@TEni`z hav vO`kR`mx` f@ tU mxc tu bE dxn ni` bI sxm wRTlis &lt;i&gt;sEd&lt;/i&gt;.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething5A-&lt;i&gt;ha&lt;/i&gt;! So the blasted things &lt;i&gt;do&lt;/i&gt; have a weakness!</key>
-		<value>A-&lt;i&gt;ha&lt;/i&gt;! So the blasted things &lt;i&gt;do&lt;/i&gt; have a weakness!</value>
+		<value>qo- &lt;i&gt;ho&lt;/i&gt;! sO Dx blastid TiNz &lt;i&gt;dU&lt;/i&gt; hav qx wEknis!</value>
 	</entry>
 	<entry>
 		<key>FoundSomething5Meaning my fly-as-fast-as-I-can approach to dealing with them could have used a bit more thought behind it.</key>
-		<value>Meaning my fly-as-fast-as-I-can approach to dealing with them could have used a bit more thought behind it.</value>
+		<value>mEniN mI flI- za`- fast- za`- qI- kan px`rOc tU dEliN wiT Dem kud hav yUzd qx bit m* Tot bihInd ti`.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething5Ah, well, at least they didn’t eat me. All’s well that ends well, eh, hatchling?</key>
-		<value>Ah, well, at least they didn’t eat me. All’s well that ends well, eh, hatchling?</value>
+		<value>qa, wel, ta` lEst DA didnt tE` mE. lo`z wel Dat ne`dz wel, qA, hacliN?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething7You flew a Nomaian shuttle? You don’t say! How was it? How did it handle?</key>
-		<value>You flew a Nomaian shuttle? You don’t say! How was it? How did it handle?</value>
+		<value>yU flU qx nOmIni` Sxtl? yU dOnt sA! hW wxz ti`? hW did ti` handl?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething7Can’t say I’d mind having a go at that myself, hatchling. Once I return to Timber Hearth, maybe that’ll have to be my next stop.</key>
-		<value>Can’t say I’d mind having a go at that myself, hatchling. Once I return to Timber Hearth, maybe that’ll have to be my next stop.</value>
+		<value>kant sA dI` mInd haviN qx gO ta` Dat mIself, hacliN. wxns qI ritRn tU timbR h@T, mAbE Datl hav tU bE mI nekst stop.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething7A brand-new astronaut, and you’re already a pro adventurer! Outer Wilds Ventures is in good hands with you, I can tell. The flight program is &lt;i&gt;going&lt;/i&gt; places!</key>
-		<value>A brand-new astronaut, and you’re already a pro adventurer! Outer Wilds Ventures is in good hands with you, I can tell. The flight program is &lt;i&gt;going&lt;/i&gt; places!</value>
+		<value>qx brand- nU sa`trxnot, na`d yR lo`redE qx prO dx`vencRqR! tW`qR wIldz vencRz zi` ni` gud handz wiT yU, qI kan tel. Dx flIt prOgram zi` &lt;i&gt;gONi`&lt;/i&gt; plAsiz!</value>
 	</entry>
 	<entry>
 		<key>FoundSomething6Nothing you want to share with me? Sounds like you’d better get out there and start exploring!</key>
-		<value>Nothing you want to share with me? Sounds like you’d better get out there and start exploring!</value>
+		<value>nxTiN yU wont tU S# wiT mE? sWndz lIk yUd betR get tW` D# na`d st@t ki`spl*Ni`!</value>
 	</entry>
 	<entry>
 		<key>SignDespite my checking on them at least a thousand times over, the images are STILL not ready to print over in the radio tower. Well, it’s like they say — a watched satellite never transmits data! &lt;size=20&gt;(Haha, that’s a little joke for you, journal. No one says that.)&lt;/size&gt;</key>
