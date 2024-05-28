@@ -16,7 +16,7 @@ Conoy: kxnY
 Cycad: sIkad
 Daz: daz
 Din: din
-Escall: se`kul
+Escall: se`kl
 Esker: se`kR
 Feldspar: feldsp@
 Filix: fEliks
