@@ -22,7 +22,7 @@ Feldspar: feldsp@
 Filix: fEliks
 Gabbro: gabrO
 Galena: gxlEnx
-Gneiss: nAs
+Gneiss: nIs
 Gossan: gosxn
 Hal: hal
 Hachling: hacliN
