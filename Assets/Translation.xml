@@ -290,7 +290,7 @@
 			Verdict: HOSPITABLE.
 		</key>
 		<value>
-			skaniN ke`stRnxl ne`vInR`mxnt... skan kxmplEt. mInR strxkcRlx` ni`stxbilxtEs ditektid. pokits vx` brEDxbl q# ditektid. da`kx`wit sOlR ne`jR`qE ditektid.
+			skaniN ke`stRnxl ni`vInR`mxnt... skan kxmplEt. mInR strxkcRlx` ni`stxbilxtEs ditektid. pokits vx` brEDxbl q# ditektid. da`kx`wit sOlR ne`jR`qE ditektid.
 			vRdikt: hospitabl.
 		</value>
 	</entry>
@@ -4648,26 +4648,26 @@
 	</entry>
 	<entry>
 		<key>PYE: Friends visiting from the &lt;color=orange&gt;Hanging City&lt;/color&gt;, we are planning the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; at the &lt;color=orange&gt;High Energy Lab&lt;/color&gt; on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;’s equator.</key>
-		<value>PYE: Friends visiting from the &lt;color=orange&gt;Hanging City&lt;/color&gt;, we are planning the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; at the &lt;color=orange&gt;High Energy Lab&lt;/color&gt; on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;’s equator.</value>
+		<value>pI: frendz vizitiN frxm Dx &lt;color=orange&gt;hANiN sitE&lt;/color&gt;, wE q@ planiN DE &lt;color=orange&gt;Sa` twin projekt&lt;/color&gt; ta` Dx &lt;color=orange&gt;hI ne`jR`qE lab&lt;/color&gt; no` &lt;color=lightblue&gt;me`bR twin&lt;/color&gt;z ki`wAtR.</value>
 	</entry>
 	<entry>
 		<key>CONOY: I became lost on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt; (my gratitude that Ramie found me!), but the &lt;color=orange&gt;High Energy Lab&lt;/color&gt; is the building with the large solar panels. I’m suprised I didn’t see it!</key>
-		<value>CONOY: I became lost on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt; (my gratitude that Ramie found me!), but the &lt;color=orange&gt;High Energy Lab&lt;/color&gt; is the building with the large solar panels. I’m suprised I didn’t see it!</value>
+		<value>kxnY: qI bikAm lost no` &lt;color=lightblue&gt;me`bR twin&lt;/color&gt; (mI gratitUd Dat rAmE fWnd mE!), bxt Dx &lt;color=orange&gt;hI ne`jR`qE lab&lt;/color&gt; zi` Dx bildiN wiT Dx l@j sOlR panxlz. mI` suprIzd qI didnt sE ti`!</value>
 	</entry>
 	<entry>
 		<key>RAMIE: I imagine our otherwise immensely clever Conoy would lose his own head if it weren’t anatomically impossible!</key>
-		<value>RAMIE: I imagine our otherwise immensely clever Conoy would lose his own head if it weren’t anatomically impossible!</value>
+		<value>rAmE: qI mi`ja`ni` q@ Dx`wR`zI` mi`ne`slE klevR cxnY wud lUz hiz nO` hed fi` ti` wRnt na`tx`mo`ki`lE mi`posibl!</value>
 	</entry>
 	<entry>
 		<key>The &lt;color=orange&gt;shuttle&lt;/color&gt; is currently resting at the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;.</key>
-		<value>The &lt;color=orange&gt;shuttle&lt;/color&gt; is currently resting at the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;.</value>
+		<value>Dx &lt;color=orange&gt;Sxtl&lt;/color&gt; zi` kRni`tlE restiN ta` Dx &lt;color=lightblue&gt;kwontxm mUn&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>
 			What is the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;?
 		</key>
 		<value>
-			What is the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;?
+			wxt zi` DE &lt;color=lightblue&gt;qI vx` Dx yUnivRs&lt;/color&gt;?
 		</value>
 	</entry>
 	<entry>
@@ -4675,7 +4675,7 @@
 			The &lt;color=lightblue&gt;Eye&lt;/color&gt; is the source of the signal that brought us here.
 		</key>
 		<value>
-			The &lt;color=lightblue&gt;Eye&lt;/color&gt; is the source of the signal that brought us here.
+			DE &lt;color=lightblue&gt;qI&lt;/color&gt; zi` Dx s*s vx` Dx signxl Dat brot sx` hJ.
 		</value>
 	</entry>
 	<entry>
@@ -4683,7 +4683,7 @@
 			Suppose the &lt;color=lightblue&gt;Eye&lt;/color&gt; is a more advanced being.
 		</key>
 		<value>
-			Suppose the &lt;color=lightblue&gt;Eye&lt;/color&gt; is a more advanced being.
+			sxpOz DE &lt;color=lightblue&gt;qI&lt;/color&gt; zi` qx m* dx`vanst bENi`.
 		</value>
 	</entry>
 	<entry>
@@ -4691,7 +4691,7 @@
 			The &lt;color=lightblue&gt;Eye&lt;/color&gt; is older than this universe, so imagine how much it could teach us.
 		</key>
 		<value>
-			The &lt;color=lightblue&gt;Eye&lt;/color&gt; is older than this universe, so imagine how much it could teach us.
+			DE &lt;color=lightblue&gt;qI&lt;/color&gt; zi` lO`dR Dan Dis yUnivRs, sO mi`ja`ni` hW muc ti` kud tEc sx`..
 		</value>
 	</entry>
 	<entry>
@@ -4699,7 +4699,7 @@
 			Perhaps it is a cosmic library!
 		</key>
 		<value>
-			Perhaps it is a cosmic library!
+			pRhaps ti` zi` qx kozmik lIbr#qE!
 		</value>
 	</entry>
 	<entry>
@@ -4707,7 +4707,7 @@
 			What is the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal?
 		</key>
 		<value>
-			What is the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal?
+			wxt zi` DE &lt;color=lightblue&gt;zI`&lt;/color&gt; signxl?
 		</value>
 	</entry>
 	<entry>
@@ -4715,7 +4715,7 @@
 			Suppose the &lt;color=lightblue&gt;Eye&lt;/color&gt; wishes to communicate.
 		</key>
 		<value>
-			Suppose the &lt;color=lightblue&gt;Eye&lt;/color&gt; wishes to communicate.
+			sxpOz DE &lt;color=lightblue&gt;qI&lt;/color&gt; wiSiz tU kxmyUnikAt.
 		</value>
 	</entry>
 	<entry>
@@ -4723,7 +4723,7 @@
 			The signal is a call. Were we the intended audience?
 		</key>
 		<value>
-			The signal is a call. Were we the intended audience?
+			Dx signxl zi` qx kol. wR wE DE ni`tendid do`qEnx`s?
 		</value>
 	</entry>
 	<entry>
@@ -4731,7 +4731,7 @@
 			The signal is the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s voice. It speaks a language we don’t yet know.
 		</key>
 		<value>
-			The signal is the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s voice. It speaks a language we don’t yet know.
+			Dx signxl zi` DE &lt;color=lightblue&gt;zI`&lt;/color&gt; vYs. ti` spEks qx langwij wE dOnt yet nO.
 		</value>
 	</entry>
 	<entry>
@@ -4739,7 +4739,7 @@
 			Or maybe the signal is the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s attempt at expressing itself.
 		</key>
 		<value>
-			Or maybe the signal is the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s attempt at expressing itself.
+			q* mAbE Dx signxl zi DE &lt;color=lightblue&gt;zI`&lt;/color&gt; tx`me`pt ta` ki`spresiN ti`self.
 		</value>
 	</entry>
 	<entry>
@@ -4747,63 +4747,63 @@
 			Of note: From the signal, we were able to determine the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s approximate age (or perhaps its lack of age?).
 		</key>
 		<value>
-			Of note: From the signal, we were able to determine the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s approximate age (or perhaps its lack of age?).
+			vx` nOt: frxm Dx signxl, wE wR bA`l tU ditRmin DE &lt;color=lightblue&gt;zI`&lt;/color&gt; px`roksimxt jA` (q* pRhaps ti`s lak vx` jA`?).
 		</value>
 	</entry>
 	<entry>
 		<key>Be welcomed in this place. This shrine is a space to reflect on what brought us to this star system: the signal from the &lt;color=lightblue&gt;Eye&lt;/color&gt;. </key>
-		<value>Be welcomed in this place. This shrine is a space to reflect on what brought us to this star system: the signal from the &lt;color=lightblue&gt;Eye&lt;/color&gt;. </value>
+		<value>bE welkxmd ni` Dis plAs. Dis SrIn za` qx spAs tU riflekt no` wxt brot sx` tU Dis st@ sistxm: Dx signxl from DE &lt;color=lightblue&gt;qI&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>We observed the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal in our travels, and followed it here to find its source. </key>
-		<value>We observed the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal in our travels, and followed it here to find its source. </value>
+		<value>wE bx`zRvd DE &lt;color=lightblue&gt;zI`&lt;/color&gt; signxl ni` q@ travlz, na`d folOd ti` hJ tU fInd ti`s s*s.</value>
 	</entry>
 	<entry>
 		<key>What we know is this: The source of the signal (which we have chosen to call the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;) is older than this universe itself. The rest, we have yet to learn.</key>
-		<value>What we know is this: The source of the signal (which we have chosen to call the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;) is older than this universe itself. The rest, we have yet to learn.</value>
+		<value>wxt wE nO zi` Dis: Dx s*s vx` Dx signxl (wic wE hav cOzxn tU kol DE &lt;color=lightblue&gt;qI vx` Dx yUnivRs&lt;/color&gt;) zi` lO`dR Dan Dis yUnivRs ti`self. Dx rest, wE hav yet tU lRn.</value>
 	</entry>
 	<entry>
 		<key>Enter, and open your mind to its possibilities.</key>
-		<value>Enter, and open your mind to its possibilities.</value>
+		<value>ne`tR, na`d pO`n y* mInd tU ti`s posibilitEs.</value>
 	</entry>
 	<entry>
 		<key>Solution 1: We could retrieve the warp core from the &lt;color=orange&gt;Vessel&lt;/color&gt;.</key>
-		<value>Solution 1: We could retrieve the warp core from the &lt;color=orange&gt;Vessel&lt;/color&gt;.</value>
+		<value>sxlUSxn 1: wE kud ritrEv Dx w*p k* frxm Dx &lt;color=orange&gt;vesl&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>RAMIE: The &lt;color=orange&gt;Vessel&lt;/color&gt;’s warp core is broken, at best (recall those present when the &lt;color=orange&gt;Vessel&lt;/color&gt; crashed said it sustained lethal injuries). There is no guaranteed reward for this risk.</key>
-		<value>RAMIE: The &lt;color=orange&gt;Vessel&lt;/color&gt;’s warp core is broken, at best (recall those present when the &lt;color=orange&gt;Vessel&lt;/color&gt; crashed said it sustained lethal injuries). There is no guaranteed reward for this risk.</value>
+		<value>rAmE: Dx &lt;color=orange&gt;vesl&lt;/color&gt;z w*p k* zi` brokxn, ta` best (rikol DOz prezxnt wen Dx &lt;color=orange&gt;vesl&lt;/color&gt; kraSt sed ti` sxstAnd lETxl ni`jRzE`). D# zi` nO g#nx`tEd riw*d f* Dis risk.</value>
 	</entry>
 	<entry>
 		<key>CONOY: Perhaps we could still repair it. My grandmother told me there was little time to assess the nature or extent of the damage.</key>
-		<value>CONOY: Perhaps we could still repair it. My grandmother told me there was little time to assess the nature or extent of the damage.</value>
+		<value>kxnY: pRhaps wE kud stil rip# ti`. mI grandmxDR tOld mE D# wxz litl tIm tU sx`se` DE ki`zakt nAcR q* ki`stent vx` Dx damij.</value>
 	</entry>
 	<entry>
 		<key>CASSAVA: Even if it no longer functions, the old core could be a valuable blueprint, provided we’re able to transport it back here.</key>
-		<value>CASSAVA: Even if it no longer functions, the old core could be a valuable blueprint, provided we’re able to transport it back here.</value>
+		<value>kxsovx: vE`n fi` ti` nO loNgR fxNkSxnz, DE lO`d k* kud bE qx valyUbx`l blUprint, prxvIdid wR bA`l tU transp*t ti` bak hJ.</value>
 	</entry>
 	<entry>
 		<key>PHLOX: This would require a return to &lt;color=lightblue&gt;Dark Bramble&lt;/color&gt;. Plume (my father) said many good Nomai perished there.</key>
-		<value>PHLOX: This would require a return to &lt;color=lightblue&gt;Dark Bramble&lt;/color&gt;. Plume (my father) said many good Nomai perished there.</value>
+		<value>floks: Dis wud rikwIqR qx ritRn tU &lt;color=lightblue&gt;d@k brambl&lt;/color&gt;. plUm (mI foDR) sed menE gud nOmI p#Si`t D#.</value>
 	</entry>
 	<entry>
 		<key>CYCAD: My mentor (Coleus) and his old mentor once discovered and studied an anglerfish fossil on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;. Using that knowledge, we could avoid the anglerfish entirely!</key>
-		<value>CYCAD: My mentor (Coleus) and his old mentor once discovered and studied an anglerfish fossil on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;. Using that knowledge, we could avoid the anglerfish entirely!</value>
+		<value>sIkad: mI ment* (kOlEsx`) na`d hiz lO`d ment* wxns diskxvRd na`d stxdEd na`d NA`glRfiS fosl no` &lt;color=lightblue&gt;me`bR twin&lt;/color&gt;. yUziN Dat nolij, wE kud vx`dY` DE NA`glRfiS ni`tIlR`qE!</value>
 	</entry>
 	<entry>
 		<key>COLEUS: What Melorae and I learned from that fossil would theoretically help us evade the anglerfish, but our hypothesis was never tested on a live specimen.</key>
-		<value>COLEUS: What Melorae and I learned from that fossil would theoretically help us evade the anglerfish, but our hypothesis was never tested on a live specimen.</value>
+		<value>kOlEs`: wxt mil*qA na`d qI lRnd frxm Dat fosl wud TEqRte`ki`lE help sx` vi`dA` DE NA`glRfiS, bxt q* hIpoTxsis wxz nevR testid no` qx lIv spesimin.</value>
 	</entry>
 	<entry>
 		<key>RAMIE: I remember that anglerfish fossil! We used to play in &lt;color=orange&gt;Fossil Fish Cave&lt;/color&gt; when we were children.</key>
-		<value>RAMIE: I remember that anglerfish fossil! We used to play in &lt;color=orange&gt;Fossil Fish Cave&lt;/color&gt; when we were children.</value>
+		<value>rAmE: qI rimembR Dat NA`glRfiS fosl! wE yUst tU plA ni` &lt;color=orange&gt;fosl fiS kAv&lt;/color&gt; wen wE wR cildrxn.</value>
 	</entry>
 	<entry>
 		<key>
 			SOLANUM: I no longer believe, as I did as a child on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;, that the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt; (the source of the signal) wishes to harm us. But it may not want to be found, either.
 		</key>
 		<value>
-			SOLANUM: I no longer believe, as I did as a child on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;, that the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt; (the source of the signal) wishes to harm us. But it may not want to be found, either.
+			sOlxnxm: qI nO loNgR bilEv, za` qI did za` qx cIld no` &lt;color=lightblue&gt;me`bR twin&lt;/color&gt;, Dat DE &lt;color=lightblue&gt;qI vx` Dx yUnivRs&lt;/color&gt; (Dxs s*s vx` Dx signxl) wiSiz tU h@m sx`. bxt ti` mA not wont tU bE fWnd, DI`qR.
 		</value>
 	</entry>
 	<entry>
@@ -4811,7 +4811,7 @@
 			SOLANUM: The terrible circumstances of our arrival here were almost certainly exactly that: circumstance.
 		</key>
 		<value>
-			SOLANUM: The terrible circumstances of our arrival here were almost certainly exactly that: circumstance.
+			sOlxnxm: Dx tRbi`l sRkxmstansiz vx` q@ rx`vI`lx` hJ wR lo`mOst sRtxnlE Dat: sRkxmstans.
 		</value>
 	</entry>
 	<entry>
@@ -4819,7 +4819,7 @@
 			SOLANUM: I suspect imagining we are special to the &lt;color=lightblue&gt;Eye&lt;/color&gt; in some way is wishful thinking. The &lt;color=lightblue&gt;Eye&lt;/color&gt; might have called out to any sentient species.
 		</key>
 		<value>
-			SOLANUM: I suspect imagining we are special to the &lt;color=lightblue&gt;Eye&lt;/color&gt; in some way is wishful thinking. The &lt;color=lightblue&gt;Eye&lt;/color&gt; might have called out to any sentient species.
+			sOlxnxm: qI sxspekt mi`ja`ni`Ni` wE q@ speSxl tU DE &lt;color=lightblue&gt;qI&lt;/color&gt; ni` sxm wA zi` wiSful TiNkiN. DE &lt;color=lightblue&gt;qI&lt;/color&gt; mIt hav kold tW` tU ne`qE senSxnt spEsEz.
 		</value>
 	</entry>
 	<entry>
@@ -4827,7 +4827,7 @@
 			SOLANUM: Or it might not have been calling out at all, and that my ancestors heard the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal holds no great, deep meaning.
 		</key>
 		<value>
-			SOLANUM: Or it might not have been calling out at all, and that my ancestors heard the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal holds no great, deep meaning.
+			sOlxnxm: q* ti` mIt not hav ben koliN tW` ta` lo`, na`d Dat mI na`sestRz hRd DE &lt;color=lightblue&gt;zI`&lt;/color&gt; signxl hOldz nO grAt, dEp mEniN.
 		</value>
 	</entry>
 	<entry>
@@ -4835,7 +4835,7 @@
 			SOLANUM: This wouldn’t be so bad, I think.
 		</key>
 		<value>
-			SOLANUM: This wouldn’t be so bad, I think.
+			sOlxnxm: Dis wudnt bE sO bad, qI TiNk.
 		</value>
 	</entry>
 	<entry>
@@ -4843,7 +4843,7 @@
 			SOLANUM: In fact, the &lt;color=lightblue&gt;Eye&lt;/color&gt; may not have wishes at all. We have no evidence supporting this.
 		</key>
 		<value>
-			SOLANUM: In fact, the &lt;color=lightblue&gt;Eye&lt;/color&gt; may not have wishes at all. We have no evidence supporting this.
+			sOlxnxm: ni` fakt, DE &lt;color=lightblue&gt;qI&lt;/color&gt; mA not hav wiSiz ta` lo`. wE hav nO ve`di`nx`s sxp*tiN Dis.
 		</value>
 	</entry>
 	<entry>
@@ -4851,7 +4851,7 @@
 			ILEX: Why We Should Build A New Vessel
 		</key>
 		<value>
-			ILEX: Why We Should Build A New Vessel
+			lE`ki`s: wI wE Sud bild qx nU vesl
 		</value>
 	</entry>
 	<entry>
@@ -4859,7 +4859,7 @@
 			ILEX: Each Nomai clan explores the universe in its own Vessel. The Vessel is the heart of every clan.
 		</key>
 		<value>
-			ILEX: Each Nomai clan explores the universe in its own Vessel. The Vessel is the heart of every clan.
+			lE`ki`s: cE` nOmI klan ki`spl*z Dx yUnivRs ni` ti`s nO` vesl. Dx vesl zi` Dx h@t vx` ve`rE klan.
 		</value>
 	</entry>
 	<entry>
@@ -4867,7 +4867,7 @@
 			ILEX: It’s unusual for Nomai to remain in one place for so long. Nomai are wanderers and have no permanent home.
 		</key>
 		<value>
-			ILEX: It’s unusual for Nomai to remain in one place for so long. Nomai are wanderers and have no permanent home.
+			lE`ki`s: ti`s nu`yUZUlx` f* nOmI tU rimAn ni` wxn plAs f* sO loN. nOmI q@ wondRzR` na`d hav nO pRmxnxnt hOm.
 		</value>
 	</entry>
 	<entry>
@@ -4875,7 +4875,7 @@
 			ILEX: If we built a new Vessel, we could return to our adventurous way of life. Imagine all the new places we could go! Our clan wouldn’t be stuck here in this star system.
 		</key>
 		<value>
-			ILEX: If we built a new Vessel, we could return to our adventurous way of life. Imagine all the new places we could go! Our clan wouldn’t be stuck here in this star system.
+			lE`ki`s: fi` wE bilt qx nU vesl, wE kud ritRn tU q@ dx`vencRsx` wA vx` lIf. mi`ja`ni` lo` Dx nU plAsiz wE kud gO! q@ klan wudnt bE stxk hJ ni` Dis st@ sistxm.
 		</value>
 	</entry>
 	<entry>
@@ -4883,7 +4883,7 @@
 			ILEX: We could even meet with other Nomai, and learn from them, like Coleus says we used to do.
 		</key>
 		<value>
-			ILEX: We could even meet with other Nomai, and learn from them, like Coleus says we used to do.
+			lE`ki`s: wE kud vE`n mEt wiT Dx`qR nOmI, na`d lRn frxm Dem, lIk kOlEsx` sez wE yUst tU dU.
 		</value>
 	</entry>
 	<entry>
@@ -4891,7 +4891,7 @@
 			ILEX: It probably wouldn’t be hard to get parts if we stopped building other new things, and if we broke down other structures (like the towers on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;) for parts.
 		</key>
 		<value>
-			ILEX: It probably wouldn’t be hard to get parts if we stopped building other new things, and if we broke down other structures (like the towers on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;) for parts.
+			lE`ki`s: ti` probxblE wudnt bE h@d tU get p@ts fi` wE stopt bildiN Dx`qR TiNz, na`d fi` wE brOk dWn Dx`qR strxkcRz (lIk Dx tWzR` no` &lt;color=lightblue&gt;Sa` twin&lt;/color&gt;) f* p@ts.
 		</value>
 	</entry>
 	<entry>
@@ -4899,7 +4899,7 @@
 			ILEX: We might have to build a smaller Vessel for now, even though Vessels are normally large. But we could make it bigger later once we reach planets with more resources.
 		</key>
 		<value>
-			ILEX: We might have to build a smaller Vessel for now, even though Vessels are normally large. But we could make it bigger later once we reach planets with more resources.
+			lE`ki`s: wE mIt hav tU bild qx smolR vesl f* nW, vE`n DO veslz q@ n*mxlE l@j. bxt wE kud mAk ti` bigR lAtR wxns wE rEc planits wiT m* rEs*siz.
 		</value>
 	</entry>
 	<entry>
@@ -4907,7 +4907,7 @@
 			ILEX: It would also help if we stopped building so many things to search for the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;. I asked Yarrow, and he says we use lots of resources on the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;.
 		</key>
 		<value>
-			ILEX: It would also help if we stopped building so many things to search for the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;. I asked Yarrow, and he says we use lots of resources on the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;.
+			lE`ki`s: ti` wud lo`sO help fi` wE stopt bildiN sO menE TiNz tU sRc f* DE &lt;color=lightblue&gt;qI vx` Dx yUnivRs&lt;/color&gt;. qI sa`kt y#qO, na`d hE sez wE yUz lots vx` rEs*siz no` DE &lt;color=orange&gt;Sa` twin projekt&lt;/color&gt;.
 		</value>
 	</entry>
 	<entry>
@@ -4915,231 +4915,231 @@
 			ILEX: We could even have a warp core for jumping long distances like Vessels have. Poke tells me she plans to make a very advanced warp core for a different project. I’m sure she could connect it to the Vessel for travel (because Poke is smart).
 		</key>
 		<value>
-			ILEX: We could even have a warp core for jumping long distances like Vessels have. Poke tells me she plans to make a very advanced warp core for a different project. I’m sure she could connect it to the Vessel for travel (because Poke is smart).
+			lE`ki`s: wE kud vE`n hav qx w*p drIv f* jxmpiN loN distinsiz lIk veslz hav. pOk telz mE SE planz tU mAk qx v#qE dx`vanst w*p k* f* qx difrxnt projekt. mI` SR SE kud kxnekt ti` tU Dx vesl f* travl (bikxz pOk zi` sm@t).
 		</value>
 	</entry>
 	<entry>
 		<key>THATCH: Is everyone unharmed?</key>
-		<value>THATCH: Is everyone unharmed?</value>
+		<value>Tac: zi` ve`rEwxn nx`h@md?</value>
 	</entry>
 	<entry>
 		<key>PLUME: No one was badly injured from the &lt;color=orange&gt;escape pod’s&lt;/color&gt; impact. We’re incredibly fortunate.</key>
-		<value>PLUME: No one was badly injured from the &lt;color=orange&gt;escape pod’s&lt;/color&gt; impact. We’re incredibly fortunate.</value>
+		<value>plUm: nO wxn wxz badlE ni`jRd frxm DE &lt;color=orange&gt;si`kAp podz&lt;/color&gt; mi`pakt. wR ni`krediblE f*cxnit.</value>
 	</entry>
 	<entry>
 		<key>THATCH: This is good news, at least. Have we heard from &lt;color=orange&gt;Escape Pod 2&lt;/color&gt; or &lt;color=orange&gt;Escape Pod 3&lt;/color&gt;?</key>
-		<value>THATCH: This is good news, at least. Have we heard from &lt;color=orange&gt;Escape Pod 2&lt;/color&gt; or &lt;color=orange&gt;Escape Pod 3&lt;/color&gt;?</value>
+		<value>Tac: Dis zi` gud nUz, ta` lEst. hav wE hRd frxm &lt;color=orange&gt;si`kAp pod 2&lt;/color&gt; q* &lt;color=orange&gt;si`kAp pod 3&lt;/color&gt;?</value>
 	</entry>
 	<entry>
 		<key>FILIX: No, I... I’m unable to make contact. My equipment can hear the other two escape pods’ distress signals, however. If it’s any comfort, both pods must be structurally intact.</key>
-		<value>FILIX: No, I... I’m unable to make contact. My equipment can hear the other two escape pods’ distress signals, however. If it’s any comfort, both pods must be structurally intact.</value>
+		<value>fEliks: nO, qI... mI` nx`bA`l tU mAk kontakt. mI ki`wipmxnt kan hJ DE Dx`qR tU si`kAp podz distres signxlz, hWvE`qR. fi` ti`s ne`qE kxmfRt, bOt podz mxst bE strxkcRlx`qE ni`takt.</value>
 	</entry>
 	<entry>
 		<key>FILIX: I’ll continue calling for them.</key>
-		<value>FILIX: I’ll continue calling for them.</value>
+		<value>fEliks: lo` kxntinyU koliN f* Dem.</value>
 	</entry>
 	<entry>
 		<key>THATCH: My gratitude. If we can —</key>
-		<value>THATCH: My gratitude. If we can —</value>
+		<value>Tac: mI gratitUd. fi` wE kan -</value>
 	</entry>
 	<entry>
 		<key>PLUME: Thatch, the moon is approaching again!</key>
-		<value>PLUME: Thatch, the moon is approaching again!</value>
+		<value>plUm: Tac, Dx mUn zi` px`rOciN gx`ne`!</value>
 	</entry>
 	<entry>
 		<key>THATCH: Everyone brace yourselves, swiftly! The &lt;color=lightblue&gt;volcanic moon&lt;/color&gt; has returned!</key>
-		<value>THATCH: Everyone brace yourselves, swiftly! The &lt;color=lightblue&gt;volcanic moon&lt;/color&gt; has returned!</value>
+		<value>Tac: ve`rEwxn brAs yRselvz, swiftlE! Dx &lt;color=lightblue&gt;volkanik mUn&lt;/color&gt; haz ritRnd!</value>
 	</entry>
 	<entry>
 		<key>THATCH: Be cautious of falling ash and debris!</key>
-		<value>THATCH: Be cautious of falling ash and debris!</value>
+		<value>Tac: bE koSxs vx` foliN Sa` na`d dxbrE!</value>
 	</entry>
 	<entry>
 		<key>PLUME: ...I believe the moon has passed.</key>
-		<value>PLUME: ...I believe the moon has passed.</value>
+		<value>plUm: ... qI bilEv Dx mUn haz past.</value>
 	</entry>
 	<entry>
 		<key>FILIX: This planet doesn’t appear eager to have guests. We are certainly unwelcome on its surface.</key>
-		<value>FILIX: This planet doesn’t appear eager to have guests. We are certainly unwelcome on its surface.</value>
+		<value>fEliks: Dis planit dxznt px`qJ gE`qR tU hav gests. wE q@ sRtnlE nx`welkxm no` ti`s sRfxs.</value>
 	</entry>
 	<entry>
 		<key>THATCH: We need to find shelter, and quickly. The &lt;color=lightblue&gt;volcanic moon&lt;/color&gt; won’t be gone for long.</key>
-		<value>THATCH: We need to find shelter, and quickly. The &lt;color=lightblue&gt;volcanic moon&lt;/color&gt; won’t be gone for long.</value>
+		<value>Tac: wE nEd tU fInd SeltR, na`d kwiklE. Dx &lt;color=lightblue&gt;volkanik mUn&lt;/color&gt; wOnt bE gon f* loN.</value>
 	</entry>
 	<entry>
 		<key>PLUME: I observed several promising sites below the surface, but we’ll need to construct a way for everyone to climb safely down this cliff. Perhaps we could build platforms?</key>
-		<value>PLUME: I observed several promising sites below the surface, but we’ll need to construct a way for everyone to climb safely down this cliff. Perhaps we could build platforms?</value>
+		<value>plUm: qI vx`zRvd sevrxl promisiN sIts bilO Dx sRfxs, bxt wil nEd tU kxnstrxkt qx wA f* ve`rEwxn tU klIb sAflE dWn Dis klif. pRhaps wE kud bild platf*mz?</value>
 	</entry>
 	<entry>
 		<key>CONOY: What have we learned thus far in our search for the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;?</key>
-		<value>CONOY: What have we learned thus far in our search for the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;?</value>
+		<value>kxnY: wxt hav wE lRnd Dxs f@ ni` q@ sRc f* DE &lt;color=lightblue&gt;qI vx` Dx yUnivRs&lt;/color&gt;?</value>
 	</entry>
 	<entry>
 		<key>PLUME: Those of us on the &lt;color=orange&gt;Vessel&lt;/color&gt; originally followed the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal to this star system, but we were unable to warp to the &lt;color=lightblue&gt;Eye&lt;/color&gt; itself.</key>
-		<value>PLUME: Those of us on the &lt;color=orange&gt;Vessel&lt;/color&gt; originally followed the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal to this star system, but we were unable to warp to the &lt;color=lightblue&gt;Eye&lt;/color&gt; itself.</value>
+		<value>plUm: Doz vx` sx` no` Dx &lt;color=orange&gt;vesl&lt;/color&gt; rx`gi`ni`lx`qE folOd DE &lt;color=lightblue&gt;zI`&lt;/color&gt; signxl tU Dis st@ sistxm, bxt wE wR nx`bA`l tU w*p tU DE &lt;color=lightblue&gt;qI&lt;/color&gt; itself.</value>
 	</entry>
 	<entry>
 		<key>PRIVET: The locator we built on the &lt;color=lightblue&gt;Attlerock&lt;/color&gt; and the new, more sensitive locator we built here were both unable to detect any trace of the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal.</key>
-		<value>PRIVET: The locator we built on the &lt;color=lightblue&gt;Attlerock&lt;/color&gt; and the new, more sensitive locator we built here were both unable to detect any trace of the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal.</value>
+		<value>privit: Dx lOkAtR wE bilt no` DE &lt;color=lightblue&gt;ta`lrok&lt;/color&gt; na`d Dx nU, m* sensitiv lOkAtR wE bilt hJ wR bOT nx`bA`l tU ditekt ne`qE trAs vx` DE &lt;color=lightblue&gt;zI`&lt;/color&gt; signxl.</value>
 	</entry>
 	<entry>
 		<key>AVENS: Hypothesis: The &lt;color=lightblue&gt;Eye&lt;/color&gt; has stopped emitting its signal.</key>
-		<value>AVENS: Hypothesis: The &lt;color=lightblue&gt;Eye&lt;/color&gt; has stopped emitting its signal.</value>
+	  <value>vA`ni`z: hIpoTxsis: DE &lt;color=lightblue&gt;qI&lt;/color&gt; haz stopt mi`ti`Ni` ti`s signxl.</value>
 	</entry>
 	<entry>
 		<key>CASSAVA: Suppose the &lt;color=lightblue&gt;Eye&lt;/color&gt; doesn’t wish to be found.</key>
-		<value>CASSAVA: Suppose the &lt;color=lightblue&gt;Eye&lt;/color&gt; doesn’t wish to be found.</value>
+		<value>kxsovx: sxpOz DE &lt;color=lightblue&gt;qI&lt;/color&gt; dxznt wiS tU bE fWnd.</value>
 	</entry>
 	<entry>
 		<key>PLUME: Cassava, how can you suggest that? The &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal called out to summon us to this star system!</key>
-		<value>PLUME: Cassava, how can you suggest that? The &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal called out to summon us to this star system!</value>
+		<value>plUm: kxsovx, hW kan yU sxgjest Dat? DE &lt;color=lightblue&gt;zI`&lt;/color&gt; signxl kold tW` tU sxmxn sx` tU Dis st@ sistxm!</value>
 	</entry>
 	<entry>
 		<key>CASSAVA: I’m aware; I grew up hearing the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s story. Yet we’re no closer to finding it than you were when you first arrived here.</key>
-		<value>CASSAVA: I’m aware; I grew up hearing the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s story. Yet we’re no closer to finding it than you were when you first arrived here.</value>
+		<value>kxsonvx: mI` wx`q#; qI grU px` hJNi` DE &lt;color=lightblue&gt;zI`&lt;/color&gt; st*qE. yet wR nO klOsR tU fIndiN ti` Dan yU wR wen yU fRst rx`vI`d hJ.</value>
 	</entry>
 	<entry>
 		<key>MALLOW: Based on our knowledge of the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, we believe the &lt;color=lightblue&gt;Eye&lt;/color&gt; is in orbit around this star system’s &lt;color=lightblue&gt;sun&lt;/color&gt;. This would mean the &lt;color=lightblue&gt;Eye&lt;/color&gt; is located within a finite (albeit enormous) range.</key>
-		<value>MALLOW: Based on our knowledge of the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, we believe the &lt;color=lightblue&gt;Eye&lt;/color&gt; is in orbit around this star system’s &lt;color=lightblue&gt;sun&lt;/color&gt;. This would mean the &lt;color=lightblue&gt;Eye&lt;/color&gt; is located within a finite (albeit enormous) range.</value>
+		<value>malO: bAst no` q@ nolij vx` Dx &lt;color=lightblue&gt;kwontxm mUn&lt;/color&gt;, wE bilEv DE &lt;color=lightblue&gt;qI&lt;/color&gt; zi` ni` b*`ti` rx`nW`d Dis st@ sistxmz &lt;color=lightblue&gt;sxn&lt;/color&gt;. Dis wud mEn DE &lt;color=lightblue&gt;qI&lt;/color&gt; zi` lOkAtid wiTin qx fInIt (la`bEti` ni`m*`sx`) rAnj.</value>
 	</entry>
 	<entry>
 		<key>CONOY: How should our methods change as we continue our search for the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;?</key>
-		<value>CONOY: How should our methods change as we continue our search for the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;?</value>
+		<value>kxnY: hW Sud q@ meTxdz cAnj za` wE kxntinyU q@ sRc f* DE &lt;color=lightblue&gt;qI vx` Dx yUnivRs&lt;/color&gt;?</value>
 	</entry>
 	<entry>
 		<key>PRIVET: As we couldn’t find the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal using two different devices built for this exact purpose, we should discontinue this search method.</key>
-		<value>PRIVET: As we couldn’t find the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal using two different devices built for this exact purpose, we should discontinue this search method.</value>
+		<value>privit: za` wE kudnt fInd DE &lt;color=lightblue&gt;zI`&lt;/color&gt; signxl yUziN tU difrxnt divIsiz bilt f* Dis gi`zakt pRpxs, wE Sud diskxntinyU Dis sRc meTxd.</value>
 	</entry>
 	<entry>
 		<key>MALLOW: We know what the &lt;color=lightblue&gt;Eye&lt;/color&gt; looks like thanks to the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, so what if we try to find the &lt;color=lightblue&gt;Eye&lt;/color&gt; visually, instead? Let’s send out a probe!</key>
-		<value>MALLOW: We know what the &lt;color=lightblue&gt;Eye&lt;/color&gt; looks like thanks to the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, so what if we try to find the &lt;color=lightblue&gt;Eye&lt;/color&gt; visually, instead? Let’s send out a probe!</value>
+		<value>malO: wE nO wxt DE &lt;color=lightblue&gt;qI&lt;/color&gt; luks lIk TANks tU Dx &lt;color=lightblue&gt;kwontxm mUn&lt;/color&gt;, sO wxt fi` wE trI tU fInd DE &lt;color=lightblue&gt;qI&lt;/color&gt; viZUlx`qE, ni`sted? lets send tW` qx prOb!</value>
 	</entry>
 	<entry>
 		<key>CASSAVA: Mallow’s idea is clever, but we have no idea where the &lt;color=lightblue&gt;Eye&lt;/color&gt; is in relation to here. The probability of launching a probe in the correct direction would be absurdly small.</key>
-		<value>CASSAVA: Mallow’s idea is clever, but we have no idea where the &lt;color=lightblue&gt;Eye&lt;/color&gt; is in relation to here. The probability of launching a probe in the correct direction would be absurdly small.</value>
+		<value>kxsovx: malOz dI`qEqx zi` klevR, bxt wE hav nO dI`qEqx, w# DE &lt;color=lightblue&gt;qI&lt;/color&gt; zi` ni` rilASxn tU hJ. Dx probxbilitE vx` lonciN qx prOb ni` Dx kRke`t dRke`Sxn wud bE bx`sRdlE smol.</value>
 	</entry>
 	<entry>
 		<key>CONOY: I believe I have a solution for that problem! Have you spoken with Ramie and Pye about the technology they’re developing?</key>
-		<value>CONOY: I believe I have a solution for that problem! Have you spoken with Ramie and Pye about the technology they’re developing?</value>
+		<value>kxnY: qI bilEv qI hav qx sxlUSxn f* Dat problxm! hav yU spOkxn wiT rAmE na`d pI bx`tW` Dx teknolxjE D# divelxpiN?</value>
 	</entry>
 	<entry>
 		<key>AVENS: We’d need to build a probe-launching mechanism to cover those long distances quickly. A cannon in orbit around a celestial body would circumvent the need to escape gravity’s pull.</key>
-		<value>AVENS: We’d need to build a probe-launching mechanism to cover those long distances quickly. A cannon in orbit around a celestial body would circumvent the need to escape gravity’s pull.</value>
+		<value>vA`ni`z: wEd nEd tU bild qx prOb-lonciN mekxnizm tU kxvR DOz loN distinsiz kwiklE. qx kanxn ni` b*`ti` rx`nW`d qx sxlestElx` bodE wud sRkxmvent Dx nEd tU si`kAp gravitEz pul.</value>
 	</entry>
 	<entry>
 		<key>CASSAVA: &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; would be a good choice. It’s furthest from the &lt;color=lightblue&gt;sun&lt;/color&gt;, so it would provide the best angles for launch. And it’s moonless (except when the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; is visiting).</key>
-		<value>CASSAVA: &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; would be a good choice. It’s furthest from the &lt;color=lightblue&gt;sun&lt;/color&gt;, so it would provide the best angles for launch. And it’s moonless (except when the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; is visiting).</value>
+		<value>kxsovx: &lt;color=lightblue&gt;jInx`ts dEp&lt;/color&gt; wud bE qx gud cYs. ti`s fRDist frxm Dx &lt;color=lightblue&gt;sxn&lt;/color&gt;, sO ti` wud prxvId Dx best NA`glz f* lonc. na`d ti`s mUnlis (ki`sept wen Dx &lt;color=lightblue&gt;kwontxm mUn&lt;/color&gt; zi` vizitiN).</value>
 	</entry>
 	<entry>
 		<key>AVENS: Yes, let’s build the cannon in orbit around &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt;!</key>
-		<value>AVENS: Yes, let’s build the cannon in orbit around &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt;!</value>
+		<value>vA`ni`z: yes, lets bild Dx kanxn ni` b*`ti` rx`nW`d &lt;color=lightblue&gt;jInx`ts dEp&lt;/color&gt;!</value>
 	</entry>
 	<entry>
 		<key>PLUME: The pain of your absence is sharp and haunting, and I would give anything not to know it; anything but never knowing you at all (which would be worse).</key>
-		<value>PLUME: The pain of your absence is sharp and haunting, and I would give anything not to know it; anything but never knowing you at all (which would be worse).</value>
+		<value>plUm: Dx pAn vx` y* ba`sns zi` S@p na`d hontiN, na`d qI wud gIv ne`TE`Ni` not tU nO ti`; ne`TE`Ni` bxt nevR nONi` yU ta` lo` (wic wud bE wRs).</value>
 	</entry>
 	<entry>
 		<key>PLUME: I can only hope that you are safe, Keek, wherever you are.</key>
-		<value>PLUME: I can only hope that you are safe, Keek, wherever you are.</value>
+		<value>plUm: qI kan nO`lE hOp Dat yU q@ sAf, kEk, w#ve`qR yU q@.</value>
 	</entry>
 	<entry>
 		<key>KOUSA: We can hear the other escape pods’ distress signals, which gives me hope. Foli, are you still here? I am unsure how to survive in this place without you.</key>
-		<value>KOUSA: We can hear the other escape pods’ distress signals, which gives me hope. Foli, are you still here? I am unsure how to survive in this place without you.</value>
+		<value>kUsx: wE kan hJ DE Dx`qR si`kAp podz distres signxlz, wic givz mE hOp. fOlE, q@ yU stil hJ? qI ma` nx`SR hW tU sRvIv ni` Dis plAs wiTWt yU.</value>
 	</entry>
 	<entry>
 		<key>KOUSA: (I am unsure how to be me without you.)</key>
-		<value>KOUSA: (I am unsure how to be me without you.)</value>
+		<value>kUsx: (qI ma` nx`SR hW tU bE mE wiTWt yU.)</value>
 	</entry>
 	<entry>
 		<key>PLUME: My brother wasn’t in &lt;color=orange&gt;Escape Pod 1&lt;/color&gt; with us. Was he in &lt;color=orange&gt;Pod 2&lt;/color&gt;, or &lt;color=orange&gt;Pod 3&lt;/color&gt;? Was he able to board an escape pod at all?</key>
-		<value>PLUME: My brother wasn’t in &lt;color=orange&gt;Escape Pod 1&lt;/color&gt; with us. Was he in &lt;color=orange&gt;Pod 2&lt;/color&gt;, or &lt;color=orange&gt;Pod 3&lt;/color&gt;? Was he able to board an escape pod at all?</value>
+		<value>plUm: mI brxDR wxznt ni` &lt;color=orange&gt;si`kAp pod 1&lt;/color&gt; wiT sx`. wxz hE ni` &lt;color=orange&gt;pod 2&lt;/color&gt;, q* &lt;color=orange&gt;pod 3&lt;/color&gt;? wxz hE bA`l tU b*d na` si`kAp pod ta` lo`?</value>
 	</entry>
 	<entry>
 		<key>PLUME: We sacrificed too much arriving here. I cannot (&lt;i&gt;I will&lt;/i&gt; not) allow our clan’s greatest loss to be in vain.</key>
-		<value>PLUME: We sacrificed too much arriving here. I cannot (&lt;i&gt;I will&lt;/i&gt; not) allow our clan’s greatest loss to be in vain.</value>
+		<value>plUm: wE sakrifIst tU mxc rx`vI`Ni` hJ. qI kanot (&lt;i&gt;qI wil&lt;/i&gt; not) lx`qW q@ klanz grAtist los tU bE ni` vAn.</value>
 	</entry>
 	<entry>
 		<key>THATCH: Is the hardest part of this tragedy not knowing who we may have lost? Or will the hardest part come later, when we learn? (Be well, Aunt Melorae...)</key>
-		<value>THATCH: Is the hardest part of this tragedy not knowing who we may have lost? Or will the hardest part come later, when we learn? (Be well, Aunt Melorae...)</value>
+		<value>Tac: zi` Dx h@dist p@t vx` Dis trajidE not nONi` hU wE mA hav lost? q* wil Dx h@dist p@t kam lAtR, wen wE lRn? (bE wel, na`t mil*qA...)</value>
 	</entry>
 	<entry>
 		<key>PLUME: Given concerns about our settlement’s stability, where should we construct a new, less temporary shelter?</key>
-		<value>PLUME: Given concerns about our settlement’s stability, where should we construct a new, less temporary shelter?</value>
+		<value>plUm: givxn kxnsRnz bx`tW` q@ setlmxnts stxbilitE, w# Sud wE kxnstrxkt qx nU, les tempRq#qE SeltR?</value>
 	</entry>
 	<entry>
 		<key>THATCH: We need to stay close to the &lt;color=orange&gt;escape pod&lt;/color&gt; so Filix can monitor incoming messages. We can’t be rescued if we aren’t present to respond.</key>
-		<value>THATCH: We need to stay close to the &lt;color=orange&gt;escape pod&lt;/color&gt; so Filix can monitor incoming messages. We can’t be rescued if we aren’t present to respond.</value>
+		<value>Tac: wE nEd tU stA klOs tU DE &lt;color=orange&gt;si`kAp pod&lt;/color&gt; sO fEliks kan monitR ni`kxmiN mesijiz. wE kant bE reskyUd fi` wE n@`t prezint tU rispond.</value>
 	</entry>
 	<entry>
 		<key>FILIX: I don’t believe anyone is coming to save us, Thatch. Now we must save ourselves.</key>
-		<value>FILIX: I don’t believe anyone is coming to save us, Thatch. Now we must save ourselves.</value>
+		<value>fEliks: qI dOnt bilEv ne`wE`nx` zi` kxmiN tU sAv sx`, Tac. nW wE mxst sAv s@`le`vz.</value>
 	</entry>
 	<entry>
 		<key>PLUME: I agree. We’re here because the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal called to us and we followed. If we’re to find it, we need to not merely survive, but thrive.</key>
-		<value>PLUME: I agree. We’re here because the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal called to us and we followed. If we’re to find it, we need to not merely survive, but thrive.</value>
+		<value>plUm: qI gx`rE. wR hJ bikxz DE &lt;color=lightblue&gt;zI`&lt;/color&gt; signxl kold tU sx` na`d wE folOd. fi` wR tU fInd ti`, wE nEd tU not mJlE sRvIv, bxt TrIv.</value>
 	</entry>
 	<entry>
 		<key>PLUME: I believe we should migrate to the northern glacier.</key>
-		<value>PLUME: I believe we should migrate to the northern glacier.</value>
+		<value>plUm: qI bilEv wE Sud mIgrAt tU Dx n*DRn glASR.</value>
 	</entry>
 	<entry>
 		<key>FILIX: What if we use gravity crystals to craft a stable path?</key>
-		<value>FILIX: What if we use gravity crystals to craft a stable path?</value>
+		<value>fEliks: wxt fi` wE yUz gravitE kristxlz tU kraft qx stAbl paT?</value>
 	</entry>
 	<entry>
 		<key>THATCH: Building beneath the crust again would shelter us from the &lt;color=lightblue&gt;volcanic moon&lt;/color&gt;’s eruptions.</key>
-		<value>THATCH: Building beneath the crust again would shelter us from the &lt;color=lightblue&gt;volcanic moon&lt;/color&gt;’s eruptions.</value>
+		<value>Tac: bildiN binET Dx krxst gx`ne` wud SeltR vx` frxm Dx &lt;color=lightblue&gt;volkanic mUn&lt;/color&gt;z qRpx`Sxnz.</value>
 	</entry>
 	<entry>
 		<key>THATCH: This is a wise point, Plume, and eloquently made. If moving to the northern glacier will keep us safer, then that is what we should do.</key>
-		<value>THATCH: This is a wise point, Plume, and eloquently made. If moving to the northern glacier will keep us safer, then that is what we should do.</value>
+		<value>Tac: Dis zi` qx wIz pYnt, plUm, na`d le`kx`wintlE mAd. fi` mUviN tU Dx n*DRn glASR wil kEp sx` sAfR, Den Dat zi` wxt wE Sud dU.</value>
 	</entry>
 	<entry>
 		<key>FILIX: Has anyone observed the &lt;color=lightblue&gt;phantom moon&lt;/color&gt; that sometimes greets us in the night sky? Your thoughts interest me.</key>
-		<value>FILIX: Has anyone observed the &lt;color=lightblue&gt;phantom moon&lt;/color&gt; that sometimes greets us in the night sky? Your thoughts interest me.</value>
+		<value>fEliks: hax ne`wE`nx` bx`zRvd Dx &lt;color=lightblue&gt;fantxm mUn&lt;/color&gt; Dat sxmtImz grEts sx` ni` Dx nIt skI? y* Tots ni`trist mE.</value>
 	</entry>
 	<entry>
 		<key>THATCH: I compliment your eyes! How do you imagine it disappears? Hypothesis: Could it be a shift in the light spectrum?</key>
-		<value>THATCH: I compliment your eyes! How do you imagine it disappears? Hypothesis: Could it be a shift in the light spectrum?</value>
+		<value>Tac: qI komplimxnt y* zI`! hW dU yU mi`ja`ni` ti disxpJz? hIpoTxsis: kud ti` bE qx Sift ni` Dx lIt spektrxm?</value>
 	</entry>
 	<entry>
 		<key>PLUME: Suppose this moon is too shy to show us its face.</key>
-		<value>PLUME: Suppose this moon is too shy to show us its face.</value>
+		<value>plUm: sxpOz Dis mUn zi` tU SI tU SO sx` ti`s fAs.</value>
 	</entry>
 	<entry>
 		<key>PLUME: I’m interested in your playful moon. Is it much like its violent friend (&lt;color=lightblue&gt;Hollow’s Lantern&lt;/color&gt;)?</key>
-		<value>PLUME: I’m interested in your playful moon. Is it much like its violent friend (&lt;color=lightblue&gt;Hollow’s Lantern&lt;/color&gt;)?</value>
+		<value>plUm: mI` ni`tristid ni` y* plAful mUn. zi` ti` mxc lIk ti`s vIlxnt frend (&lt;color=lightblue&gt;holOz lantRn&lt;/color&gt;)?</value>
 	</entry>
 	<entry>
 		<key>THATCH: Imagine if there were &lt;i&gt;two&lt;/i&gt; volcanic moons.</key>
-		<value>THATCH: Imagine if there were &lt;i&gt;two&lt;/i&gt; volcanic moons.</value>
+		<value>Tac: mi`ja`ni` fi` D# wR &lt;i&gt;tU&lt;/i&gt; volkanik mUnz.</value>
 	</entry>
 	<entry>
 		<key>PLUME: Then I imagine there’d be none of us left!</key>
-		<value>PLUME: Then I imagine there’d be none of us left!</value>
+		<value>plUm: Den dI` mi`ja`ni` D#d bE nxn vx` sx` left!</value>
 	</entry>
 	<entry>
 		<key>FILIX: Hypothesis: There can exist too much lava.</key>
-		<value>FILIX: Hypothesis: There can exist too much lava.</value>
+		<value>fEliks: hIpoTxsis: D# kan gi`zist tU mxc lovx.</value>
 	</entry>
 	<entry>
 		<key>THATCH: I’d strongly prefer we test the null hypothesis.</key>
-		<value>THATCH: I’d strongly prefer we test the null hypothesis.</value>
+		<value>Tac: dI` stroNlE prifR wE test Dx nxl hIpoTxsis.</value>
 	</entry>
 	<entry>
 		<key>FILIX: This moon isn’t volcanic (to my unaided eyes). Sometimes it leaves its friend &lt;color=lightblue&gt;Hollow’s Lantern&lt;/color&gt; for nights at a time.</key>
-		<value>FILIX: This moon isn’t volcanic (to my unaided eyes). Sometimes it leaves its friend &lt;color=lightblue&gt;Hollow’s Lantern&lt;/color&gt; for nights at a time.</value>
+		<value>fEliks: Dis mUn zi`nt volkanik (tU mI nx`dA`di` zI`). sxmtImz ti` lEvz ti`s frend &lt;color=lightblue&gt;holOz lantRn&lt;/color&gt; f* nIts ta` qx tIm.</value>
 	</entry>
 	<entry>
 		<key>PLUME: The nights the moon circles this planet appear random. It seems to travel as it likes.</key>
-		<value>PLUME: The nights the moon circles this planet appear random. It seems to travel as it likes.</value>
+		<value>plUm: Dx nIts Dx mUn sRkxlz Dis planit px`qJ randxm. ti` sEmz tU travl za` ti` lIks.</value>
 	</entry>
 	<entry>
 		<key>
 			If the &lt;color=lightblue&gt;Eye&lt;/color&gt; called to us, why won’t it reveal itself? Why is it so difficult to locate it?
 		</key>
 		<value>
-			If the &lt;color=lightblue&gt;Eye&lt;/color&gt; called to us, why won’t it reveal itself? Why is it so difficult to locate it?
+			fi` DE &lt;color=lightblue&gt;qI&lt;/color&gt; kold tU sx`, wI wOnt ti` rivEl ti`self? wI zi` ti` sO difikxlt tU lOkAt ti`?
 		</value>
 	</entry>
 	<entry>
@@ -5147,7 +5147,7 @@
 			Did something happen to it?
 		</key>
 		<value>
-			Did something happen to it?
+			did sxmTiN hapxn tU ti`?
 		</value>
 	</entry>
 	<entry>
@@ -5155,7 +5155,7 @@
 			Did the signal stop? Does the &lt;color=lightblue&gt;Eye&lt;/color&gt; no longer desire to be found?
 		</key>
 		<value>
-			Did the signal stop? Does the &lt;color=lightblue&gt;Eye&lt;/color&gt; no longer desire to be found?
+			did Dx signxl stop? dxz DE &lt;color=lightblue&gt;qI&lt;/color&gt; nO loNgR dizIqR tU bE fWnd?
 		</value>
 	</entry>
 	<entry>
@@ -5163,7 +5163,7 @@
 			Perhaps this isn’t the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s choice. The &lt;color=lightblue&gt;Eye&lt;/color&gt; may not be able to communicate with us more than it already has.
 		</key>
 		<value>
-			Perhaps this isn’t the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s choice. The &lt;color=lightblue&gt;Eye&lt;/color&gt; may not be able to communicate with us more than it already has.
+			pRhaps Dis zi`nt DE &lt;color=lightblue&gt;zI`&lt;/color&gt; cYs. DE &lt;color=lightblue&gt;qI&lt;/color&gt; mA not bE bA`l tU kxmyUnikAt wiT sx` m* Dan ti` lo`redE haz.
 		</value>
 	</entry>
 	<entry>
@@ -5171,7 +5171,7 @@
 			Did the &lt;color=lightblue&gt;Eye&lt;/color&gt; deliberately call out to us by sending the signal, or did we hear the signal by coincidence?
 		</key>
 		<value>
-			Did the &lt;color=lightblue&gt;Eye&lt;/color&gt; deliberately call out to us by sending the signal, or did we hear the signal by coincidence?
+			did DE &lt;color=lightblue&gt;qI&lt;/color&gt; dilibRtx`lE kol tW` tU sx` bI sendiN Dx signxl, q* did wE hJ Dx signxl bI kOni`sidxns?
 		</value>
 	</entry>
 	<entry>
@@ -5179,7 +5179,7 @@
 			We could be seeing meaning where there is none. Suppose the signal was produced incidentally.
 		</key>
 		<value>
-			We could be seeing meaning where there is none. Suppose the signal was produced incidentally.
+			wE kud bE sENi` mEniN w# D# zi` nxn. sxpOz Dx signxl wxz prxdUst ni`sidentxlE.
 		</value>
 	</entry>
 	<entry>
@@ -5187,7 +5187,7 @@
 			Does that mean the &lt;color=lightblue&gt;Eye&lt;/color&gt; is any less important, though?
 		</key>
 		<value>
-			Does that mean the &lt;color=lightblue&gt;Eye&lt;/color&gt; is any less important, though?
+			dxz Dat mEn DE &lt;color=lightblue&gt;qI&lt;/color&gt; zi` ne`qE les mi`p*txnt, DO?
 		</value>
 	</entry>
 	<entry>
@@ -5195,7 +5195,7 @@
 			Perhaps the &lt;color=lightblue&gt;Eye&lt;/color&gt; wanted to be found (could it be sentient?). Maybe it chose us.
 		</key>
 		<value>
-			Perhaps the &lt;color=lightblue&gt;Eye&lt;/color&gt; wanted to be found (could it be sentient?). Maybe it chose us.
+			  pRhaps DE &lt;color=lightblue&gt;qI&lt;/color&gt; wontid tU bE fWnd (kud ti` bE sentEnx`t?). mAbE ti` cOz sx.
 		</value>
 	</entry>
 	<entry>
@@ -5203,7 +5203,7 @@
 			Does the &lt;color=lightblue&gt;Eye&lt;/color&gt; desire something from us? Could it need us in some way?
 		</key>
 		<value>
-			Does the &lt;color=lightblue&gt;Eye&lt;/color&gt; desire something from us? Could it need us in some way?
+		dxz DE &lt;color=lightblue&gt;qI&lt;/color&gt; dizIqR sxmTiN frxm sx`? kud ti` nEd sx` ni` sxm wA?
 		</value>
 	</entry>
 	<entry>
@@ -5211,7 +5211,7 @@
 			Maybe it doesn’t have to be us.
 		</key>
 		<value>
-			Maybe it doesn’t have to be us.
+			mAbE ti` dxznt hav tU bE sx`.
 		</value>
 	</entry>
 	<entry>
@@ -5219,7 +5219,7 @@
 			Is the &lt;color=lightblue&gt;Eye&lt;/color&gt; natural, or artificial?
 		</key>
 		<value>
-			Is the &lt;color=lightblue&gt;Eye&lt;/color&gt; natural, or artificial?
+			zi` DE &lt;color=lightblue&gt;qI&lt;/color&gt; nacRlx`, q* t@`fi`Si`lx`?
 		</value>
 	</entry>
 	<entry>
@@ -5227,7 +5227,7 @@
 			Maybe someone built it.
 		</key>
 		<value>
-			Maybe someone built it.
+			mAbE sxmwxn bilt ti`.
 		</value>
 	</entry>
 	<entry>
@@ -5235,7 +5235,7 @@
 			The &lt;color=lightblue&gt;Eye&lt;/color&gt; is older than the universe itself. How could something exist before its creator?
 		</key>
 		<value>
-			The &lt;color=lightblue&gt;Eye&lt;/color&gt; is older than the universe itself. How could something exist before its creator?
+			DE &lt;color=lightblue&gt;qI&lt;/color&gt; zi` lO`dR Dan Dx yUnivRs ti`self. hW kud sxmTiN gi`zist bif* ti`s krEtA`qR?
 		</value>
 	</entry>
 	<entry>
@@ -5243,31 +5243,31 @@
 			It could be naturally occurring, though this doesn’t answer how the &lt;color=lightblue&gt;Eye&lt;/color&gt; could be as old as it is.
 		</key>
 		<value>
-			It could be naturally occurring, though this doesn't answer how the &lt;color=lightblue&gt;Eye&lt;/color&gt; could be as old as it is.
+			ti` kud bE nacRlx`qE kx`qRNi`, DO Dis dxznt na`sR hW DE &lt;color=lightblue&gt;qI&lt;/color&gt; kud bE za` lO`d za` ti` zi`.
 		</value>
 	</entry>
 	<entry>
 		<key>Be welcomed in this place. This shrine is a space to reflect on what brought us to this star system: the signal from the &lt;color=lightblue&gt;Eye&lt;/color&gt;. test</key>
-		<value>Be welcomed in this place. This shrine is a space to reflect on what brought us to this star system: the signal from the &lt;color=lightblue&gt;Eye&lt;/color&gt;. </value>
+		<value>bE welkxmd ni` Dis plAs. Dis SrIn zi` qx spAs tU riflekt no` wxt brot sx` tU Dis st@ sistxm: Dx signxl frxm DE &lt;color=lightblue&gt;qI&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>We observed the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal in our travels, and followed it here to find its source. test</key>
-		<value>We observed the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal in our travels, and followed it here to find its source. </value>
+		<value>wE bx`zRvd DE &lt;color=lightblue&gt;zI`&lt;/color&gt; signxl ni` q@ travlz, na`d folOd ti` hJ tU fInd ti`s s*s.</value>
 	</entry>
 	<entry>
 		<key>What we know is this: The source of the signal (which we have chosen to call the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;) is older than this universe itself. The rest, we have yet to learn. test</key>
-		<value>What we know is this: The source of the signal (which we have chosen to call the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;) is older than this universe itself. The rest, we have yet to learn.</value>
+		<value>wxt wE nO zi` Dis: Dx s*s vx` Dx signxl (wic wE hav cOzxn tU kol DE &lt;color=lightblue&gt;qI vx` Dx yUnivRs&lt;/color&gt;) zi` lO`dR Dan Dis yUnivRs ti`self. Dx rest, wE hav yet tU lRn.</value>
 	</entry>
 	<entry>
 		<key>Enter, and open your mind to its possibilities. test</key>
-		<value>Enter, and open your mind to its possibilities.</value>
+		<value>ne`tR, na`d pO`n y* mInd tU ti`s posibilitEz.</value>
 	</entry>
 	<entry>
 		<key>
 			SOLANUM: I don’t know why everyone says the &lt;color=lightblue&gt;Eye&lt;/color&gt; is important.
 		</key>
 		<value>
-			SOLANUM: I don’t know why everyone says the &lt;color=lightblue&gt;Eye&lt;/color&gt; is important.
+			sOlxnxm: qI dOnt nO wI ve`rEwxn sez DE &lt;color=lightblue&gt;qI&lt;/color&gt; zi` mi`p*txnt.
 		</value>
 	</entry>
 	<entry>
@@ -5275,7 +5275,7 @@
 			SOLANUM: They say it brought us to this solar system, but is that good? Dad told me lots of Nomai died when our clan came here.
 		</key>
 		<value>
-			SOLANUM: They say it brought us to this solar system, but is that good? Dad told me lots of Nomai died when our clan came here.
+			sOlxnxm: DA sA ti` brot sx` tU Dis st@ sistxm, bxt zi` Dat gud? dad tOld mE lots vx` nOmI dId wen q@ klan kAm hJ.
 		</value>
 	</entry>
 	<entry>
@@ -5283,7 +5283,7 @@
 			SOLANUM: What if the &lt;color=lightblue&gt;Eye&lt;/color&gt; wanted that to happen?
 		</key>
 		<value>
-			SOLANUM: What if the &lt;color=lightblue&gt;Eye&lt;/color&gt; wanted that to happen?
+			sOlxnxm: wxt fi` DE &lt;color=lightblue&gt;qI&lt;/color&gt; wontid Dat tU hapxn?
 		</value>
 	</entry>
 	<entry>
@@ -5291,7 +5291,7 @@
 			SOLANUM: What if the &lt;color=lightblue&gt;Eye&lt;/color&gt; isn’t something good?
 		</key>
 		<value>
-			SOLANUM: What if the &lt;color=lightblue&gt;Eye&lt;/color&gt; isn’t something good?
+			sOlxnxm: wxt fi` DE &lt;color=lightblue&gt;qI&lt;/color&gt; zi`nt sxmTiN gud?
 		</value>
 	</entry>
 	<entry>
@@ -5299,7 +5299,7 @@
 			1: &lt;color=orange&gt;High Energy Lab&lt;/color&gt; Trailhead
 		</key>
 		<value>
-			1: High Energy Lab Trailhead
+			1: hI ne`jR`qE lab trAlhed
 		</value>
 	</entry>
 	<entry>
@@ -5307,7 +5307,7 @@
 			2: &lt;color=orange&gt;Stepping Stone District&lt;/color&gt;
 		</key>
 		<value>
-			2: Stepping Stone District
+			2: stepiN stOn distrikt
 		</value>
 	</entry>
 	<entry>
@@ -5315,7 +5315,7 @@
 			3: &lt;color=orange&gt;Anglerfish Overlook District&lt;/color&gt;
 		</key>
 		<value>
-			3: Anglerfish Overlook District
+			3: NA`glRfiS vO`lR`ku` distrikt
 		</value>
 	</entry>
 	<entry>
@@ -5323,31 +5323,31 @@
 			4: &lt;color=orange&gt;Eye Shrine District&lt;/color&gt;
 		</key>
 		<value>
-			4: Eye Shrine District
+			4: qI SrIn distrikt
 		</value>
 	</entry>
 	<entry>
 		<key>ANNONA: We need status reports for all systems, but initial things first: Is everyone unharmed?</key>
-		<value>ANNONA: We need status reports for all systems, but initial things first: Is everyone unharmed?</value>
+		<value>nx`nO`qx: wE nEd statxs rip*ts f* lo` sistxmz, bxt ni`Si`lx` TiNz fRst: zi` ve`rEwxn nx`h@md?</value>
 	</entry>
 	<entry>
 		<key>RHUS: Our color=orange&gt;escape pod&lt;/color&gt;’s passengers are afraid, but physically well, Annona; everyone survived the crash.</key>
-		<value>RHUS: Our &lt;color=orange&gt;escape pod&lt;/color&gt;’s passengers are afraid, but physically well, Annona; everyone survived the crash.</value>
+		<value>rUs: q@ &lt;color=orange&gt;si`kAp pod&lt;/color&gt;z pasinjRz q@ fx`rAd, bxt fiziklE wel, na`nO`nx; ve`rEwxn sRvIvd Dx kraS.</value>
 	</entry>
 	<entry>
 		<key>ANNONA: This is a relief, at least. You have my gratitude. Bur, were you able to find the other escape pods’ distress signals?</key>
-		<value>ANNONA: This is a relief, at least. You have my gratitude. Bur, were you able to find the other escape pods’ distress signals?</value>
+		<value>nx`nO`qx: Dis zi` qx rilEf, ta` lEst, yU hav mI gratitUd. bR, wR wU bA`l tU fInd DE Dx`qR si`kAp podz distres signxlz?</value>
 	</entry>
 	<entry>
 		<key>BUR: I can hear both signals somewhere in this star system, but I don’t believe either escape pod crashed on the same planet as us.</key>
-		<value>BUR: I can hear both signals somewhere in this star system, but I don’t believe either escape pod crashed on the same planet as us.</value>
+		<value>bR: qI kan hJ bOT signxlz sxmw# ni` Dis st@ sistxm, bxt qI dOnt bilEv DE`qR si`kAp pod kraSt no` Dx sAm planit za` sx`.</value>
 	</entry>
 	<entry>
 		<key>
 			BEGIN FLIGHTLOG: &lt;color=orange&gt;Escape Pod 2&lt;/color&gt;. &lt;color=orange&gt;Vessel&lt;/color&gt; has been mortally injured. Emergency sequence activated. Awaiting departure from &lt;color=orange&gt;Vessel&lt;/color&gt;.
 		</key>
 		<value>
-			BEGIN FLIGHTLOG: &lt;color=orange&gt;Escape Pod 2&lt;/color&gt;. &lt;color=orange&gt;Vessel&lt;/color&gt; has been mortally injured. Emergency sequence activated. Awaiting departure from &lt;color=orange&gt;Vessel&lt;/color&gt;.
+			bEgin flItlog: &lt;color=orange&gt;si`kAp pod 2&lt;/color&gt;. &lt;color=orange&gt;vesl&lt;/color&gt; haz ben m*txlE ni`jRd. mi`jR`nx`sE sEkwens ka`tivAtid. wx`tA`Ni` dip@cR frxm &lt;color=orange&gt;vesl&lt;/color&gt;.
 		</value>
 	</entry>
 	<entry>
@@ -5355,7 +5355,7 @@
 			Launching &lt;color=orange&gt;Escape Pod 3&lt;/color&gt;... Now launching &lt;color=orange&gt;Escape Pod 2&lt;/color&gt;.
 		</key>
 		<value>
-			Launching &lt;color=orange&gt;Escape Pod 3&lt;/color&gt;... Now launching &lt;color=orange&gt;Escape Pod 2&lt;/color&gt;.
+			lonciN &lt;color=orange&gt;si`kAp pod 3&lt;/color&gt;... nW lonciN &lt;color=orange&gt;si`kAp pod 2&lt;/color&gt;.
 		</value>
 	</entry>
 	<entry>
@@ -5364,8 +5364,8 @@
 			Verdict: INHOSPITABLE. Do not seek shelter on planet surface.
 		</key>
 		<value>
-			Scanning external environment... Scan complete. External temperature is prohibitively high.
-			Verdict: INHOSPITABLE. Do not seek shelter on planet surface.
+			skaniN ke`stRnxl ni`vInR`mxnt... skan kxmplEt. ke`stRnxl temprxcR zi` prxhibitivlE hI.
+			vRdikt: ni`hospitxbl. dU not sEk SeltR no` planit sRfxs.
 		</value>
 	</entry>
 	<entry>
@@ -5373,7 +5373,7 @@
 			MELORAE: This is amazing (look inside the cave)! How did this come to rest here? We haven’t encountered others in these caves; I think this is a rare find.
 		</key>
 		<value>
-			MELORAE: This is amazing (look inside the cave)! How did this come to rest here? We haven’t encountered others in these caves; I think this is a rare find.
+			mil*qA: Dis zi` mx`zA`Ni` (luk ni`sId Dx kAv)! hW did Dis kxm tU rest hJ? wE havnt ni`kWntRd Dx`zR` ni` DEz kAvz; qI TiNk Dis zi` qx r# fInd.
 		</value>
 	</entry>
 	<entry>
@@ -5381,7 +5381,7 @@
 			MELORAE: From what we can see, Coleus and I believe the specimen must be very old indeed. Imagine what we might learn if we could examine it!
 		</key>
 		<value>
-			MELORAE: From what we can see, Coleus and I believe the specimen must be very old indeed. Imagine what we might learn if we could examine it!
+			mil*qA: frxm wxt wE kan sE, kOlEsx` na`d qI bilEv Dx spesimin mxst bE v#qE lO`d ni`dEd. mi`ja`ni` wxt wE mIt lRn fi` wE kud gi`zamin ti`!
 		</value>
 	</entry>
 	<entry>
@@ -5389,7 +5389,7 @@
 			COLEUS: An update: We need to find a way inside quickly, Melorae, because when I returned here to search for an entrance to the cave, there were children playing on the specimen!
 		</key>
 		<value>
-			COLEUS: An update: We need to find a way inside quickly, Melorae, because when I returned here to search for an entrance to the cave, there were children playing on the specimen!
+			kOlEsx`: na` px`dAt: wE nEd tU fInd qx wA ni`sId kwiklE, mil*qA, bikxz wen qI ritRnd hJ tU sRc f* na` ne`trxns tU Dx kAv, D# wR cildrxn plANi` no` Dx spesimin!
 		</value>
 	</entry>
 	<entry>
@@ -5397,7 +5397,7 @@
 			COLEUS: We both agree it’s unlikely this dry planet is this horror’s place of origin (especially considering what we observed during the &lt;color=orange&gt;Vessel&lt;/color&gt;’s evacuation).
 		</key>
 		<value>
-			COLEUS: We both agree it’s unlikely this dry planet is this horror’s place of origin (especially considering what we observed during the &lt;color=orange&gt;Vessel&lt;/color&gt;’s evacuation).
+			kOlEsx`: wE bOT gx`rE ti`s nx`lIklE Dis drI planit zi` Dis h*zR` plAs vx` q*ji`ni` (si`peSxlE kxnsidRNi` wxt wE bx`zRvd dRNi` Dx &lt;color=orange&gt;vesl&lt;/color&gt;z vi`ka`yUSA`nx`).
 		</value>
 	</entry>
 	<entry>
@@ -5405,7 +5405,7 @@
 			MELORAE: Clearly this hole is too small for it to have fit through. Hypothesis: There is another entrance to this cave. If there is, Coleus and I will find it! We can’t leave valuable information undiscovered!
 		</key>
 		<value>
-			MELORAE: Clearly this hole is too small for it to have fit through. Hypothesis: There is another entrance to this cave. If there is, Coleus and I will find it! We can’t leave valuable information undiscovered!
+			mil*qA: klJlE Dis hOl zi` tU smol f* ti` tU hav fit TrU. hIpoTxsis: D# zi` nx`Dx`qR ne`trxns tU Dis kAv. fi` D# zi`, kOlEsx` na`d qI wil fInd ti`! wE kant lEv valyUbx`l ni`fRmASxn nx`diskxvRd!
 		</value>
 	</entry>
 	<entry>
@@ -5413,7 +5413,7 @@
 			MELORAE: We have found an enormous cavern at the end of this passage that appears promising! I believe we could construct long-term shelter there.
 		</key>
 		<value>
-			MELORAE: We have found an enormous cavern at the end of this passage that appears promising! I believe we could construct long-term shelter there.
+			mil*qA: wE hav fWnd na` ni`m*`sx` kavRn ta` DE ne`d vx` Dis pasij Dat px`zJ` promisiN! qI bilEv wE kud kxnstrxkt loN- tRm SeltR D#.
 		</value>
 	</entry>
 	<entry>
@@ -5421,7 +5421,7 @@
 			ANNONA: The cavern Melorae found is a wise choice for shelter. Could one of you mark directions for the others to follow?
 		</key>
 		<value>
-			ANNONA: The cavern Melorae found is a wise choice for shelter. Could one of you mark directions for the others to follow?
+			nx`nO`qx: Dx kavRn mil*qA fWnd zi` qx wIz cYs f* SeltR. kud wxn vx` yU m@k dRke`Sxnz f* DE Dx`zR` tU folO?
 		</value>
 	</entry>
 	<entry>
@@ -5429,7 +5429,7 @@
 			COLEUS: This is the start of the path to the shelter site. I’ve left directions to guide you there.
 		</key>
 		<value>
-			COLEUS: This is the start of the path to the shelter site. I've left directions to guide you there.
+			kOlEsx`: Dis zi` Dx st@t vx` Dx paT tU Dx SeltR sIt. vI` left dRke`Sxnz tU gId yU D#.
 		</value>
 	</entry>
 	<entry>
@@ -5437,95 +5437,95 @@
 			MELORAE: Of note: We must hurry, as the pathway there is filling with sand. Do not allow yourself to be buried by sand, and make sure no one is lost!
 		</key>
 		<value>
-			MELORAE: Of note: We must hurry, as the pathway there is filling with sand. Do not allow yourself to be buried by sand, and make sure no one is lost!
+			mil*qA: vx` nOt: wE mxst hRqE, za` Dx paTwA D# zi` filiN wiT sand. dU not lx`qW yRself tU bE b#dE` bI sand, na`d mAk SR nO wxn zi` lost!
 		</value>
 	</entry>
 	<entry>
 		<key>MELORAE: Anglerfish study</key>
-		<value>MELORAE: Anglerfish study</value>
+		<value>mil*qA: NA`glRfiS stxdE</value>
 	</entry>
 	<entry>
 		<key>COLEUS: An update: Melorae, while I was here making sketches of the anglerfish, I observed the children I saw earlier playing here again. They’ve added a rule to their game that incorporates our research (it’s wonderful)!</key>
-		<value>COLEUS: An update: Melorae, while I was here making sketches of the anglerfish, I observed the children I saw earlier playing here again. They’ve added a rule to their game that incorporates our research (it’s wonderful)!</value>
+		<value>kOlEsx`: na` px`dAt: mil*qA, wIl qI wxz hJ mAkiN skeciz vx` DE NA`glRfiS, qI bx`zRvd Dx cildrxn qI so hJ lR`qEqR plANi` hJ gx`ne`. DAv da`di` qx rUl tU D# gAm Dat ni`k*pRtA`s q@ rEsRc (ti`s wxdRful)!</value>
 	</entry>
 	<entry>
 		<key>MELORAE: I’m entirely delighted! It’s never too early to appreciate biology!</key>
-		<value>MELORAE: I’m entirely delighted! It’s never too early to appreciate biology!</value>
+		<value>mil*qA: mI` ni`tIlR`qE dilItid! ti`s nevR tU lR`qE tU px`riSEtA` bIlo`jx`qE!</value>
 	</entry>
 	<entry>
 		<key>COLEUS: This anglerfish’s digestive tract suggests death by starvation.</key>
-		<value>COLEUS: This anglerfish’s digestive tract suggests death by starvation.</value>
+		<value>kOlEsx`: Dis NA`glRfiSiz dijestiv trakt sxgjests deT bI st@vASxn.</value>
 	</entry>
 	<entry>
 		<key>MELORAE: Visually, the specimen appears to be of the same species as the anglerfish in &lt;color=lightblue&gt;Dark Bramble&lt;/color&gt;. We don’t believe it originated from this planet.</key>
-		<value>MELORAE: Visually, the specimen appears to be of the same species as the anglerfish in &lt;color=lightblue&gt;Dark Bramble&lt;/color&gt;. We don’t believe it originated from this planet.</value>
+		<value>mil*qA: viZUlx`qE, Dx spesimin px`zJ` tU bE vx` Dx sAm spEsEz za` DE NA`glRfiS ni` &lt;color=lightblue&gt;d@k brambl&lt;/color&gt;. wE dOnt bilEv ti` rx`gi`ni`tA`di` frxm Dis planit.</value>
 	</entry>
 	<entry>
 		<key>MELORAE: The long growth protruding from its head is bioluminescent. Perhaps it used this growth to attract prey (a lure?).</key>
-		<value>MELORAE: The long growth protruding from its head is bioluminescent. Perhaps it used this growth to attract prey (a lure?).</value>
+		<value>mil*qA: Dx loN grOT prxtrUdiN frxm ti`s hed zi` bIlO`mU`ni`se`nx`t. pRhaps ti` yUzd Dis grOT tU tx`rakt prA (qx lR?).</value>
 	</entry>
 	<entry>
 		<key>LAEVI: Whoever was it when we ended last time is the anglerfish.</key>
-		<value>LAEVI: Whoever was it when we ended last time is the anglerfish.</value>
+		<value>lavE: hUve`qR wxz ti` wen wE ne`did last tIm zi` DE NA`glRfiS.</value>
 	</entry>
 	<entry>
 		<key>LAEVI: &lt;i&gt;Rule change&lt;/i&gt;! The anglerfish now has to wear a blindfold. (And do &lt;i&gt;not&lt;/i&gt; peek!)</key>
-		<value>LAEVI: &lt;i&gt;Rule change&lt;/i&gt;! The anglerfish now has to wear a blindfold. (And do &lt;i&gt;not&lt;/i&gt; peek!)</value>
+		<value>lavE: &lt;i&gt;rUl cAnj&lt;/i&gt;! DE NA`glRfiS nW haz tU w# qx blIndfOld. (na`d dU &lt;i&gt;not&lt;/i&gt; pEk!)</value>
 	</entry>
 	<entry>
 		<key>LAEVI: The rest of us (the littlefish) line up against one wall. When the anglerfish says go, the littlefish sneak across to the other side.</key>
-		<value>LAEVI: The rest of us (the littlefish) line up against one wall. When the anglerfish says go, the littlefish sneak across to the other side.</value>
+		<value>lavE: Dx rest vx` sx` (Dx litlfiS) lIn px` gx`ne`st Dx wol. wen DE NA`glRfiS sez gO, Dx litlfiS snEk kx`ros tU DE Dx`qR sId.</value>
 	</entry>
 	<entry>
 		<key>LAEVI: If the anglerfish catches you, you’re eaten.</key>
-		<value>LAEVI: If the anglerfish catches you, you’re eaten.</value>
+		<value>lavE: fi` DE NA`glRfiS kaciz tU, yR tE`nx`.</value>
 	</entry>
 	<entry>
 		<key>LAEVI: Last littlefish to be caught is the new anglerfish! (The old anglerfish gives the new anglerfish the blindfold and becomes a littlefish.)</key>
-		<value>LAEVI: Last littlefish to be caught is the new anglerfish! (The old anglerfish gives the new anglerfish the blindfold and becomes a littlefish.)</value>
+		<value>lavE: last litlfiS tU bE kot zi` Dx nU NA`glRfiS! (DE lO`d NAglRfiS givz Dx nU NA`glRfiS Dx blIndfOld na`d bikxmz qx litlfiS.)</value>
 	</entry>
 	<entry>
 		<key>LAMI: Why are we changing it? It’s too hard if you can’t see anything!</key>
-		<value>LAMI: Why are we changing it? It’s too hard if you can’t see anything!</value>
+		<value>lAmE: wI q@ wE cAnjiN ti`? ti`s tU h@d fi` yU kant sE ne`TE`Ni`!</value>
 	</entry>
 	<entry>
 		<key>LAEVI: Aunt Pye says real anglerfish are blind, so you have to wear a blindfold! The rule stands!</key>
-		<value>LAEVI: Aunt Pye says real anglerfish are blind, so you have to wear a blindfold! The rule stands!</value>
+		<value>lavE: na`t pI sez rEl NA`glRfiS q@ blInd, sO yU hav tU w# qx blIndfOld? Dx rUl standz!</value>
 	</entry>
 	<entry>
 		<key>ILEX: Rule update: It’s okay if younger kids don’t wear the blindfold when they’re it. (The rest of us will still wear it for scientific accuracy and to make the game more even.)</key>
-		<value>ILEX: Rule update: It’s okay if younger kids don’t wear the blindfold when they’re it. (The rest of us will still wear it for scientific accuracy and to make the game more even.)</value>
+		<value>lE`ki`s: rUl px`dAt: ti`s kO`qA fi` yxngR kidz dOnt w# Dx blIndfOld wen D# ti`. (Dx rest vx` sx` wil stil w# ti` f* sInx`tifik ka`yRsx`qE na`d tU mAk Dx gAm m* vE`n.)</value>
 	</entry>
 	<entry>
 		<key>MELORAE: This planet sometimes (and only sometimes) has a &lt;color=lightblue&gt;moon&lt;/color&gt;! This is also of note: It disappears if no one is watching it! Isn’t that a &lt;i&gt;fascinating&lt;/i&gt; orbital characteristic?</key>
-		<value>MELORAE: This planet sometimes (and only sometimes) has a &lt;color=lightblue&gt;moon&lt;/color&gt;! This is also of note: It disappears if no one is watching it! Isn’t that a &lt;i&gt;fascinating&lt;/i&gt; orbital characteristic?</value>
+		<value>mil*qA: Dis planit sxmtImz (na`d nO`lE sxmtImz) haz qx &lt;color=lightblue&gt;mUn&lt;/color&gt;! Dis zi` lo`sO vx` nOt: ti` disxpJz fi` nO wxn zi` wociN ti`! zi`nt Dat qx &lt;i&gt;fasinAtiN&lt;/i&gt; b*`ti`l k#kx`tRsi`tik?</value>
 	</entry>
 	<entry>
 		<key>BUR: I found your note, Melorae; kindly count me among this &lt;color=lightblue&gt;moon&lt;/color&gt;’s admirers! What is happening when it disappears (I doubt it ceases to exist)? Does it move to another location?</key>
-		<value>BUR: I found your note, Melorae; kindly count me among this &lt;color=lightblue&gt;moon&lt;/color&gt;’s admirers! What is happening when it disappears (I doubt it ceases to exist)? Does it move to another location?</value>
+		<value>bR: qI fWnd y* nOt, mil*qA; kIndlE kWnt mE mx`Nx` Dis &lt;color=lightblue&gt;mUn&lt;/color&gt;z da`mIrRz! wxt zi` hapxniN wen ti` disxpJz (qI dWt ti` sEsiz tU ge`zist)? dxz ti` mUv tU nx`Dx`qR lOkASxn?</value>
 	</entry>
 	<entry>
 		<key>ANNONA: I believe so. Not only does the moon appear around &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;, I can confirm it sometimes orbits &lt;color=lightblue&gt;Timber Hearth&lt;/color&gt;, as well.</key>
-		<value>ANNONA: I believe so. Not only does the moon appear around &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;, I can confirm it sometimes orbits &lt;color=lightblue&gt;Timber Hearth&lt;/color&gt;, as well.</value>
+		<value>nx`nO`qx: qI bilEv sO. not nO`lE dxz Dx mUn px`qJ rx`nW`d &lt;color=lightblue&gt;britl holO&lt;/color&gt;, qI kan kxnfRm ti` sxmtImz b*`ti`s &lt;color=lightblue&gt;timbR h@T&lt;/color&gt;, za` wel.</value>
 	</entry>
 	<entry>
 		<key>MELORAE: This is my first time encountering a natural satellite with the ability to vanish when not being watched. We should study it! Or, even better, we should travel there!</key>
-		<value>MELORAE: This is my first time encountering a natural satellite with the ability to vanish when not being watched. We should study it! Or, even better, we should travel there!</value>
+		<value>mil*qA: Dis zi` mI fRst tIm ni`kWntRNi` qx nacRlx` satxlIt wiT DE bx`li`ti`qE tU vaniS wen not bENi` woct. wE Sud stxdE ti`! q*, vE`n betR, wE Sud travl D#!</value>
 	</entry>
 	<entry>
 		<key>BUR: I agree! Our first step would be determining a method to track this &lt;color=lightblue&gt;phantom moon&lt;/color&gt; so that we can always know where it is.</key>
-		<value>BUR: I agree! Our first step would be determining a method to track this &lt;color=lightblue&gt;phantom moon&lt;/color&gt; so that we can always know where it is.</value>
+		<value>bR: qI gx`rE! q@ fRst step wud bE ditRminiN qx meTxd tU trak Dis &lt;color=lightblue&gt;fantxm mUn&lt;/color&gt; sO Dat wE kan lo`wAz nO w# ti` zi`.</value>
 	</entry>
 	<entry>
 		<key>ANNONA: Given its reluctance to move while consciously observed, it might be a form of macroscopic quantum mechanics.</key>
-		<value>ANNONA: Given its reluctance to move while consciously observed, it might be a form of macroscopic quantum mechanics.</value>
+		<value>nx`nO`qx: givzn ti`s rilxktxns tU mUv wIl konSxslE bx`zRvd, ti` mIt bE qx f*m vx` makrOskopik kwontxm mxkaniks.</value>
 	</entry>
 	<entry>
 		<key>
 			COLEUS: How curious! This rock took me with it to a new location. I wonder why this happened?
 		</key>
 		<value>
-			COLEUS: How curious! This rock took me with it to a new location. I wonder why this happened?
+			kOlEsx`: hW kyRqEsx`! Dis rok tuk mE wiT ti` tU qx nU lOkASxn. qI wxndR wI Dis hapxnd?
 		</value>
 	</entry>
 	<entry>
@@ -5533,7 +5533,7 @@
 			COLEUS: Curious, but also alarming: This new cave appears to lack an entrance or exit. Also, the rock that brought me here disappeared while I wasn’t watching.
 		</key>
 		<value>
-			COLEUS: Curious, but also alarming: This new cave appears to lack an entrance or exit. Also, the rock that brought me here disappeared while I wasn’t watching.
+			kOlEsx`: kyRqEsx`, bxt lo`sO lx`m@`Ni`: Dis nU kAv px`Jz` tU lak na` ne`trxns q* ge`zit. lo`sO, Dx rok Dat brot mE hJ disxpJd wIl qI wxznt wociN.
 		</value>
 	</entry>
 	<entry>
@@ -5541,7 +5541,7 @@
 			COLEUS: The wandering rock has returned! Never before have I been so delighted to see a sedimentary specimen.
 		</key>
 		<value>
-			COLEUS: The wandering rock has returned! Never before have I been so delighted to see a sedimentary specimen.
+			kOlEsx`: Dx wondRNi` rok haz ritRnd! nevR bif* hav qI ben sO dilItid tU sE qx sedimentRqE spesimxn.
 		</value>
 	</entry>
 	<entry>
@@ -5549,7 +5549,7 @@
 			COLEUS: I wonder if I myself became quantum briefly when the rock carried me here! This seems the clearest explanation. Hypothesis: If the rock can bring me here, it can also carry me out.
 		</key>
 		<value>
-			COLEUS: I wonder if I myself became quantum briefly when the rock carried me here! This seems the clearest explanation. Hypothesis: If the rock can bring me here, it can also carry me out.
+			kOlEsx`: qI wxndR fi` qI mIself bEkAm kwontxm brEflE wen Dx rok k#DE` mE hJ! Dis sEmz Dx klJsi`t ke`splxnASxn. hIpoTxsis: fi` Dx rok kan briN mE hJ, ti` kan lo`sO k#qE mE tW`.
 		</value>
 	</entry>
 	<entry>
@@ -5557,7 +5557,7 @@
 			COLEUS: My hypothesis was correct! I can travel on this rock, as long as I’m not observing my surroundings (meaning I must be in complete darkness). I’m going to bring my mentor here to see this.
 		</key>
 		<value>
-			COLEUS: My hypothesis was correct! I can travel on this rock, as long as I’m not observing my surroundings (meaning I must be in complete darkness). I’m going to bring my mentor here to see this.
+			kOlEsx`: mI hIpoTxsis wxz kRke`t! qI kan travl no` Dis rok, za` loN za` mI` not bx`zRviN mI sRnW`diNz (mEniN qI mxst bE ni` kxmplEt d@knis). mI` gONi` tU briN mI ment* hJ tU sE Dis.
 		</value>
 	</entry>
 	<entry>
@@ -5565,7 +5565,7 @@
 			COLEUS: Melorae is here now, too. We theorize when a conscious being is in contact with a quantum object and ceases to observe his or her surroundings, the being can become entangled with that quantum object, and they move together.
 		</key>
 		<value>
-			COLEUS: Melorae is here now, too. We theorize when a conscious being is in contact with a quantum object and ceases to act as an observer (explaining the need for darkness), the being can become entangled with that quantum object, and they move together.
+			kOlEsx`: mil*qA zi` hJ nW, tU. wE TEqRzI` wen qx konSxs bENi` zi` ni` kontakt wiT qx kwontxm bo`jekt na`d sEsiz tU ka`t za` na` bx`zRvR (ki`splAniN Dx nEd f* d@knis), Dx bENi` kan bikxm ni`tANgld wiT Dat kwontxm bo`jekt, na`d DA mUv tugeDR.
 		</value>
 	</entry>
 	<entry>
@@ -5573,7 +5573,7 @@
 			MELORAE: Friends, Coleus has discovered a new quantum rule! (He has also promised me he’ll never vanish again, even if he &lt;i&gt;does&lt;/i&gt; learn something useful from it!)
 		</key>
 		<value>
-			MELORAE: Friends, Coleus has discovered a new quantum rule! (He has also promised me he’ll never vanish again, even if he &lt;i&gt;does&lt;/i&gt; learn something useful from it!)
+			mil*qA: frends, kOlEsx` haz diskxvRd qx nU kwontxm rUl! (hE haz lo`sO promist mE hil nevR vaniS gx`ne`, vE`n fi` hE &lt;i&gt;dxz&lt;/i&gt; lRn sxmTin yUsful frxm ti`!)
 		</value>
 	</entry>
 	<entry>
@@ -5581,47 +5581,47 @@
 			Melorae: Coleus is missing! He vanished from the &lt;color=orange&gt;Lakebed Cave&lt;/color&gt; (the one at the bottom of the dry lakebed at the north pole) several days ago, and we’re unable to find any trace of him. I don’t know how much air he had when he disappeared. I beg any friend reading this, help us recover Coleus!
 		</key>
 		<value>
-			Melorae: Coleus is missing! He vanished from the &lt;color=orange&gt;Lakebed Cave&lt;/color&gt; (the one at the bottom of the dry lakebed at the north pole) several days ago, and we’re unable to find any trace of him. I don’t know how much air he had when he disappeared. I beg any friend reading this, help us recover Coleus!
+			mil*qA: kOlEsx` zi` misiN! hE vaniSt frxm Dx &lt;color=orange&gt;lAkbed kAv&lt;/color&gt; (Dx wxn ta` Dx botxm vx` Dx drI lAkbed ta` Dx n*T pOl) sevrxl dAz gx`qO, na`d wR nx`bA`l tU fInd ne`qR trAs vx` him. qI dOnt nO hW mxc q# hE had wen hE disxpJd. qI beg ne`qE frend rEdiN Dis, help sx` rikxvR kOlEsx`!
 		</value>
 	</entry>
 	<entry>
 		<key>MELORAE: Friends, if you find any sign of Coleus, I implore you to tell me! He vanished without a trace during our research trip, and has been missing ever since.</key>
-		<value>MELORAE: Friends, if you find any sign of Coleus, I implore you to tell me! He vanished without a trace during our research trip, and has been missing ever since.</value>
+		<value>mil*qA: frends, fi` yU fInd ne`qR sIn vx` kOlEsx`, qI mi`pl* yU tU tel mE! hE vaniSt wiTWt qx trAs dRNi` q@ rEsRc trip, na`d haz ben misiN ve`qR sins.</value>
 	</entry>
 	<entry>
 		<key>BUR: Melorae, some of us from the &lt;color=orange&gt;Sunless City&lt;/color&gt; are here to help search for Coleus. Can you tell us more about your expedition?</key>
-		<value>BUR: Melorae, some of us from the &lt;color=orange&gt;Sunless City&lt;/color&gt; are here to help search for Coleus. Can you tell us more about your expedition?</value>
+		<value>bR: mil*qA, sxm vx` sx` frxm Dx &lt;color=orange&gt;sxnlis sitE&lt;/color&gt; q@ hJ tU help sRc f* kOlEsx. kan yU tel sx` m* bx`tW` y* ke`spxdiSxn?</value>
 	</entry>
 	<entry>
 		<key>MELORAE: You have my gratitude, Bur! Coleus and I were studying the caves’ geology. We hoped to learn more about a unique and wandering rock that visits several different caves in the area.</key>
-		<value>MELORAE: You have my gratitude, Bur! Coleus and I were studying the caves’ geology. We hoped to learn more about a unique and wandering rock that visits several different caves in the area.</value>
+		<value>mil*qA: yU hav mI gratitUd, bR! kOlEsx` na`d qI wR stxdENi` Dx kAvz jElo`jx`qE. wE hOpt tU lRn m* bx`tW` qx yUnik na`d wondRNi` rok Dat vizits sevrxl kAvz ni` DE q#qEqx.</value>
 	</entry>
 	<entry>
 		<key>ANNONA: Where was young Coleus lost, Melorae?</key>
-		<value>ANNONA: Where was young Coleus lost, Melorae?</value>
+		<value>nx`nO`qx: w# wxz yxN kOlEsx` lost, mil*qA?</value>
 	</entry>
 	<entry>
 		<key>MELORAE: He disappeared in the cave at the bottom of the dry lakebed at the north pole. It happened in an instant, and without warning.</key>
-		<value>MELORAE: He disappeared in the cave at the bottom of the dry lakebed at the north pole. It happened in an instant, and without warning.</value>
+		<value>mil*qA: hE disxpJd ni` Dx kAv ta` Dx botxm vx` Dx drI lAkbed ta` Dx n*T pOl. ti` hapxnd ni` na` ni`stxnt, na`d wiTWt w*niN.</value>
 	</entry>
 	<entry>
 		<key>MELORAE: I turned away from Coleus to examine a sample, and when I turned back, he simply wasn’t there anymore. He had a limited supply of air, Annona! I’m afraid for him!</key>
-		<value>MELORAE: I turned away from Coleus to examine a sample, and when I turned back, he simply wasn’t there anymore. He had a limited supply of air, Annona! I’m afraid for him!</value>
+		<value>mil*qA: qI tRnd wx`qA frxm kOlEsx` tU ki`gamin qx sampxl, na`d wen qI tRnd bak, hE simplE wxznt D# ne`mE`q*. hE had qx limitid sxplI vx` q#, nx`nO`qx! mI` fx`rAd f* him!</value>
 	</entry>
 	<entry>
 		<key>ANNONA: Hypothesis: We will learn more by examining the northern &lt;color=orange&gt;Lakebed Cave&lt;/color&gt; where Coleus disappeared. Search quickly, everyone; we have no time to squander!</key>
-		<value>ANNONA: Hypothesis: We will learn more by examining the northern &lt;color=orange&gt;Lakebed Cave&lt;/color&gt; where Coleus disappeared. Search quickly, everyone; we have no time to squander!</value>
+		<value>nx`nO`qx: hIpoTxsis: wE wil lRn m* bI gi`zaminiN Dx n*DRn &lt;color=orange&gt;lAkbed kAv&lt;/color&gt; w# kOlEsx` disxpJd. sRc kwiklE, ve`rEwxn; wE hav nO tIm tU skwondR!</value>
 	</entry>
 	<entry>
 		<key>&lt;color=orange&gt;High Energy Lab&lt;/color&gt;</key>
-		<value>&lt;color=orange&gt;High Energy Lab&lt;/color&gt;</value>
+		<value>&lt;color=orange&gt;hI ne`jR`qE lab&lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>
 			SECCA: To any who come here searching for us: We followed one of the two beacons from the &lt;color=orange&gt;Vessel&lt;/color&gt; to this place, but now can go no further.
 		</key>
 		<value>
-			SECCA: To any who come here searching for us: We followed one of the two beacons from the &lt;color=orange&gt;Vessel&lt;/color&gt; to this place, but now can go no further.
+			sekx: tU ne`qE hU kxm hJ sRciN f* sx`: wE folOd wxn vx` Dx tU bEkxnz frxm Dx &lt;color=orange&gt;vesl&lt;/color&gt; tU Dis plAs, bxt nW kan gO nO fRDR.
 		</value>
 	</entry>
 	<entry>
@@ -5629,7 +5629,7 @@
 			SECCA: It’s almost too faint to hear now, but the &lt;color=orange&gt;Vessel&lt;/color&gt;’s beacon is still faintly emitting from within this thorny seed. Yet the opening is too small for even a single Nomai to fit through it, so our &lt;color=orange&gt;escape pod&lt;/color&gt; couldn’t have flown through here.
 		</key>
 		<value>
-			SECCA: It's almost too faint to hear now, but the &lt;color=orange&gt;Vessel&lt;/color&gt;’s beacon is still faintly emitting from within this thorny seed. Yet the opening is too small for even a single Nomai to fit through it, so our &lt;color=orange&gt;escape pod&lt;/color&gt; couldn’t have flown through here.
+			sekx: ti`s lo`mOst tU fAnt tU hJ nW, bxt Dx &lt;color=orange&gt;vesl&lt;/color&gt;z bEkxn zi` stil fAntlE mi`ti`Ni` frxm wiTin Dis T*nE sEd. yet DE pO`nx`Ni` zi` tU smol f* vE`n qx siNgl nOmI tU fit TrU ti`, sO q@ &lt;color=orange&gt;si`kAp pod&lt;/color&gt; kudnt hav flOn TrU hJ.
 		</value>
 	</entry>
 	<entry>
@@ -5637,7 +5637,7 @@
 			SECCA: I don’t understand how this could be possible, but this gruesome place seems able to manipulate space itself; maybe this was our undoing.
 		</key>
 		<value>
-			SECCA: I don’t understand how this could be possible, but this gruesome place seems able to manipulate space itself; maybe this was our undoing.
+			sekx: qI dOnt nx`dRstand hW Dis kud bE posibl, bxt Dis grUsxm plAs sEmz bA`l tU mxnipyxlAt spAs ti`self; mAbE Dis wxz q@ nx`dUNi`.
 		</value>
 	</entry>
 	<entry>
@@ -5645,7 +5645,7 @@
 			SECCA: To be so close to the location of the &lt;color=orange&gt;Vessel&lt;/color&gt; and still so far is... difficult. Worse, the &lt;color=orange&gt;Vessel&lt;/color&gt;’s beacon is dying; soon, we will be unable to hear it.
 		</key>
 		<value>
-			SECCA: To be so close to the location of the &lt;color=orange&gt;Vessel&lt;/color&gt; and still so far is... difficult. Worse, the &lt;color=orange&gt;Vessel&lt;/color&gt;’s beacon is dying; soon, we will be unable to hear it.
+			sekx: tU bE sO klOs tU Dx lOkASxn vx` Dx &lt;color=orange&gt;vesl&lt;/color&gt; na`d stil sO f@ zi`... difikxlt. w*s, Dx &lt;color=orange&gt;vesl&lt;/color&gt;z bEkxn zi` dINi`; sUn, wE wil bE nx`bA`l tU hJ ti`.
 		</value>
 	</entry>
 	<entry>
@@ -5653,7 +5653,7 @@
 			SECCA: There is nothing we can do now but try to perhaps find a way inside, or at least attempt to comprehend why this happened.
 		</key>
 		<value>
-			SECCA: There is nothing we can do now but try to perhaps find a way inside, or at least attempt to comprehend why this happened.
+			sekx: D# zi` nxTiN wE kan dU nW bxt trI tU pRhaps fInd qx wA ni`sId, q* ta` lEst tx`me`pt tU komprxhend wI Dis hapxnd.
 		</value>
 	</entry>
 	<entry>
@@ -5661,60 +5661,60 @@
 			SECCA: My dearest hope is that the other escape pods were able to reach relative safety.
 		</key>
 		<value>
-			SECCA: My dearest hope is that the other escape pods were able to reach relative safety.
+			sekx: mI dJsi`t hOp zi` Dat DE Dx`qR si`kAp podz wR bA`l tU rEc relxtiv sAftE.
 		</value>
 	</entry>
 	<entry>
 		<key>DIN: There is a new problem: Our equipment is detecting two distinct beacons from the &lt;color=orange&gt;Vessel&lt;/color&gt;.</key>
-		<value>DIN: There is a new problem: Our equipment is detecting two distinct beacons from the &lt;color=orange&gt;Vessel&lt;/color&gt;.</value>
+		<value>din: D# zi` qx nU problxm: q@ ki`wipmxnt zi` ditektiN tU distiNkt bEkxnz frxm Dx &lt;color=orange&gt;vesl&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>SECCA: But it isn’t possible for the &lt;color=orange&gt;Vessel&lt;/color&gt; to be in two different locations at the same time.</key>
-		<value>SECCA: But it isn’t possible for the &lt;color=orange&gt;Vessel&lt;/color&gt; to be in two different locations at the same time.</value>
+		<value>sekx: bxt ti` zi`nt posibl f* Dx &lt;color=orange&gt;vesl&lt;/color&gt; tU bE ni` tU difrxnt lOkASxnz ta` Dx sAm tIm.</value>
 	</entry>
 	<entry>
 		<key>DIN: I agree, but the beacons are exactly identical to each other. Perhaps if I had more time —</key>
-		<value>DIN: I agree, but the beacons are exactly identical to each other. Perhaps if I had more time —</value>
+		<value>din: qI gx`rE, bxt Dx bEkxnz q@ gi`zaktlE dI`ne`tikxl tU cE` Dx`qR. pRhaps fi` qI had m* tIm -</value>
 	</entry>
 	<entry>
 		<key>SECCA: We’re nearly out of time already, Din; the &lt;color=orange&gt;Vessel&lt;/color&gt;’s beacon is quickly fading. Soon, it will be gone, and we will be lost.</key>
-		<value>SECCA: We’re nearly out of time already, Din; the &lt;color=orange&gt;Vessel&lt;/color&gt;’s beacon is quickly fading. Soon, it will be gone, and we will be lost.</value>
+		<value>sekx: wR nJlE tW` vx` tIm lo`redE, din; Dx &lt;color=orange&gt;vesl&lt;/color&gt;z bEkxn zi` kwiklE fAdiN. sUn, ti` wil bE gon, na`d wE wil bE lost.</value>
 	</entry>
 	<entry>
 		<key>ESCALL: We will follow the beacon whose source is nearest to us.</key>
-		<value>ESCALL: We will follow the beacon whose source is nearest to us.</value>
+		<value>se`kl: wE wil folO Dx bEkxn hUz s*s zi` nJsi`t tU sx`.</value>
 	</entry>
 	<entry>
 		<key>DIN: But suppose that beacon is false!</key>
-		<value>DIN: But suppose that beacon is false!</value>
+		<value>din: bxt sxpOz Dat bEkxn zi` fals!</value>
 	</entry>
 	<entry>
 		<key>ESCALL: We likely don’t have enough air to reach the farther of the two beacons, Din. The decision is made for us.</key>
-		<value>ESCALL: We likely don’t have enough air to reach the farther of the two beacons, Din. The decision is made for us.</value>
+		<value>se`kl: wE lIklE dOnt hav ni`fx` q# tU rEc Dx f@DR vx` Dx tU bEkxnz, din. Dx disiZxn zi` mAd f* sx`.</value>
 	</entry>
 	<entry>
 		<key>ESCALL: We’ll leave a trail of lights as we go. There’s still a chance someone could hear our &lt;color=orange&gt;escape pod&lt;/color&gt;’s distress signal.</key>
-		<value>ESCALL: We’ll leave a trail of lights as we go. There’s still a chance someone could hear our &lt;color=orange&gt;escape pod&lt;/color&gt;’s distress signal.</value>
+		<value>se`kl: wil lEv qx trAl vx` lIts za` wE gO. D#z stil qx cans sxmwxn kud hJ q@ &lt;color=orange&gt;si`kAp pod&lt;/color&gt;z distres signxl.</value>
 	</entry>
 	<entry>
 		<key>BEGIN FLIGHTLOG: &lt;color=orange&gt;Escape Pod 3&lt;/color&gt;. &lt;color=orange&gt;Vessel&lt;/color&gt; has been mortally injured. Emergency sequence activated. Awaiting departure from &lt;color=orange&gt;Vessel&lt;/color&gt;.</key>
-		<value>BEGIN FLIGHTLOG: &lt;color=orange&gt;Escape Pod 3&lt;/color&gt;. &lt;color=orange&gt;Vessel&lt;/color&gt; has been mortally injured. Emergency sequence activated. Awaiting departure from &lt;color=orange&gt;Vessel&lt;/color&gt;.</value>
+		<value>bEgin flItlog: &lt;color=orange&gt;si`kAp pod 3&lt;/color&gt;. &lt;color=orange&gt;vesl&lt;/color&gt; haz ben m*txlE ni`jRd. mi`jR`nx`sE sEkwens ka`tivAtid. wx`tA`Ni` dip@cR frxm &lt;color=orange&gt;vesl&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>Now launching &lt;color=orange&gt;Escape Pod 3&lt;/color&gt;.</key>
-		<value>Now launching &lt;color=orange&gt;Escape Pod 3&lt;/color&gt;.</value>
+		<value>nW lonciN &lt;color=orange&gt;si`kAp pod 3&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>ALERT: Multiple collisions have altered pod’s trajectory. Significant damage to pod detected.</key>
-		<value>ALERT: Multiple collisions have altered pod’s trajectory. Significant damage to pod detected.</value>
+		<value>lx`tR`: mltipl kxliZxnz hav lo`tRd podz trxjektRqE. signifikant damij tU pod ditektid.</value>
 	</entry>
 	<entry>
 		<key>WARNING: Navigation error. Life support error. Propulsion error.</key>
-		<value>WARNING: Navigation error. Life support error. Propulsion error.</value>
+		<value>w*niN: navigASxn q#qR. lIf sxp*t q#qR. prxpxlZxn q#qR.</value>
 	</entry>
 	<entry>
 		<key>Scanning external environment... Scan complete. Gravity not detected. Breathable air not detected. Multiple lifeforms detected (potentially hostile). Verdict: DO NOT EXIT POD.</key>
-		<value>Scanning external environment... Scan complete. Gravity not detected. Breathable air not detected. Multiple lifeforms detected (potentially hostile). Verdict: DO NOT EXIT POD.</value>
+		<value>skaniN ke`stRnxl ni`vInR`mxnt... skan kxmplEt. gravitE not ditektid. brEDxbl q# not ditektid. mltipl lIff*mz ditektid (pxtenSxlE hostxl) vRdikt: dU not ge`zit pod.</value>
 	</entry>
 	<entry>
 		<key>The arch and the crystal do not naturally meet.</key>
