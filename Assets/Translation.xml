@@ -6166,7 +6166,7 @@
 	</entry>
 	<entry>
 		<key>SignI’ve detected a strange signal coming from somewhere within the grove in this crater.</key>
-		<value>vI` ditektid qx strAnj signxl kxmiN sxmw# wiTin Dx grOv ni` Dis krAtR.</value>
+		<value>vI` ditektid qx strAnj signxl kxmiN frxm sxmw# wiTin Dx grOv ni` Dis krAtR.</value>
 	</entry>
 	<entry>
 		<key>SignIt’s very similar to the signal emitted by the Quantum Moon, so it stands to reason the two signals are probably related.</key>
@@ -11428,7 +11428,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Orbital Probe CannonThe broken remains of a Nomai space station in orbit around Giant's Deep. There are three accessways branching off from the central hub area.</key>
-			<value>Dx brOkxn rimAnz vx` qx nOmI spAs stASxn ni` b*`ti8 rx`nW`d jInx`ts dEp. D# q@ TrE ka`seswAz branciN fo` frxm Dx sentrxl hxb q#qEqx.</value>
+			<value>Dx brOkxn rimAnz vx` qx nOmI spAs stASxn ni` b*`ti` rx`nW`d jInx`ts dEp. D# q@ TrE ka`seswAz branciN fo` frxm Dx sentrxl hxb q#qEqx.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Orbital Probe CannonThe Orbital Probe Cannon was created to find the precise location of the Eye of the universe.</key>
@@ -11476,7 +11476,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking ModuleI found Nomai coordinates marking the location of the Eye of the universe.</key>
-			<value>qI fWnd nOmI cOd*`nx`ti`s m@kiN Dx lOkASxn vx` DE qI vx` Dx yUnivRs.</value>
+			<value>qI fWnd nOmI kOd*`nx`ti`s m@kiN Dx lOkASxn vx` DE qI vx` Dx yUnivRs.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Launch Module</key>
@@ -13326,11 +13326,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>280</key>
-			<value>ne`tR lonc cOdz</value>
+			<value>ne`tR lonc kOdz</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>281</key>
-			<value>rikwIzR` lonc cOdz</value>
+			<value>rikwIzR` lonc kOdz</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>282</key>
@@ -13706,7 +13706,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>420</key>
-			<value>lonc cOdz: --|-..|-.</value>
+			<value>lonc kOdz: - - | -..| -.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>421</key>
@@ -14262,7 +14262,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>681</key>
-			<value>tW`qR wIldz ventRz</value>
+			<value>tW`qR wIldz vencRz</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>682</key>
@@ -14370,7 +14370,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>731</key>
-			<value>tW`qR wIldz ventRz</value>
+			<value>tW`qR wIldz vencRz</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>732</key>

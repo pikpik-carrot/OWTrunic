@@ -1,1 +1,4 @@
 OWTrunic.csproj.user
+obj/
+.vs/
+.vscode/
