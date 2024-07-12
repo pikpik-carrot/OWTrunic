@@ -671,7 +671,7 @@
 			COLEUS: To reach the shelter site, walk forward until you meet the sandfall at the pit, then turn left. Continue to the room filled with rock column formations and climb upward through the opening above them.
 		</key>
 		<value>
-			kOlEsx`: tU rEc Dx SeltR sIt, wok fQwRd nx`til yU mEt Dx sandfol ta` Dx pit, Den tRn left. kxntinyU tU Dx rUn fild wiT rok colxm fQmASxnz na`d klIm px`wRd TrU DE pO`nx`Ni` bx`vx` Dem.
+			kOlEsx`: tU rEc Dx SeltR sIt, wok fQwRd nx`til yU mEt Dx sandfol ta` Dx pit, Den tRn left. kxntinyU tU Dx rUn fild wiT rok kolxm fQmASxnz na`d klIm px`wRd TrU DE pO`nx`Ni` bx`vx` Dem.
 		</value>
 	</entry>
 	<entry>
@@ -832,7 +832,7 @@
 	</entry>
 	<entry>
 		<key>CLARY: Yes, but your voices are faint. I fear we will lose communication entirely if you continue any deeper.</key>
-		<value>klXqE: yes, bxt yQ vYsiz qV fAnt. qI fJ wE wil lUz cxmyUnikASxn ni`tIlR`qE fi` yU kxntinyU ne`qE dEpR.</value>
+		<value>klXqE: yes, bxt yQ vYsiz qV fAnt. qI fJ wE wil lUz kxmyUnikASxn ni`tIlR`qE fi` yU kxntinyU ne`qE dEpR.</value>
 	</entry>
 	<entry>
 		<key>POKE: Keep the &lt;color=orange&gt;shuttle&lt;/color&gt; warm for us, Clary. We’ll return the moment we identify the source of the energy readings!</key>
@@ -1188,7 +1188,7 @@
 	</entry>
 	<entry>
 		<key>SelfGossan1I very much do not want to discuss that.</key>
-		<value>qI vRqE msc dU not wont tU diskxs Dat.</value>
+		<value>qI vRqE mxc dU not wont tU diskxs Dat.</value>
 	</entry>
 	<entry>
 		<key>Wrong4AMy thoughts exactly.</key>
@@ -2772,7 +2772,7 @@
 	</entry>
 	<entry>
 		<key>ScientistAnswer25Oh, and Gossan says they have the zero-g chamber set up if you want a refresher on making ship repairs in space. Not saying you &lt;i&gt;have&lt;/i&gt; to, but uh, it’d help get Gossan off my back if you did.</key>
-		<value>qO, na`d gosxn sez DA hav Dx zJqO- jE cAmbR set px` fi` yU wont qx rifreSR no` mAkiN Sip ripXz ni` spAc. not sANi` yU &lt;i&gt;hav&lt;/i&gt; tU, bxt qx, di` help get gosxn fo` mI bak fi` yU did.</value>
+		<value>qO, na`d gosxn sez DA hav Dx zJqO- jE cAmbR set px` fi` yU wont qx rifreSR no` mAkiN Sip ripXz ni` spAs. not sANi` yU &lt;i&gt;hav&lt;/i&gt; tU, bxt qx, di` help get gosxn fo` mI bak fi` yU did.</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer21Hornfels has the launch codes. Should be up at the observatory, like usual. I’m starting to think they live there.</key>
@@ -3450,7 +3450,7 @@
 		<key>FoundSomething1And the jellyfish, you figured those out, too? Hatchling, I tell you what, you’ve done real well for yourself! You’re a fine astronaut, sure, but you might just become a pilot yet!</key>
 		<value>na`d Dx jelEfiS, yU figyRd DOz tW`, tU? hacliN, qI tel yU wxt, yUv dxn rEl wel fQ yRself! yR qx fIn sa`trxnot, SR, bxt yU mIt jxst bikxm qx pIlxt yet!</value>
 	</entry>
-	<entry> Ah, well, at least they didn’t eat me. All’s well that ends well, eh, hatchling
+	<entry>
 		<key>FoundSomething2Ha! So the old thing still there, is it? That’s where I first camped out after the crash, you know. It was pretty cozy inside!</key>
 		<value>ha! sO DE lO`d TiN zi` stil DX, zi` ti`? Dats wX qI fRst kampt tW` fa`tR Dx kraS, yU nO. ti` wxz pritE kOzE ni`sId!</value>
 	</entry>
@@ -3620,7 +3620,7 @@
 	</entry>
 	<entry>
 		<key>WaitingForInvitationAnd so, a choice: Are you certain you want to remember me?</key>
-		<value>na`d sO, qx cYs: qV yU cRtn yU wont tU rimembR mE?</value>
+		<value>na`d sO, qx cYs: qV yU sRtn yU wont tU rimembR mE?</value>
 	</entry>
 	<entry>
 		<key>the PrisonerWaitingForInvitationJoin us. Let’s see what happens.</key>
@@ -4264,7 +4264,7 @@
 	</entry>
 	<entry>
 		<key>NEEM: Not yet, we aren’t, but nearly. We found trouble during our warp: The triple suns of the Bright Spark star system exploded, and it was only a lucky coincidence we weren’t caught in the blast. We’ll meet you soon, Canna!</key>
-		<value>nEm: not yet, wE nV`t, bxt nJlE. wE fWnd trxbl dRNi` qV wQp: Dx tripl sxnz vx` Dx brIt spVk stV sistxm ki`splOdid, na`d ti` wxz nO`lE qx lxkE cOni`sidxns wE wRnt kot ni` Dx blast. wil mEt yU sUn, kanx!</value>
+		<value>nEm: not yet, wE nV`t, bxt nJlE. wE fWnd trxbl dRNi` qV wQp: Dx tripl sxnz vx` Dx brIt spVk stV sistxm ki`splOdid, na`d ti` wxz nO`lE qx lxkE kOni`sidxns wE wRnt kot ni` Dx blast. wil mEt yU sUn, kanx!</value>
 	</entry>
 	<entry>
 		<key>CANNA: I’m relieved your clan is safe, Neem! It’s good to hear your words. Any Vessels nearby, remember to be extremely cautious of potentially unstable stars (which is most of them, now).</key>
@@ -4656,7 +4656,7 @@
 	</entry>
 	<entry>
 		<key>RAMIE: I imagine our otherwise immensely clever Conoy would lose his own head if it weren’t anatomically impossible!</key>
-		<value>rAmE: qI mi`ja`ni` qV Dx`wR`zI` mi`ne`slE klevR cxnY wud lUz hiz nO` hed fi` ti` wRnt na`tx`mo`ki`lE mi`posibl!</value>
+		<value>rAmE: qI mi`ja`ni` qV Dx`wR`zI` mi`ne`slE klevR kxnY wud lUz hiz nO` hed fi` ti` wRnt na`tx`mo`ki`lE mi`posibl!</value>
 	</entry>
 	<entry>
 		<key>The &lt;color=orange&gt;shuttle&lt;/color&gt; is currently resting at the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;.</key>
@@ -5024,7 +5024,7 @@
 	</entry>
 	<entry>
 		<key>AVENS: We’d need to build a probe-launching mechanism to cover those long distances quickly. A cannon in orbit around a celestial body would circumvent the need to escape gravity’s pull.</key>
-		<value>vA`ni`z: wEd nEd tU bild qx prOb-lonciN mekxnizm tU kxvR DOz loN distinsiz kwiklE. qx kanxn ni` bQ`ti` rx`nW`d qx sxlestElx` bodE wud sRkxmvent Dx nEd tU si`kAp gravitEz pul.</value>
+		<value>vA`ni`z: wEd nEd tU bild qx prOb- lonciN mekxnizm tU kxvR DOz loN distinsiz kwiklE. qx kanxn ni` bQ`ti` rx`nW`d qx sxlestElx` bodE wud sRkxmvent Dx nEd tU si`kAp gravitEz pul.</value>
 	</entry>
 	<entry>
 		<key>CASSAVA: &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; would be a good choice. It’s furthest from the &lt;color=lightblue&gt;sun&lt;/color&gt;, so it would provide the best angles for launch. And it’s moonless (except when the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; is visiting).</key>
@@ -5088,7 +5088,7 @@
 	</entry>
 	<entry>
 		<key>THATCH: Building beneath the crust again would shelter us from the &lt;color=lightblue&gt;volcanic moon&lt;/color&gt;’s eruptions.</key>
-		<value>Tac: bildiN binET Dx krxst gx`ne` wud SeltR vx` frxm Dx &lt;color=lightblue&gt;volkanic mUn&lt;/color&gt;z qRpx`Sxnz.</value>
+		<value>Tac: bildiN binET Dx krxst gx`ne` wud SeltR vx` frxm Dx &lt;color=lightblue&gt;volkanik mUn&lt;/color&gt;z qRpx`Sxnz.</value>
 	</entry>
 	<entry>
 		<key>THATCH: This is a wise point, Plume, and eloquently made. If moving to the northern glacier will keep us safer, then that is what we should do.</key>
@@ -7785,7 +7785,7 @@
 	</entry>
 	<entry>
 		<key>SignAlthough it’s been argued such a distinction requires a breathtakingly liberal definition of flight, that day will nevertheless always be remembered as landmark achievement in Hearthian history.</key>
-		<value>lo`DO ti`s ben gV`yUd suc qx distENkSxn rikwIzR` qx breTtAkiNlE libRlx` definiSxn vx` flIt, Dat dA wil nevRDxles lo`wAz bE rimembRd za` qx landmVk cx`vE`mxnt ni` hVTEni` histRqE.</value>
+		<value>lo`DO ti`s ben gV`yUd sxc qx distENkSxn rikwIzR` qx breTtAkiNlE libRlx` definiSxn vx` flIt, Dat dA wil nevRDxles lo`wAz bE rimembRd za` qx landmVk cx`vE`mxnt ni` hVTEni` histRqE.</value>
 	</entry>
 	<entry>
 		<key>SignAside from the dwellings and structures they built, the Nomai also made art. This decorated pottery was discovered on Brittle Hollow.</key>
@@ -8365,7 +8365,7 @@
 	</entry>
 	<entry>
 		<key>The &lt;color=orange&gt;shuttle&lt;/color&gt; is currently resting at the &lt;color=lightblue&gt;comet&lt;/color&gt;.</key>
-		<value>Dx &lt;color=orange&gt;Sxtl&lt;/color&gt; zi` cRni`tlE restiN ta` Dx &lt;color=lightblue&gt;komit&lt;/color&gt;.</value>
+		<value>Dx &lt;color=orange&gt;Sxtl&lt;/color&gt; zi` kRni`tlE restiN ta` Dx &lt;color=lightblue&gt;komit&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>Who’s been computing shuttle trajectories to the &lt;color=orange&gt;Sun Station&lt;/color&gt;? Don’t worry; the station is in such a low stellar orbit, we’ve constructed a different, safer way to travel there from &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;.</key>
@@ -8388,7 +8388,7 @@
 			MELORAE: This rock is very familiar! Did you travel here, my sedimentary friend? Because your unique color and texture appears identical to a rock I met earlier.
 		</key>
 		<value>
-			milQqA: Dis rok zi` vXqE fxmilEqR! did yU travl hJ, mI sedimentRqE frend? bikxz yQ yUnEk cxlR na`d tekScR px`zJ` dI`ne`tikxl tU qx rok qI met lR`qEqR.
+			milQqA: Dis rok zi` vXqE fxmilEqR! did yU travl hJ, mI sedimentRqE frend? bikxz yQ yUnEk kxlR na`d tekScR px`zJ` dI`ne`tikxl tU qx rok qI met lR`qEqR.
 		</value>
 	</entry>
 	<entry>
@@ -8793,7 +8793,7 @@
 	</entry>
 	<entry>
 		<key>&lt;TimeMinutes&gt; MINUTES, &lt;TimeSeconds&gt; SECONDS AGO: Received data from previous cycles.</key>
-		<value>&lt;TimeMinutes&gt; minits, &lt;TimeSeconds&gt; sekints gx`qO: risEcd dAtx frxm prEvEsx` sIklz.</value>
+		<value>&lt;TimeMinutes&gt; minits, &lt;TimeSeconds&gt; sekints gx`qO: risEvd dAtx frxm prEvEsx` sIklz.</value>
 	</entry>
 	<entry>
 		<key>
@@ -9757,7 +9757,7 @@
 	</entry>
 	<entry>
 		<key>Gabbro1_saidhiHave you ever stared at a cyclone for so long, it started to hypnotize you? I’m telling you, they’ll pull you into a trance if you look at ’em long enough.</key>
-		<value>hav yU ve`qR woct qx sIklOn fQ sO loN, ti` stVtid tU hipnxtIz yU? mI` teliN yU Del pul yU ni` qx trans fi` yU stX ta` m loN ni`fx`.</value>
+		<value>hav yU ve`qR stXd ta` qx sIklOn fQ sO loN, ti` stVtid tU hipnxtIz yU? mI` teliN yU Del pul yU ni` qx trans fi` yU stX ta` m loN ni`fx`.</value>
 	</entry>
 	<entry>
 		<key>GabbroGabbroMenuI found a photo of you inside the old radio tower.</key>
@@ -10381,78 +10381,78 @@
 	</entry>
 	<entry>
 		<key>Moraine</key>
-		<value>Moraine</value>
+		<value>mQnA`</value>
 	</entry>
 	<entry>
 		<key>SignalscopeKid1Hm? Oh, hello, astronaut.</key>
-		<value>Hm? Oh, hello, astronaut.</value>
+		<value>hm? qO, helO, sa`trxnot.</value>
 	</entry>
 	<entry>
 		<key>SignalscopeKid1This is good weather for your launch, right? That’s lucky!</key>
-		<value>This is good weather for your launch, right? That’s lucky!</value>
+		<value>Dis zi` gud weDR fQ yQ lonc, rIt? Dats lxkE!</value>
 	</entry>
 	<entry>
 		<key>MoraineSignalscopeKid1What are you up to?</key>
-		<value>What are you up to?</value>
+		<value>wxt qV yU px` tU?</value>
 	</entry>
 	<entry>
 		<key>MoraineSignalscopeKid1Any good sounds from space today?</key>
-		<value>Any good sounds from space today?</value>
+		<value>ne`qE gud sWndz frxm spAs tudA?</value>
 	</entry>
 	<entry>
 		<key>SignalscopeKid5Hello, again.</key>
-		<value>Hello, again.</value>
+		<value>helO, gx`ne`.</value>
 	</entry>
 	<entry>
 		<key>MoraineSignalscopeKid5Haven’t you been up in this tree a while?</key>
-		<value>Haven’t you been up in this tree a while?</value>
+		<value>havnt yU ben px` ni` Dis trE qx wIl?</value>
 	</entry>
 	<entry>
 		<key>MoraineSignalscopeKid5Any good sounds from space today?</key>
-		<value>Any good sounds from space today?</value>
+		<value>ne`qE gud sWndz frxm spAs tudA?</value>
 	</entry>
 	<entry>
 		<key>SignalscopeKid2I’m using my signalscope to pick up sounds from distant planets.</key>
-		<value>I’m using my signalscope to pick up sounds from distant planets.</value>
+		<value>mI` yUziN mI signxlskOp tU pik px` sWndz frxm distxnt planits.</value>
 	</entry>
 	<entry>
 		<key>SignalscopeKid2It’s set to the Outer Wilds Ventures frequency so I can pick up the travelers’ music.</key>
-		<value>It’s set to the Outer Wilds Ventures frequency so I can pick up the travelers’ music.</value>
+		<value>ti`s set tU DE tW`qR wIldz vencRz frEkwensE sO qI kan pik px` Dx travlRz myUzik.</value>
 	</entry>
 	<entry>
 		<key>SignalscopeKid3There are! My signalscope is set to the Outer Wilds Ventures frequency, so I’m listening to the travelers’ music.</key>
-		<value>There are! My signalscope is set to the Outer Wilds Ventures frequency, so I’m listening to the travelers’ music.</value>
+		<value>DX qV! mI signxlskOp zi` set tU DE tW`qR wIldz vencRz frEkwensE, sO mI` lisniN tU Dx travlRz myUzik.</value>
 	</entry>
 	<entry>
 		<key>SignalscopeKid4Last night I heard Riebeck’s banjo coming from Brittle Hollow. I hope that means they’re safe.</key>
-		<value>Last night I heard Riebeck’s banjo coming from Brittle Hollow. I hope that means they’re safe.</value>
+		<value>last nIt qI hRd rIbeks banjO kxmiN frxm britl holO. qI hOp Dat mEnz DX sAf.</value>
 	</entry>
 	<entry>
 		<key>SignalscopeKid4I can hear different planets, too! It depends on what time of day or night it is, since different planets are in the sky at different times.</key>
-		<value>I can hear different planets, too! It depends on what time of day or night it is, since different planets are in the sky at different times.</value>
+		<value>qI kan hJ difrxnt planits, tU! ti` dipendz no` wxt tIm vx` dA qQ nIt ti` zi`, sins difrxnt planits qV ni` Dx skI ta` difrxnt tImz.</value>
 	</entry>
 	<entry>
 		<key>SignalscopeKid4Signalscopes are cool.</key>
-		<value>Signalscopes are cool.</value>
+		<value>signxlskWps qV kUl.</value>
 	</entry>
 	<entry>
 		<key>SignalscopeKid6I’m concerned Marl will cut down this tree if there’s no one in it, so I don’t want to leave it for too long.</key>
-		<value>I’m concerned Marl will cut down this tree if there’s no one in it, so I don’t want to leave it for too long.</value>
+		<value>mI` kxnsRnd mVl wil kxt dWn Dis trE fi` DXz nO wxn ni` ti`, sO qI dOnt wont tU lEv ti` fQ tU loN.</value>
 	</entry>
 	<entry>
 		<key>SignalscopeKid6Mayor Rutile says Marl isn’t supposed to cut it down, but I don’t think they see eyes-to-eyes on this one.</key>
-		<value>Mayor Rutile says Marl isn’t supposed to cut it down, but I don’t think they see eyes-to-eyes on this one.</value>
+		<value>mX rUtIl sez mVl zi`nt sxpOst tU kxt ti` dWn, bxt qI dOnt TiNk DA sE zI`- tU- zI` no` Dis wxn.</value>
 	</entry>
 	<entry>
 		<key>SignalscopeKid6Um, I’ll still watch your launch, though! I’ll have a good view from up here.</key>
-		<value>Um, I’ll still watch your launch, though! I’ll have a good view from up here.</value>
+		<value>mx`, lo` stil woc yQ lonc, DO! lo` hav qx gud vyU frxm px` hJ.</value>
 	</entry>
 	<entry>
 		<key>
 			Retrieving stored coordinates from &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;.
 		</key>
 		<value>
-			Retrieving stored coordinates from &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;.
+			ritrEviN stQd kOdQ`ni`ti`s frxm &lt;color=lightblue&gt;Sa` twin&lt;/color&gt;.
 		</value>
 	</entry>
 	<entry>
@@ -10460,128 +10460,128 @@
 			Displaying coordinates for the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;.
 		</key>
 		<value>
-			Displaying coordinates for the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;.
+			displANi` kOrQ`ni`ti`s fQ DE &lt;color=lightblue&gt;qI vx` Dx yUnivRs&lt;/color&gt;.
 		</value>
 	</entry>
 	<entry>
 		<key>WaitingForOthersIt’s, um, it’s not quite time yet.</key>
-		<value>It’s, um, it’s not quite time yet.</value>
+		<value>ti`s, mx`, ti`s not kwIt tIm yet.</value>
 	</entry>
 	<entry>
 		<key>WaitingForOthersI’m pretty sure we’ll need the others for this next part. We’ll need, you know... everyone.</key>
-		<value>I’m pretty sure we’ll need the others for this next part. We’ll need, you know... everyone.</value>
+		<value>mI` pritE SR wil nEd DE Dx`zR` fQ Dis nekst pVt. wil nEd, yU nO... ve`rEwxn.</value>
 	</entry>
 	<entry>
 		<key>WaitingForOthersNo rush! Take your time. &lt;size=20&gt;It might not even exist here...&lt;/size&gt;</key>
-		<value>No rush! Take your time. &lt;size=20&gt;It might not even exist here...&lt;/size&gt;</value>
+		<value>nO rxS! tAk yQ tIm. &lt;size=20&gt;ti` mIt not vE`n gi`zist hJ...&lt;/size&gt;</value>
 	</entry>
 	<entry>
 		<key>ReadyToPlayShould I begin?</key>
-		<value>Should I begin?</value>
+		<value>Sud qI bEgin?</value>
 	</entry>
 	<entry>
 		<key>RiebeckReadyToPlayYes.</key>
-		<value>Yes.</value>
+		<value>yes.</value>
 	</entry>
 	<entry>
 		<key>RiebeckReadyToPlayNot yet.</key>
-		<value>Not yet.</value>
+		<value>not yet.</value>
 	</entry>
 	<entry>
 		<key>StartPlayingYou g-got it. I’ll do my best!</key>
-		<value>You g-got it. I’ll do my best!</value>
+		<value>yU g- got ti`. lo` dU mI best!</value>
 	</entry>
 	<entry>
 		<key>NotYetOk, I'll wait until you're ready.</key>
-		<value>Ok, I'll wait until you're ready.</value>
+		<value>qOkA, lo` wAt nx`til yR redE.</value>
 	</entry>
 	<entry>
 		<key>FarewellI learned a lot, by the end of everything.</key>
-		<value>I learned a lot, by the end of everything.</value>
+		<value>qI lRnd qx lot, bI DE ne`d vx` ve`rETiN.</value>
 	</entry>
 	<entry>
 		<key>FarewellThe past is past, now, but that’s... you know, that’s okay! It’s never really gone completely. The future is always built on the past, even if we won't get to see it.</key>
-		<value>The past is past, now, but that’s... you know, that’s okay! It’s never really gone completely. The future is always built on the past, even if we won't get to see it.</value>
+		<value>Dx past zi` past, nW, bxt Dats... yU nO, Dats kO`qA! ti`s nevR rilE gon kxmplEtlE. Dx fyUcR zi` lo`wAz bilt no` Dx past, vE`n fi` wE wOnt get tU sE ti`.</value>
 	</entry>
 	<entry>
 		<key>FarewellStill, it’s, um, time for something new, now.</key>
-		<value>Still, it’s, um, time for something new, now.</value>
+		<value>stil, ti`s, mx`, tIm fQ sxmTiN nU, nW.</value>
 	</entry>
 	<entry>
 		<key>WaitingForOthersHypothesis: Everyone must be here before we can begin.</key>
-		<value>Hypothesis: Everyone must be here before we can begin.</value>
+		<value>hIpoTxsis: ve`rEwxn mxst bE hJ bifQ wE kan bEgin.</value>
 	</entry>
 	<entry>
 		<key>WaitingForOthersOnce they arrive, I believe we’ll be ready for the next step.</key>
-		<value>Once they arrive, I believe we’ll be ready for the next step.</value>
+		<value>wxns DA rx`vI`, qI bilEv wil bE redE fQ Dx nekst step.</value>
 	</entry>
 	<entry>
 		<key>WaitingForOthersI’m glad you remembered me.</key>
-		<value>I’m glad you remembered me.</value>
+		<value>mI` glad yU rimembRd mE.</value>
 	</entry>
 	<entry>
 		<key>ReadyToPlayA conscious observer has entered the Eye. I wonder what happens now.</key>
-		<value>A conscious observer has entered the Eye. I wonder what happens now.</value>
+		<value>qx konSxs bx`zRvR haz ne`tRd DE qI. qI wxndR wxt hapxnz nW.</value>
 	</entry>
 	<entry>
 		<key>ReadyToPlayIs it time to find out?</key>
-		<value>Is it time to find out?</value>
+		<value>zi` ti` tIm tU fInd tW`?</value>
 	</entry>
 	<entry>
 		<key>SolanumReadyToPlayYes.</key>
-		<value>Yes.</value>
+		<value>yes.</value>
 	</entry>
 	<entry>
 		<key>SolanumReadyToPlayNot yet.</key>
-		<value>Not yet.</value>
+		<value>not yet.</value>
 	</entry>
 	<entry>
 		<key>StartPlayingThis song is new to me, but I am honored to be a part of it.</key>
-		<value>This song is new to me, but I am honored to be a part of it.</value>
+		<value>Dis soN zi` nU tU mE, bxt qI ma` no`dR` tU bE qx pVt vx` ti`.</value>
 	</entry>
 	<entry>
 		<key>NotYetThen I will wait until you are ready to know the answer.</key>
-		<value>Then I will wait until you are ready to know the answer.</value>
+		<value>Den qI wil wAt nx`til yU qV redE tU nO DE na`sR.</value>
 	</entry>
 	<entry>
 		<key>FarewellI believe we’ve reached the end of our journey.</key>
-		<value>I believe we’ve reached the end of our journey.</value>
+		<value>qI bilEv wEv rEct DE ne`d vx` qV jRnE.</value>
 	</entry>
 	<entry>
 		<key>FarewellAll that remains is to collapse the innumerable possibilites before us.</key>
-		<value>All that remains is to collapse the innumerable possibilites before us.</value>
+		<value>lo` Dat rimAnz zi` tU kxlaps DE ni`mU`qRbx`l posibilitEs bifQ sx`.</value>
 	</entry>
 	<entry>
 		<key>FarewellAre you ready to learn what comes next?</key>
-		<value>Are you ready to learn what comes next?</value>
+		<value>qV yU redE tU lRn wxt kxmz nekst?</value>
 	</entry>
 	<entry>
 		<key>SolanumFarewellYes.</key>
-		<value>Yes.</value>
+		<value>yes.</value>
 	</entry>
 	<entry>
 		<key>SolanumFarewellNot yet.</key>
-		<value>Not yet.</value>
+		<value>not yet.</value>
 	</entry>
 	<entry>
 		<key>Farewell2I admire your curiosity, friend. Let’s find out together.</key>
-		<value>I admire your curiosity, friend. Let’s find out together.</value>
+		<value>qI dx`mIqR yQ kyRqEso`ti`qE, frend. lets fInd tW` tugeDR.</value>
 	</entry>
 	<entry>
 		<key>Farewell3It’s tempting to linger in this moment, while every possibility still exists.</key>
-		<value>It’s tempting to linger in this moment, while every possibility still exists.</value>
+		<value>ti`s temptiN tU liNgR ni` Dis mOmxnt, wIl ve`rE posibilitE stil gi`zists.</value>
 	</entry>
 	<entry>
 		<key>Farewell3But unless they are collapsed by an observer, they will never be more than possibilities.</key>
-		<value>But unless they are collapsed by an observer, they will never be more than possibilities.</value>
+		<value>bxt nx`les DA qV kxlapst bI na` bx`zRvR, DA wil nevR bE mQ Dan posibilitEz.</value>
 	</entry>
 	<entry>
 		<key>SignI saw smoke coming from Youngbark Crater up north and figured I should go check it out. You can use the scout launcher, just please don’t break it while I’m gone – Tektite</key>
-		<value>I saw smoke coming from Youngbark Crater up north and figured I should go check it out. You can use the scout launcher, just please don’t break it while I’m gone.\\n\\n– Tektite</value>
+		<value>qI so smOk kxmiN frxm yxNbVk krAtR px` nQT na`d figyRd qI Sud gO cek ti` tW`. yU kan yUz Dx skWt loncR, jxst plEz dOnt brAk ti` wIl mI` gon.\\n\\n– tektIt</value>
 	</entry>
 	<entry>
 		<key>SignBig thanks to these additional founding members of Outer Wilds Ventures, without whom we would never have gotten off the ground:</key>
-		<value>Big thanks to these additional founding members of Outer Wilds Ventures, without whom we would never have gotten off the ground:</value>
+		<value>big TANks tU DEz dx`Si`nx`lx` fWndiN membRz vx` tW`qR wIldz vencRz, wiTWt hUm wE wud nevR hav gotxn fo` Dx grWnd:</value>
 	</entry>
 	<entry>
 		<key>SignMatthew Steinhauer</key>
@@ -10822,7 +10822,7 @@
 	</entry>
 	<entry>
 		<key>&lt;color=red&gt;ERROR: Unknown Language&lt;/color&gt;</key>
-		<value>&lt;color=red&gt;ERROR: Unknown Language&lt;/color&gt;</value>
+		<value>&lt;color=red&gt;qXqR: nx`nOn lANgwij&lt;/color&gt;</value>
 	</entry>
 	<table_shipLog>
 		<TranslationTableEntry>
@@ -10847,7 +10847,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Zero-G CaveI hear Gossan has the zero-g cave set up if I want a refresher before I launch.</key>
-			<value>qI h| gosxn haz Dx zErO-jE kAv set px` fi` qII want qx rEfreSR bEfQ qI lxnc.</value>
+			<value>qI h| gosxn haz Dx zErO-jE kAv set px` fi` qII want qx rEfreSR bEfQ qI lonc.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Zero-G CaveA cave at the very center of Timber Hearth used by Outer Wilds Ventures to train new astronauts.</key>
@@ -10955,7 +10955,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Riebeck’s CampRiebeck reached the Crossroads and continued downward in search of oxygen.</key>
-			<value>rIbek rIct Dx krosrOdz na`d kxntinyUd dWnwRd ni` sRc vx` ko`sijxn.</value>
+			<value>rIbek rEct Dx krosrOdz na`d kxntinyUd dWnwRd ni` sRc vx` ko`sijxn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Riebeck’s CampRiebeck has set up camp at the bottom of the Crossroads. Their excitement at being surrounded by so much Nomai history is matched only by their terror of the black hole.</key>
@@ -11007,7 +11007,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum ShardThe Nomai noticed a strange rock shard that appeared to wander when no one was watching.</key>
-			<value>Dx nOmI nOtist qx strAnj rok SVd Dat px`dJ` tU wondR wen nO wxn wxz waciN.</value>
+			<value>Dx nOmI nOtist qx strAnj rok SVd Dat px`dJ` tU wondR wen nO wxn wxz wociN.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum ShardA strange rock shard that wanders when no one is watching. The Nomai determined this shard is the reason objects in this grove behave in a quantum manner.</key>
@@ -11027,7 +11027,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Northern GlacierThe north pole of Brittle Hollow is covered in snow and ice. There is a uniquely shaped Nomai ruin on the surface.</key>
-			<value>Dx nQT pOl vx` britl holO zi` cxvRd ni` snO na`d sI`. DX zi` qx yUnEklE SApt nOmI rUni` no` Dx sRfxs.</value>
+			<value>Dx nQT pOl vx` britl holO zi` kxvRd ni` snO na`d sI`. DX zi` qx yUnEklE SApt nOmI rUni` no` Dx sRfxs.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Northern GlacierThe Nomai were able to warp here from the White Hole Station. This is where they first recreated warp technology.</key>
@@ -11143,7 +11143,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeThe Black Hole Forge District is the highest district in the Hanging City.</key>
-			<value>Dx blak hOl fQj distrikt zi` Dx hIsi`t district ni` Dx hANiN sitE.</value>
+			<value>Dx blak hOl fQj distrikt zi` Dx hIsi`t distrikt ni` Dx hANiN sitE.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeA Nomai named Poke planned to create a new advanced warp core in the Black Hole Forge.</key>
@@ -11151,7 +11151,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeThe Nomai crafted warp cores at the Black Hole Forge before delivering them to Ash Twin.</key>
-			<value>Dx nOmI kraftid wQp cQz ta` Dx blak hOl fQj bifQ dilivRNi` Dem tU Sa` twin.</value>
+			<value>Dx nOmI kraftid wQp kQz ta` Dx blak hOl fQj bifQ dilivRNi` Dem tU Sa` twin.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeA warp tower's alignment point is not its warp receiver. Rather, a warp tower always aligns with the center of its corresponding astral body.</key>
@@ -11187,7 +11187,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Alignment Angle DiagramThis results in slightly longer warp windows that last roughly several seconds.</key>
-			<value>Dis rizxlts ni` slItlE loNgR wQp windOz Dat last rxflE sevrxl seconds.</value>
+			<value>Dis rizxlts ni` slItlE loNgR wQp windOz Dat last rxflE sevrxl sekints.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Alignment Angle DiagramAnyone stepping onto the warp platform during the active window will be immediately warped.</key>
@@ -11223,7 +11223,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Southern ObservatoryThe Nomai decided to stop searching for the Eye's signal and instead look for it visually by sending out a deep space probe.</key>
-			<value>Dx nOmI dicIdid tU stop sRciN fQ Dx zI` signxl na`d ni`sted luk fQ ti` viZUlx`qE bI sendiN tW` qx dEp spAs prOb.</value>
+			<value>Dx nOmI disIdid tU stop sRciN fQ Dx zI` signxl na`d ni`sted luk fQ ti` viZUlx`qE bI sendiN tW` qx dEp spAs prOb.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Southern ObservatoryThere were concerns that the probability of launching a probe in the correct direction would be absurdly small.</key>
@@ -11455,7 +11455,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking ModuleA Nomai computer reports the Probe Tracking Module as "missing."</key>
-			<value>qx nOmI cxmpyUtR ripQts Dx prOb trakiN mojUl za` "misiN."</value>
+			<value>qx nOmI kxmpyUtR ripQts Dx prOb trakiN mojUl za` "misiN."</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking ModuleI saw the Probe Tracking Module through a Nomai projection pool. It looks like the module is underwater. I could see purple electricity outside the viewport.</key>
@@ -11467,7 +11467,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking ModuleThe 9,318,054th probe located a deep space anomaly matching all known criteria for the Eye of the universe.</key>
-			<value>Dx 9,318,054T prOb lOkAtid qx dEp spAs nx`mo`lx`qE maciN lo` nOn crItJqEqx fQ DE qI vx` Dx yUnivRs.</value>
+			<value>Dx 9,318,054T prOb lOkAtid qx dEp spAs nx`mo`lx`qE maciN lo` nOn krItJqEqx fQ DE qI vx` Dx yUnivRs.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking ModuleThe statue in the Probe Tracking Module automatically records each probe's trajectory and transmits the data to the Ash Twin Project.</key>
@@ -11579,7 +11579,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Cinder IslesA pair of small rocky islands connected by a village of stilt houses.</key>
-			<value>qx pX vx` smol rokE lI`nx`dz cxnektid bI qx vilij vx` stilt hWziz.</value>
+			<value>qx pX vx` smol rokE lI`nx`dz kxnektid bI qx vilij vx` stilt hWziz.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Cinder IslesI found a large metal symbol inside a burned-out building that closely resembles the Nomai symbol for the Eye of the universe.</key>
@@ -11599,7 +11599,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Slide Burning RoomI found a hidden slide reel that shows a container marked with a glowing symbol being handed to a shadowy figure. The lights are extinguished, and the figure carries the container down into a dark well.</key>
-			<value>qI fWnd qx hidxn slId rEl Dat SOz qx cxntAnR mVkt wiT qx glONi` simbxl bENi` handid tU qx SadOqE figyR. Dx lIts qV ki`stiNgwiSt, na`d Dx figyR cXzE` Dx cxntAnR dWn ni`tU qx dVk wel.</value>
+			<value>qI fWnd qx hidxn slId rEl Dat SOz qx kxntAnR mVkt wiT qx glONi` simbxl bENi` handid tU qx SadOqE figyR. Dx lIts qV ki`stiNgwiSt, na`d Dx figyR kXzE` Dx kxntAnR dWn ni`tU qx dVk wel.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Island Tower</key>
@@ -11755,7 +11755,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>ReservoirI found a room with a burned control interface and a projection that seems to indicate a broken connection between the Stranger and another craft.</key>
-			<value>qI fWnd qx rUm wiT qx bRnd cxntrOl ni`tRfAs na`d qx prxjekSxn Dat sEmz tU ni`dikAt qx brOkxn cxnekSxn bitwEn Dx strAnjR na`d nx`Dx`qR kraft.</value>
+			<value>qI fWnd qx rUm wiT qx bRnd kxntrOl ni`tRfAs na`d qx prxjekSxn Dat sEmz tU ni`dikAt qx brOkxn kxnekSxn bitwEn Dx strAnjR na`d nx`Dx`qR kraft.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>ReservoirI found a projection showing the Stranger's current trajectory and the sun's predicted supernova radius.</key>
@@ -11903,7 +11903,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveI found a hidden slide reel that shows a container marked with a glowing symbol being handed to a shadowy figure. The figure follows a procession of lights through a forest to a candlelit building, where they carry the container into a secret passage behind a roaring fireplace.</key>
-			<value>qI fWnd qx hidxn slId rEl Dat SOz qx cxntAnR mVkt wiT qx glONi` simbxl bENi` handid tU qx SadOqE figyR. Dx figyR folOz qx prxseSxn qx lIts TrU qx fQsi`t Tu qx kandllit bildNi`, WX DA kXqE Dx kxntAnR ni`tU qx sEkrit pasij bihInd qx rQNi` fIpR`lAs.</value>
+			<value>qI fWnd qx hidxn slId rEl Dat SOz qx kxntAnR mVkt wiT qx glONi` simbxl bENi` handid tU qx SadOqE figyR. Dx figyR folOz qx prxseSxn qx lIts TrU qx fQsi`t Tu qx kandllit bildNi`, WX DA kXqE Dx kxntAnR ni`tU qx sEkrit pasij bihInd qx rQNi` fIpR`lAs.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveA library full of intact slide reels hidden deep underground.</key>
@@ -11959,7 +11959,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveThe reel I found in the slide burning room shows a container marked with a glowing symbol being handed to a shadowy figure. The lights are extinguished, and the figure carries the container down into a dark well.</key>
-			<value>Dx rEl qI fWnd ni` Dx slId bRniN rUm SOz qx cxntAnR mVkt wiT qx glOiN simbxl bENi` handid tU qx SadOqE figyR. Dx lIts qV ki`stENgwiSt, na`d Dx figyR kXzE` Dx cxntAnR dWn ni`tU qx dVk wel.</value>
+			<value>Dx rEl qI fWnd ni` Dx slId bRniN rUm SOz qx kxntAnR mVkt wiT qx glOiN simbxl bENi` handid tU qx SadOqE figyR. Dx lIts qV ki`stENgwiSt, na`d Dx figyR kXzE` Dx kxntAnR dWn ni`tU qx dVk wel.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveI found a slide reel that shows the Stranger's inhabitants analyzing an anomaly that closely resembles the Nomai symbol for the Eye of the universe.</key>
@@ -11971,7 +11971,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveIntact slides reveal the construction and launch of a spacecraft designed to block the Eye's signal.</key>
-			<value>ni`takt slIdz rivEl Dx cxnstrxkSxn na`d lonc vx` qx spAskraft dizInd tU blok DE zI` signxl.</value>
+			<value>ni`takt slIdz rivEl Dx kxnstrxkSxn na`d lonc vx` qx spAskraft dizInd tU blok DE zI` signxl.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveI found a slide reel that shows two artifacts being lit near a green fire. The first artifact lights after its bearer falls asleep, and the second artifact lights after its bearer dies.</key>
@@ -11991,7 +11991,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Endless CanyonA massive canyon that stretches into the distance. A candlelit lodge is built into the far cliff face.</key>
-			<value>qx masiv kanyxn Dat streciz ni`tU Dx distxns. qx candllit loj zi` bilt ni`tU Dx fV klif fAs.</value>
+			<value>qx masiv kanyxn Dat streciz ni`tU Dx distxns. qx kandllit loj zi` bilt ni`tU Dx fV klif fAs.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Endless CanyonI found a mural of a large tree on the bottom floor of the lodge.</key>
@@ -12331,7 +12331,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ocean DepthsThe ocean is surprisingly calm beneath the current. Some sort of electrical field surrounds the planet's core.</key>
-			<value>DE SO`ni` zi` suprIziNlE kalm binET Dx cRni`t. sxm sQt vx` li`ke`trikxl fEld sRnW`dz Dx planits kQ.</value>
+			<value>DE SO`ni` zi` suprIziNlE kalm binET Dx kRni`t. sxm sQt vx` li`ke`trikxl fEld sRnW`dz Dx planits kQ.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ocean DepthsI passed through the electric barrier and reached the coral forest at the planet's core.</key>
@@ -12439,7 +12439,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue WorkshopEach storage unit inside the Ash Twin Project was equipped with a mask (the statue’s counterpart), which could then send those stored memories back to the corresponding user.</key>
-			<value>cE` stQji` yUnit ni`sId DE Sa` twin projekt wxz ki`wipt wiT qx mask (Dx stacUz kWntRpVt), wic kud Den send DOz stQd memQzE` bak tU Dx cQsx`pondiN yUzR.</value>
+			<value>cE` stQji` yUnit ni`sId DE Sa` twin projekt wxz ki`wipt wiT qx mask (Dx stacUz kWntRpVt), wic kud Den send DOz stQd memQzE` bak tU Dx kQsx`pondiN yUzR.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue WorkshopThe statues were designed to only activate once the Ash Twin Project succeeded, or in the event that it failed.</key>
@@ -12755,7 +12755,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>White Hole StationThis negative time interval between an object arriving and departing was incredibly miniscule (roughly one hundred-thousandth of a second). The Nomai were skeptical if their equipment could even measure time to such a small degree.</key>
-			<value>Dis negxtiv tIm ni`tRvxl bitwEn nx` bo`jekt rx`vI`Ni` na`d dipVtiN wxz ni`krediblE miniskyUl (rxflE wxn hxndrid- TWzxnT vx` qx sekint). Dx nOmI wX skepticxl fi` DX ki`wipmxnt kud vE`nx` meZR tIm tU sxc qx smol digrE.</value>
+			<value>Dis negxtiv tIm ni`tRvxl bitwEn nx` bo`jekt rx`vI`Ni` na`d dipVtiN wxz ni`krediblE miniskyUl (rxflE wxn hxndrid- TWzxnT vx` qx sekint). Dx nOmI wX skeptikxl fi` DX ki`wipmxnt kud vE`nx` meZR tIm tU sxc qx smol digrE.</value>
 		</TranslationTableEntry>
 	</table_shipLog>
 	<table_ui>
@@ -12985,7 +12985,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>157</key>
-			<value>discVd</value>
+			<value>diskVd</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>160</key>
@@ -13365,7 +13365,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>282</key>
-			<value>lIt campfIqR</value>
+			<value>lIt kampfIqR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>283</key>
@@ -13513,7 +13513,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>324</key>
-			<value>wQp cQ</value>
+			<value>wQp kQ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>330</key>
@@ -14537,7 +14537,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>914</key>
-			<value>dificltE mOdz</value>
+			<value>difikltE mOdz</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>915</key>
@@ -15161,7 +15161,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1123</key>
-			<value>diDRNi` mi`prUvz cxlR blendiN, bxt mA mAk kxmprest vidEqO vx` Dx gAm luk wRs.\\nrendRNi` kost: nxn</value>
+			<value>diDRNi` mi`prUvz kxlR blendiN, bxt mA mAk kxmprest vidEqO vx` Dx gAm luk wRs.\\nrendRNi` kost: nxn</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1124</key>
@@ -15205,19 +15205,19 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1134</key>
-			<value>cAnj Dx rivEl spEd vx` tekst dRNE` convRsASxn.</value>
+			<value>cAnj Dx rivEl spEd vx` tekst dRNE` konvRsASxn.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1135</key>
-			<value>frEziz tIm wIl rEdiN tranzlAtid tekst (translAtR mxst rimAn stASxnXqE).\\nnOt: DX qV sRtn pJqEdx`z wen tIm canot bE frOzxn.</value>
+			<value>frEziz tIm wIl rEdiN tranzlAtid tekst (translAtR mxst rimAn stASxnXqE).\\nnOt: DX qV sRtn pJqEdx`z wen tIm kanot bE frOzxn.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1136</key>
-			<value>frEziz tIm wIl yUziN Dx Sip log.\\nnOt: DX qV sRtin pJqEdx`z wen tIm canot bE frOzxn.</value>
+			<value>frEziz tIm wIl yUziN Dx Sip log.\\nnOt: DX qV sRtin pJqEdx`z wen tIm kanot bE frOzxn.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1137</key>
-			<value>frEziz tIm Wil tokiN tU kXki`tRz na`d rEdiN jRnlz qQ sInz. Dis wil privent kXki`tR na`mi`SA`nx`z frxm plANi` dRNi` convRsASxn.\\nnOt: DX qV sRtin pJqEdx`z wen tIm canot bE frOzxn.</value>
+			<value>frEziz tIm Wil tokiN tU kXki`tRz na`d rEdiN jRnlz qQ sInz. Dis wil privent kXki`tR na`mi`SA`nx`z frxm plANi` dRNi` konvRsASxn.\\nnOt: DX qV sRtin pJqEdx`z wen tIm kanot bE frOzxn.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1138</key>
@@ -15229,7 +15229,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1140</key>
-			<value>ne`bA`lz cxntrOlR vIbrASxn (cxntrOlR nO`lE).</value>
+			<value>ne`bA`lz kxntrOlR vIbrASxn (kxntrOlR nO`lE).</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1141</key>
@@ -15241,7 +15241,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1143</key>
-			<value>ditRminz hW fV (frxm sentR) Dx left/rIt stik mxst bE tiltid bifQ ne`qE ni`put zi` ditektid.\\nkxnsidR ni`krEsiN Dis ded zOn fi` yQ kXki`tR mUvz qQ luks rx`nW`d wen yR not txcEN Dx left/rIt stik.</value>
+			<value>ditRminz hW fV (frxm sentR) Dx left/rIt stik mxst bE tiltid bifQ ne`qE ni`put zi` ditektid.\\nkxnsidR ni`krEsiN Dis ded zOn fi` yQ kXki`tR mUvz qQ luks rx`nW`d wen yR not txciN Dx left/rIt stik.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1144</key>
@@ -15269,7 +15269,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1154</key>
-			<value>selekts Dx cxntrOlR Dat Dx gAm wil yUz.</value>
+			<value>selekts Dx kxntrOlR Dat Dx gAm wil yUz.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1155</key>
@@ -15657,7 +15657,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1336</key>
-			<value>cxnvRt kEz frxm </value>
+			<value>kxnvRt kEz frxm </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1337</key>
@@ -15725,11 +15725,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1413</key>
-			<value>Dx frItxnEn sa`pekts vx` ke`zO` vx` DE qI qV pVt vx` DE ni`tendid ki`spJqEnx`s. fi` DA bEkxm na` bo`stxcl tU yQ ni`jYmxnt vx` tW`qR wIldz, ni`bA`liN Dis po`Sxn wil ridUs sxm vx` DOz sa`pekts.\\nqV yU SR?</value>
+			<value>Dx frItxnEn sa`pekts vx` ke`zO` vx` DE qI qV pVt vx` DE ni`tendid ki`spJqEnx`s. fi` DA bEkxm na` bo`stxkl tU yQ ni`jYmxnt vx` tW`qR wIldz, ni`bA`liN Dis po`Sxn wil ridUs sxm vx` DOz sa`pekts.\\nqV yU SR?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1414</key>
-			<value>Dx frItxnEn sa`pekts vx` tW`qR wIldz qV pVt vx` DE ni`tendid ki`spJqEnx`s. fi` DA bEkxm na` bo`stxcl tU yQ ni`jYmxnt vx` Dx gAm, ni`bA`liN Dis po`Sxn wil ridUs sxm vx` DOz sa`pekts.\\nqV yU SR?</value>
+			<value>Dx frItxnEn sa`pekts vx` tW`qR wIldz qV pVt vx` DE ni`tendid ki`spJqEnx`s. fi` DA bEkxm na` bo`stxkl tU yQ ni`jYmxnt vx` Dx gAm, ni`bA`liN Dis po`Sxn wil ridUs sxm vx` DOz sa`pekts.\\nqV yU SR?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1420</key>
@@ -15801,7 +15801,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1452</key>
-			<value>sRtn pVts vx` ke`zO` vx` DE qI can bE ni`tens fQ sxm plAzR`. fi` DA bEcxm na` bo`stxcl tU yQ ni`jYmxnt vx` tW`qR wIldz, qx "ridUst frIts" po`Sin zi` vx`lA`bx`l ni` Dx gAmplA menyU.</value>
+			<value>sRtn pVts vx` ke`zO` vx` DE qI kan bE ni`tens fQ sxm plAzR`. fi` DA bEkxm na` bo`stxkl tU yQ ni`jYmxnt vx` tW`qR wIldz, qx "ridUst frIts" po`Sin zi` vx`lA`bx`l ni` Dx gAmplA menyU.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1453</key>
@@ -15881,11 +15881,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1522</key>
-			<value>) cxntAnz mAjR px`dAts tU DE ni`put sistm.  za` qx rizxlt, lo` ni`put bIndiNz hav ben rEset tU dEfolts. wE px`lo`ji`zI` fQ DE ni`kxnvEnyxns!</value>
+			<value>) kxntAnz mAjR px`dAts tU DE ni`put sistm.  za` qx rizxlt, lo` ni`put bIndiNz hav ben rEset tU dEfolts. wE px`lo`ji`zI` fQ DE ni`kxnvEnyxns!</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1523</key>
-			<value>pac 8 cxntAnz mAjR px`dAts tU DE ni`put sistm.  za` qx rizult, lo` ni`put bIndiNz hav ben rEset tU dEfolts. wE px`lo`ji`zI` fQ DE ni`kxnvEnyxns!</value>
+			<value>pac 8 kxntAnz mAjR px`dAts tU DE ni`put sistm.  za` qx rizult, lo` ni`put bIndiNz hav ben rEset tU dEfolts. wE px`lo`ji`zI` fQ DE ni`kxnvEnyxns!</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1530</key>
