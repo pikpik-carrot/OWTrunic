@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 751948037
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: trunic_lite
+      Dependencies: {}
