@@ -27,6 +27,24 @@
   <ItemGroup>
     <Content Include="OWTrunic.csproj.user" />
   </ItemGroup>
+	<ItemGroup>
+		<Content Include="Assets\Assets.manifest" />
+	</ItemGroup>
+	<ItemGroup>
+		<Content Include="Assets\Assets" />
+	</ItemGroup>
+	<ItemGroup>
+		<Content Include="Assets\Assets.manifest" />
+	</ItemGroup>
+	<ItemGroup>
+		<Content Include="Assets\Translation.xml" />
+	</ItemGroup>
+	<ItemGroup>
+		<Content Include="Assets\trunic_lite" />
+	</ItemGroup>
+	<ItemGroup>
+		<Content Include="Assets\trunic_lite.manifest" />
+	</ItemGroup>
   <ItemGroup>
     <None Update="Assets\Assets">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>

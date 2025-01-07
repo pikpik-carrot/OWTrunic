@@ -1,7 +1,7 @@
 Names:
 
 Annona: nx`nO`qx
-Arkose: k@`sO`
+Arkose: kV`sO`
 Avens: vA`ni`z
 Bells: belz
 Bromi: brOmE
@@ -9,7 +9,7 @@ Bur: bR
 Canna: kanx
 Cassava: kxsovx
 Chert: cRt
-Clary: kl#qE
+Clary: klXqE
 Clem: klem
 Coleus: kOlEsx`
 Conoy: kxnY
@@ -18,7 +18,7 @@ Daz: daz
 Din: din
 Escall: se`kl
 Esker: se`kR
-Feldspar: feldsp@
+Feldspar: feldspV
 Filix: fEliks
 Gabbro: gabrO
 Galena: gxlEnx
@@ -26,7 +26,7 @@ Gneiss: nIs
 Gossan: gosxn
 Hal: hal
 Hachling: hacliN
-Hornfels: h*nfelz
+Hornfels: hQnfelz
 Hyssop: hisop
 Idaea: di`qAqx
 Ilex: lE`ki`s
@@ -34,17 +34,17 @@ Kousa: kUsx
 Laevi: lavE
 Lami: lAmE
 Mallow: malO
-Marl: m@l
-Melorae: mil*qA
+Marl: mVl
+Melorae: milQqA
 Mica: mIkx
 Mitis: mItis
-Moraine: m*nA`
+Moraine: mQnA`
 Neem: nEm
 Oeno: qOne`qO
 Phlox: floks
 Plume: plUm
 Poke: pOk
-Porphy: p*fE
+Porphy: pQfE
 Privet: privit
 Pye: pI
 Ramie: rAmE
@@ -63,7 +63,7 @@ Tektite: tektIt
 Tephra: tefrx
 Thatch: Tac
 Tuff: txf
-Yarrow: y#qO
+Yarrow: yXqO
 
 Locations:
 
@@ -72,27 +72,27 @@ Sun Station: sxn stASxn
 Ash Twin: Sa` twin
 Ember Twin: me`bR twin
 Hourglass Twins: qWgR`las twinz
-Timber Hearth: timbR h@T
+Timber Hearth: timbR hVT
 The Attlerock: DE ta`lrok
 Brittle Hollow: britl holO
 Hollow's Lantern: holOz lantRn
 Giants Deep: jInx`ts dEp
-Dark Bramble: d@k brambl
+Dark Bramble: dVk brambl
 The Interloper: DE ni`tRlOpR
 White Holw: wIt hOl
 Quatum Moon: kwontxm mUn
 The Eye of the Universe: DE qI vx` Dx yUnivRs
 Escape Pod: si`kAp pod
-Orbital Probe Cannon: b*`ti`l prOb kanxn
+Orbital Probe Cannon: bQ`ti`l prOb kanxn
 Control Module: kxntrOl mojUl
 Lauch Module: lonc mojUl
 Probe Tracking Modual: prOb trakiN mojUl
 
 Common Words:
 Nomai: nOmI
-Hearthians?: h@TEni`z
+Hearthians: hVTEni`z
 The Stranger's inhabitants: Dx strAnjRz ni`habitxnts
 Anglerfish: NA`glRfiS
 Jellyfish: jelEfiS
 cancel: kansl
-advanced warp core: dx`vanst w*p k*
+advanced warp core: dx`vanst wQp kQ
