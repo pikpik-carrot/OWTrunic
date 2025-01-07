@@ -4,7 +4,7 @@
   "author": "pikpik_carrot & EndgameZero",
   "name": "Trunic Localization",
   "uniqueName": "pikpik_carrot.OWTrunic",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "owmlVersion": "2.9.6",
   "dependencies": [
     "xen.LocalizationUtility"
